@@ -35,3 +35,18 @@ This command is simply running the build jar file.
 Application can be configured profile wise.
 dev profile has a different configuration than prod profile.
 
+
+Deployment
+--
+
+The service is temporarily deployed on Heroku Cloud for exploration purpose.
+Find below the deployment url.
+
+```
+https://boiling-garden-56428.herokuapp.com
+```
+
+Security
+--
+To access the api's client would need to pass `x-client-api-key` header.
+This header is configurable via application properties or environment variable.
