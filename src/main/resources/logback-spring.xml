@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- uncomment this line if we want to use spring book default logback configuration
+        currently we don't want to use default configuration and indeed specified custom configuration
+        NOTE: If below line is uncommented than logs will be duplicated
+        Instead we imported defaults.xml and specified our own appender -->
+    <!-- <include resource="org/springframework/boot/logging/logback/base.xml"/> -->
+
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+
+    <!-- spring production logger, disable console logger only file logger -->
+    <springProfile name="prod">
+        <!-- configuration to be enabled when the "prod" profile is active -->
+        <!-- we can add different appender here like TCP socket appender here to push to ELK or some log aggregator service like splunk -->
+        <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender" additivity="false">
+            <file>/var/log/mmt/planner.log</file>
+            <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+                <!-- daily rollover. Make sure the path matches the one in the file element or else
+                 the rollover logs are placed in the working directory. -->
+                <fileNamePattern>/var/log/mmt/planner_%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+
+                <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                    <maxFileSize>5MB</maxFileSize>
+                </timeBasedFileNamingAndTriggeringPolicy>
+                <!-- keep 7 days' worth of history -->
+                <maxHistory>7</maxHistory>
+            </rollingPolicy>
+
+            <encoder>
+                <charset>UTF-8</charset>
+                <Pattern>${CONSOLE_LOG_PATTERN}</Pattern>
+            </encoder>
+        </appender>
+
+        <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender" additivity="false">
+            <encoder>
+                <charset>UTF-8</charset>
+                <Pattern>${CONSOLE_LOG_PATTERN}</Pattern>
+            </encoder>
+        </appender>
+
+        <root level="INFO">
+            <appender-ref ref="FILE"/>
+            <appender-ref ref="STDOUT"/>
+        </root>
+    </springProfile>
+
+    <springProfile name="local">
+        <!-- configuration to be enabled when the "local" profile is active -->
+        <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender" additivity="false">
+            <encoder>
+                <charset>UTF-8</charset>
+                <Pattern>${CONSOLE_LOG_PATTERN}</Pattern>
+            </encoder>
+        </appender>
+
+        <root name="ROOT" level="INFO">
+            <appender-ref ref="STDOUT"/>
+        </root>
+
+    </springProfile>
+</configuration>

@@ -1,0 +1,10222 @@
+[
+  {
+    "code": 502,
+    "from": "AJL",
+    "to": "CCU",
+    "departure": "1500",
+    "arrival": "1610"
+  },
+  {
+    "code": 459,
+    "from": "AJL",
+    "to": "GAU",
+    "departure": "1130",
+    "arrival": "1235"
+  },
+  {
+    "code": 314,
+    "from": "AMD",
+    "to": "BBI",
+    "departure": "1800",
+    "arrival": "2025"
+  },
+  {
+    "code": 436,
+    "from": "AMD",
+    "to": "BLR",
+    "departure": "905",
+    "arrival": "1100"
+  },
+  {
+    "code": 6257,
+    "from": "AMD",
+    "to": "BLR",
+    "departure": "1100",
+    "arrival": "1320"
+  },
+  {
+    "code": 6992,
+    "from": "AMD",
+    "to": "BLR",
+    "departure": "1250",
+    "arrival": "1445"
+  },
+  {
+    "code": 157,
+    "from": "AMD",
+    "to": "BLR",
+    "departure": "2000",
+    "arrival": "2240"
+  },
+  {
+    "code": 876,
+    "from": "AMD",
+    "to": "BOM",
+    "departure": "715",
+    "arrival": "840"
+  },
+  {
+    "code": 5363,
+    "from": "AMD",
+    "to": "BOM",
+    "departure": "1000",
+    "arrival": "1120"
+  },
+  {
+    "code": 6343,
+    "from": "AMD",
+    "to": "BOM",
+    "departure": "1315",
+    "arrival": "1440"
+  },
+  {
+    "code": 313,
+    "from": "AMD",
+    "to": "BOM",
+    "departure": "2200",
+    "arrival": "2325"
+  },
+  {
+    "code": 207,
+    "from": "AMD",
+    "to": "CCU",
+    "departure": "910",
+    "arrival": "1130"
+  },
+  {
+    "code": 6135,
+    "from": "AMD",
+    "to": "CCU",
+    "departure": "1615",
+    "arrival": "1855"
+  },
+  {
+    "code": 6992,
+    "from": "AMD",
+    "to": "CJB",
+    "departure": "1250",
+    "arrival": "1650"
+  },
+  {
+    "code": 895,
+    "from": "AMD",
+    "to": "COK",
+    "departure": "645",
+    "arrival": "905"
+  },
+  {
+    "code": 6115,
+    "from": "AMD",
+    "to": "DED",
+    "departure": "940",
+    "arrival": "1130"
+  },
+  {
+    "code": 2013,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "510",
+    "arrival": "650"
+  },
+  {
+    "code": 554,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "705",
+    "arrival": "845"
+  },
+  {
+    "code": 2258,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "920",
+    "arrival": "1040"
+  },
+  {
+    "code": 2045,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "1145",
+    "arrival": "1340"
+  },
+  {
+    "code": 2615,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "1835",
+    "arrival": "2015"
+  },
+  {
+    "code": 267,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "2110",
+    "arrival": "2250"
+  },
+  {
+    "code": 501,
+    "from": "AMD",
+    "to": "DEL",
+    "departure": "2315",
+    "arrival": "55"
+  },
+  {
+    "code": 161,
+    "from": "AMD",
+    "to": "GOI",
+    "departure": "1820",
+    "arrival": "2010"
+  },
+  {
+    "code": 5941,
+    "from": "AMD",
+    "to": "HBX",
+    "departure": "1515",
+    "arrival": "1700"
+  },
+  {
+    "code": 645,
+    "from": "AMD",
+    "to": "HYD",
+    "departure": "545",
+    "arrival": "735"
+  },
+  {
+    "code": 383,
+    "from": "AMD",
+    "to": "HYD",
+    "departure": "1540",
+    "arrival": "1725"
+  },
+  {
+    "code": 6132,
+    "from": "AMD",
+    "to": "HYD",
+    "departure": "1925",
+    "arrival": "2135"
+  },
+  {
+    "code": 371,
+    "from": "AMD",
+    "to": "HYD",
+    "departure": "2130",
+    "arrival": "2335"
+  },
+  {
+    "code": 7296,
+    "from": "AMD",
+    "to": "IDR",
+    "departure": "1440",
+    "arrival": "1545"
+  },
+  {
+    "code": 226,
+    "from": "AMD",
+    "to": "IXB",
+    "departure": "840",
+    "arrival": "1115"
+  },
+  {
+    "code": 6177,
+    "from": "AMD",
+    "to": "IXC",
+    "departure": "810",
+    "arrival": "945"
+  },
+  {
+    "code": 6177,
+    "from": "AMD",
+    "to": "IXC",
+    "departure": "810",
+    "arrival": "1000"
+  },
+  {
+    "code": 554,
+    "from": "AMD",
+    "to": "IXJ",
+    "departure": "705",
+    "arrival": "1100"
+  },
+  {
+    "code": 917,
+    "from": "AMD",
+    "to": "JAI",
+    "departure": "1140",
+    "arrival": "1300"
+  },
+  {
+    "code": 1753,
+    "from": "AMD",
+    "to": "KWI",
+    "departure": "730",
+    "arrival": "940"
+  },
+  {
+    "code": 572,
+    "from": "AMD",
+    "to": "LKO",
+    "departure": "805",
+    "arrival": "1015"
+  },
+  {
+    "code": 806,
+    "from": "AMD",
+    "to": "LKO",
+    "departure": "1300",
+    "arrival": "1450"
+  },
+  {
+    "code": 122,
+    "from": "AMD",
+    "to": "LKO",
+    "departure": "1720",
+    "arrival": "1910"
+  },
+  {
+    "code": 198,
+    "from": "AMD",
+    "to": "MAA",
+    "departure": "930",
+    "arrival": "1200"
+  },
+  {
+    "code": 534,
+    "from": "AMD",
+    "to": "MAA",
+    "departure": "1935",
+    "arrival": "2155"
+  },
+  {
+    "code": 158,
+    "from": "AMD",
+    "to": "NAG",
+    "departure": "625",
+    "arrival": "745"
+  },
+  {
+    "code": 6851,
+    "from": "AMD",
+    "to": "PAT",
+    "departure": "1510",
+    "arrival": "1720"
+  },
+  {
+    "code": 918,
+    "from": "AMD",
+    "to": "PNQ",
+    "departure": "1525",
+    "arrival": "1640"
+  },
+  {
+    "code": 7296,
+    "from": "AMD",
+    "to": "RPR",
+    "departure": "1440",
+    "arrival": "1800"
+  },
+  {
+    "code": 6177,
+    "from": "AMD",
+    "to": "SXR",
+    "departure": "810",
+    "arrival": "1150"
+  },
+  {
+    "code": 645,
+    "from": "AMD",
+    "to": "TRV",
+    "departure": "545",
+    "arrival": "1015"
+  },
+  {
+    "code": 6174,
+    "from": "AMD",
+    "to": "VNS",
+    "departure": "1130",
+    "arrival": "1320"
+  },
+  {
+    "code": 6845,
+    "from": "ATQ",
+    "to": "BLR",
+    "departure": "1110",
+    "arrival": "1415"
+  },
+  {
+    "code": 6261,
+    "from": "ATQ",
+    "to": "BOM",
+    "departure": "1010",
+    "arrival": "1245"
+  },
+  {
+    "code": 5926,
+    "from": "ATQ",
+    "to": "CCU",
+    "departure": "940",
+    "arrival": "1215"
+  },
+  {
+    "code": 2057,
+    "from": "ATQ",
+    "to": "DEL",
+    "departure": "1050",
+    "arrival": "1205"
+  },
+  {
+    "code": 152,
+    "from": "ATQ",
+    "to": "DEL",
+    "departure": "1545",
+    "arrival": "1645"
+  },
+  {
+    "code": 286,
+    "from": "ATQ",
+    "to": "DEL",
+    "departure": "1545",
+    "arrival": "1645"
+  },
+  {
+    "code": 3274,
+    "from": "ATQ",
+    "to": "DEL",
+    "departure": "1615",
+    "arrival": "1730"
+  },
+  {
+    "code": 2167,
+    "from": "ATQ",
+    "to": "DEL",
+    "departure": "2200",
+    "arrival": "2315"
+  },
+  {
+    "code": 286,
+    "from": "ATQ",
+    "to": "PNQ",
+    "departure": "1545",
+    "arrival": "1935"
+  },
+  {
+    "code": 8449,
+    "from": "ATQ",
+    "to": "SHJ",
+    "departure": "2335",
+    "arrival": "200"
+  },
+  {
+    "code": 1834,
+    "from": "AUH",
+    "to": "BOM",
+    "departure": "2355",
+    "arrival": "420"
+  },
+  {
+    "code": 1836,
+    "from": "AUH",
+    "to": "DEL",
+    "departure": "930",
+    "arrival": "1425"
+  },
+  {
+    "code": 318,
+    "from": "BBI",
+    "to": "AMD",
+    "departure": "605",
+    "arrival": "845"
+  },
+  {
+    "code": 334,
+    "from": "BBI",
+    "to": "BLR",
+    "departure": "645",
+    "arrival": "910"
+  },
+  {
+    "code": 537,
+    "from": "BBI",
+    "to": "BLR",
+    "departure": "905",
+    "arrival": "1055"
+  },
+  {
+    "code": 6892,
+    "from": "BBI",
+    "to": "BLR",
+    "departure": "1300",
+    "arrival": "1510"
+  },
+  {
+    "code": 6869,
+    "from": "BBI",
+    "to": "BLR",
+    "departure": "2110",
+    "arrival": "2325"
+  },
+  {
+    "code": 6849,
+    "from": "BBI",
+    "to": "BOM",
+    "departure": "930",
+    "arrival": "1220"
+  },
+  {
+    "code": 6849,
+    "from": "BBI",
+    "to": "BOM",
+    "departure": "1005",
+    "arrival": "1240"
+  },
+  {
+    "code": 6375,
+    "from": "BBI",
+    "to": "BOM",
+    "departure": "1700",
+    "arrival": "1935"
+  },
+  {
+    "code": 6572,
+    "from": "BBI",
+    "to": "CCU",
+    "departure": "615",
+    "arrival": "735"
+  },
+  {
+    "code": 458,
+    "from": "BBI",
+    "to": "CCU",
+    "departure": "1400",
+    "arrival": "1515"
+  },
+  {
+    "code": 809,
+    "from": "BBI",
+    "to": "CCU",
+    "departure": "2050",
+    "arrival": "2200"
+  },
+  {
+    "code": 948,
+    "from": "BBI",
+    "to": "COK",
+    "departure": "900",
+    "arrival": "1250"
+  },
+  {
+    "code": 2161,
+    "from": "BBI",
+    "to": "DEL",
+    "departure": "700",
+    "arrival": "945"
+  },
+  {
+    "code": 2161,
+    "from": "BBI",
+    "to": "DEL",
+    "departure": "715",
+    "arrival": "945"
+  },
+  {
+    "code": 2256,
+    "from": "BBI",
+    "to": "DEL",
+    "departure": "1140",
+    "arrival": "1410"
+  },
+  {
+    "code": 2405,
+    "from": "BBI",
+    "to": "DEL",
+    "departure": "1835",
+    "arrival": "2105"
+  },
+  {
+    "code": 342,
+    "from": "BBI",
+    "to": "HYD",
+    "departure": "840",
+    "arrival": "1020"
+  },
+  {
+    "code": 309,
+    "from": "BBI",
+    "to": "HYD",
+    "departure": "1600",
+    "arrival": "1750"
+  },
+  {
+    "code": 117,
+    "from": "BBI",
+    "to": "HYD",
+    "departure": "2120",
+    "arrival": "2310"
+  },
+  {
+    "code": 948,
+    "from": "BBI",
+    "to": "MAA",
+    "departure": "900",
+    "arrival": "1050"
+  },
+  {
+    "code": 209,
+    "from": "BBI",
+    "to": "MAA",
+    "departure": "1810",
+    "arrival": "2010"
+  },
+  {
+    "code": 6505,
+    "from": "BDQ",
+    "to": "BLR",
+    "departure": "1140",
+    "arrival": "1530"
+  },
+  {
+    "code": 808,
+    "from": "BDQ",
+    "to": "BLR",
+    "departure": "1245",
+    "arrival": "1445"
+  },
+  {
+    "code": 6112,
+    "from": "BDQ",
+    "to": "BOM",
+    "departure": "700",
+    "arrival": "805"
+  },
+  {
+    "code": 6367,
+    "from": "BDQ",
+    "to": "DEL",
+    "departure": "815",
+    "arrival": "935"
+  },
+  {
+    "code": 2512,
+    "from": "BDQ",
+    "to": "DEL",
+    "departure": "1320",
+    "arrival": "1445"
+  },
+  {
+    "code": 6505,
+    "from": "BDQ",
+    "to": "HYD",
+    "departure": "1140",
+    "arrival": "1320"
+  },
+  {
+    "code": 538,
+    "from": "BHO",
+    "to": "BLR",
+    "departure": "1300",
+    "arrival": "1455"
+  },
+  {
+    "code": 543,
+    "from": "BHO",
+    "to": "BLR",
+    "departure": "1930",
+    "arrival": "2135"
+  },
+  {
+    "code": 661,
+    "from": "BHO",
+    "to": "BOM",
+    "departure": "1150",
+    "arrival": "1335"
+  },
+  {
+    "code": 109,
+    "from": "BHO",
+    "to": "BOM",
+    "departure": "1730",
+    "arrival": "1915"
+  },
+  {
+    "code": 2062,
+    "from": "BHO",
+    "to": "DEL",
+    "departure": "910",
+    "arrival": "1035"
+  },
+  {
+    "code": 2062,
+    "from": "BHO",
+    "to": "DEL",
+    "departure": "1005",
+    "arrival": "1130"
+  },
+  {
+    "code": 2052,
+    "from": "BHO",
+    "to": "DEL",
+    "departure": "1600",
+    "arrival": "1725"
+  },
+  {
+    "code": 2294,
+    "from": "BHO",
+    "to": "DEL",
+    "departure": "2025",
+    "arrival": "2150"
+  },
+  {
+    "code": 7122,
+    "from": "BHO",
+    "to": "HYD",
+    "departure": "1420",
+    "arrival": "1645"
+  },
+  {
+    "code": 543,
+    "from": "BHO",
+    "to": "MAA",
+    "departure": "1930",
+    "arrival": "2335"
+  },
+  {
+    "code": 78,
+    "from": "BKK",
+    "to": "CCU",
+    "departure": "205",
+    "arrival": "320"
+  },
+  {
+    "code": 86,
+    "from": "BKK",
+    "to": "DEL",
+    "departure": "1730",
+    "arrival": "2035"
+  },
+  {
+    "code": 586,
+    "from": "BLR",
+    "to": "AMD",
+    "departure": "600",
+    "arrival": "810"
+  },
+  {
+    "code": 6255,
+    "from": "BLR",
+    "to": "AMD",
+    "departure": "810",
+    "arrival": "1020"
+  },
+  {
+    "code": 156,
+    "from": "BLR",
+    "to": "AMD",
+    "departure": "1700",
+    "arrival": "1920"
+  },
+  {
+    "code": 992,
+    "from": "BLR",
+    "to": "AMD",
+    "departure": "1950",
+    "arrival": "2205"
+  },
+  {
+    "code": 6844,
+    "from": "BLR",
+    "to": "ATQ",
+    "departure": "700",
+    "arrival": "1035"
+  },
+  {
+    "code": 539,
+    "from": "BLR",
+    "to": "BBI",
+    "departure": "635",
+    "arrival": "835"
+  },
+  {
+    "code": 6891,
+    "from": "BLR",
+    "to": "BBI",
+    "departure": "1015",
+    "arrival": "1205"
+  },
+  {
+    "code": 6891,
+    "from": "BLR",
+    "to": "BBI",
+    "departure": "1015",
+    "arrival": "1210"
+  },
+  {
+    "code": 453,
+    "from": "BLR",
+    "to": "BBI",
+    "departure": "1640",
+    "arrival": "1845"
+  },
+  {
+    "code": 427,
+    "from": "BLR",
+    "to": "BBI",
+    "departure": "1830",
+    "arrival": "2035"
+  },
+  {
+    "code": 6186,
+    "from": "BLR",
+    "to": "BDQ",
+    "departure": "720",
+    "arrival": "1110"
+  },
+  {
+    "code": 747,
+    "from": "BLR",
+    "to": "BDQ",
+    "departure": "955",
+    "arrival": "1200"
+  },
+  {
+    "code": 211,
+    "from": "BLR",
+    "to": "BHO",
+    "departure": "1020",
+    "arrival": "1225"
+  },
+  {
+    "code": 6188,
+    "from": "BLR",
+    "to": "BHO",
+    "departure": "1650",
+    "arrival": "1900"
+  },
+  {
+    "code": 894,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "440",
+    "arrival": "605"
+  },
+  {
+    "code": 405,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "620",
+    "arrival": "810"
+  },
+  {
+    "code": 5334,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "750",
+    "arrival": "940"
+  },
+  {
+    "code": 5322,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "910",
+    "arrival": "1055"
+  },
+  {
+    "code": 126,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "1055",
+    "arrival": "1310"
+  },
+  {
+    "code": 734,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "1605",
+    "arrival": "1750"
+  },
+  {
+    "code": 594,
+    "from": "BLR",
+    "to": "BOM",
+    "departure": "1900",
+    "arrival": "2055"
+  },
+  {
+    "code": 7287,
+    "from": "BLR",
+    "to": "CCJ",
+    "departure": "615",
+    "arrival": "740"
+  },
+  {
+    "code": 2297,
+    "from": "BLR",
+    "to": "CCJ",
+    "departure": "1335",
+    "arrival": "1430"
+  },
+  {
+    "code": 6339,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "645",
+    "arrival": "900"
+  },
+  {
+    "code": 344,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "835",
+    "arrival": "1110"
+  },
+  {
+    "code": 824,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "955",
+    "arrival": "1235"
+  },
+  {
+    "code": 938,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "1120",
+    "arrival": "1350"
+  },
+  {
+    "code": 296,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "1420",
+    "arrival": "1650"
+  },
+  {
+    "code": 435,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "1530",
+    "arrival": "1755"
+  },
+  {
+    "code": 479,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "1820",
+    "arrival": "2045"
+  },
+  {
+    "code": 676,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "1935",
+    "arrival": "2205"
+  },
+  {
+    "code": 329,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "2030",
+    "arrival": "2305"
+  },
+  {
+    "code": 6714,
+    "from": "BLR",
+    "to": "CCU",
+    "departure": "2140",
+    "arrival": "5"
+  },
+  {
+    "code": 346,
+    "from": "BLR",
+    "to": "CJB",
+    "departure": "755",
+    "arrival": "845"
+  },
+  {
+    "code": 418,
+    "from": "BLR",
+    "to": "CJB",
+    "departure": "1255",
+    "arrival": "1350"
+  },
+  {
+    "code": 6992,
+    "from": "BLR",
+    "to": "CJB",
+    "departure": "1605",
+    "arrival": "1650"
+  },
+  {
+    "code": 7974,
+    "from": "BLR",
+    "to": "CNN",
+    "departure": "1000",
+    "arrival": "1125"
+  },
+  {
+    "code": 7349,
+    "from": "BLR",
+    "to": "CNN",
+    "departure": "1810",
+    "arrival": "1935"
+  },
+  {
+    "code": 113,
+    "from": "BLR",
+    "to": "COK",
+    "departure": "730",
+    "arrival": "840"
+  },
+  {
+    "code": 419,
+    "from": "BLR",
+    "to": "COK",
+    "departure": "1245",
+    "arrival": "1345"
+  },
+  {
+    "code": 363,
+    "from": "BLR",
+    "to": "COK",
+    "departure": "1430",
+    "arrival": "1540"
+  },
+  {
+    "code": 547,
+    "from": "BLR",
+    "to": "COK",
+    "departure": "1555",
+    "arrival": "1715"
+  },
+  {
+    "code": 321,
+    "from": "BLR",
+    "to": "COK",
+    "departure": "1850",
+    "arrival": "2000"
+  },
+  {
+    "code": 463,
+    "from": "BLR",
+    "to": "COK",
+    "departure": "2015",
+    "arrival": "2130"
+  },
+  {
+    "code": 852,
+    "from": "BLR",
+    "to": "DED",
+    "departure": "1220",
+    "arrival": "1510"
+  },
+  {
+    "code": 2012,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "600",
+    "arrival": "845"
+  },
+  {
+    "code": 2247,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "715",
+    "arrival": "1000"
+  },
+  {
+    "code": 2163,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "835",
+    "arrival": "1120"
+  },
+  {
+    "code": 2176,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "1345",
+    "arrival": "1630"
+  },
+  {
+    "code": 2133,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "1455",
+    "arrival": "1735"
+  },
+  {
+    "code": 2487,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "1710",
+    "arrival": "1955"
+  },
+  {
+    "code": 501,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "1710",
+    "arrival": "1955"
+  },
+  {
+    "code": 2017,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "1855",
+    "arrival": "2145"
+  },
+  {
+    "code": 2428,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "2000",
+    "arrival": "2245"
+  },
+  {
+    "code": 2289,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "2140",
+    "arrival": "25"
+  },
+  {
+    "code": 2026,
+    "from": "BLR",
+    "to": "DEL",
+    "departure": "2245",
+    "arrival": "125"
+  },
+  {
+    "code": 1724,
+    "from": "BLR",
+    "to": "DOH",
+    "departure": "345",
+    "arrival": "600"
+  },
+  {
+    "code": 457,
+    "from": "BLR",
+    "to": "GAU",
+    "departure": "525",
+    "arrival": "840"
+  },
+  {
+    "code": 477,
+    "from": "BLR",
+    "to": "GAU",
+    "departure": "1630",
+    "arrival": "1930"
+  },
+  {
+    "code": 178,
+    "from": "BLR",
+    "to": "GOI",
+    "departure": "625",
+    "arrival": "745"
+  },
+  {
+    "code": 293,
+    "from": "BLR",
+    "to": "GOI",
+    "departure": "1210",
+    "arrival": "1315"
+  },
+  {
+    "code": 934,
+    "from": "BLR",
+    "to": "GOI",
+    "departure": "1410",
+    "arrival": "1530"
+  },
+  {
+    "code": 636,
+    "from": "BLR",
+    "to": "GOI",
+    "departure": "1820",
+    "arrival": "1940"
+  },
+  {
+    "code": 7162,
+    "from": "BLR",
+    "to": "HBX",
+    "departure": "1335",
+    "arrival": "1500"
+  },
+  {
+    "code": 7114,
+    "from": "BLR",
+    "to": "HBX",
+    "departure": "1815",
+    "arrival": "1940"
+  },
+  {
+    "code": 6186,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "720",
+    "arrival": "840"
+  },
+  {
+    "code": 6159,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "820",
+    "arrival": "945"
+  },
+  {
+    "code": 281,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "910",
+    "arrival": "1035"
+  },
+  {
+    "code": 635,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "1150",
+    "arrival": "1305"
+  },
+  {
+    "code": 6139,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "1440",
+    "arrival": "1600"
+  },
+  {
+    "code": 221,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "1645",
+    "arrival": "1800"
+  },
+  {
+    "code": 6915,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "1800",
+    "arrival": "1920"
+  },
+  {
+    "code": 7684,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "2000",
+    "arrival": "2135"
+  },
+  {
+    "code": 827,
+    "from": "BLR",
+    "to": "HYD",
+    "departure": "2305",
+    "arrival": "20"
+  },
+  {
+    "code": 368,
+    "from": "BLR",
+    "to": "IDR",
+    "departure": "1225",
+    "arrival": "1415"
+  },
+  {
+    "code": 401,
+    "from": "BLR",
+    "to": "IDR",
+    "departure": "1815",
+    "arrival": "2045"
+  },
+  {
+    "code": 457,
+    "from": "BLR",
+    "to": "IMF",
+    "departure": "525",
+    "arrival": "1015"
+  },
+  {
+    "code": 385,
+    "from": "BLR",
+    "to": "IMF",
+    "departure": "810",
+    "arrival": "1230"
+  },
+  {
+    "code": 385,
+    "from": "BLR",
+    "to": "IXA",
+    "departure": "810",
+    "arrival": "1100"
+  },
+  {
+    "code": 2034,
+    "from": "BLR",
+    "to": "IXB",
+    "departure": "1210",
+    "arrival": "1450"
+  },
+  {
+    "code": 592,
+    "from": "BLR",
+    "to": "IXC",
+    "departure": "1050",
+    "arrival": "1400"
+  },
+  {
+    "code": 587,
+    "from": "BLR",
+    "to": "IXC",
+    "departure": "1610",
+    "arrival": "1920"
+  },
+  {
+    "code": 5998,
+    "from": "BLR",
+    "to": "IXD",
+    "departure": "1025",
+    "arrival": "1300"
+  },
+  {
+    "code": 2175,
+    "from": "BLR",
+    "to": "IXE",
+    "departure": "1030",
+    "arrival": "1130"
+  },
+  {
+    "code": 279,
+    "from": "BLR",
+    "to": "IXE",
+    "departure": "1230",
+    "arrival": "1320"
+  },
+  {
+    "code": 181,
+    "from": "BLR",
+    "to": "IXE",
+    "departure": "1800",
+    "arrival": "1900"
+  },
+  {
+    "code": 7223,
+    "from": "BLR",
+    "to": "IXG",
+    "departure": "1130",
+    "arrival": "1245"
+  },
+  {
+    "code": 139,
+    "from": "BLR",
+    "to": "IXM",
+    "departure": "1045",
+    "arrival": "1200"
+  },
+  {
+    "code": 255,
+    "from": "BLR",
+    "to": "IXR",
+    "departure": "1345",
+    "arrival": "1615"
+  },
+  {
+    "code": 255,
+    "from": "BLR",
+    "to": "IXR",
+    "departure": "1800",
+    "arrival": "2005"
+  },
+  {
+    "code": 344,
+    "from": "BLR",
+    "to": "IXS",
+    "departure": "835",
+    "arrival": "1255"
+  },
+  {
+    "code": 6897,
+    "from": "BLR",
+    "to": "IXU",
+    "departure": "740",
+    "arrival": "915"
+  },
+  {
+    "code": 469,
+    "from": "BLR",
+    "to": "JAI",
+    "departure": "540",
+    "arrival": "820"
+  },
+  {
+    "code": 995,
+    "from": "BLR",
+    "to": "JAI",
+    "departure": "1010",
+    "arrival": "1245"
+  },
+  {
+    "code": 847,
+    "from": "BLR",
+    "to": "JAI",
+    "departure": "1625",
+    "arrival": "1900"
+  },
+  {
+    "code": 481,
+    "from": "BLR",
+    "to": "JAI",
+    "departure": "1900",
+    "arrival": "2135"
+  },
+  {
+    "code": 6412,
+    "from": "BLR",
+    "to": "JDH",
+    "departure": "1040",
+    "arrival": "1325"
+  },
+  {
+    "code": 451,
+    "from": "BLR",
+    "to": "LKO",
+    "departure": "510",
+    "arrival": "745"
+  },
+  {
+    "code": 625,
+    "from": "BLR",
+    "to": "LKO",
+    "departure": "1125",
+    "arrival": "1400"
+  },
+  {
+    "code": 388,
+    "from": "BLR",
+    "to": "LKO",
+    "departure": "1540",
+    "arrival": "1815"
+  },
+  {
+    "code": 6388,
+    "from": "BLR",
+    "to": "LKO",
+    "departure": "1915",
+    "arrival": "2145"
+  },
+  {
+    "code": 6217,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "555",
+    "arrival": "715"
+  },
+  {
+    "code": 6012,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "800",
+    "arrival": "905"
+  },
+  {
+    "code": 857,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "930",
+    "arrival": "1050"
+  },
+  {
+    "code": 6269,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "1255",
+    "arrival": "1355"
+  },
+  {
+    "code": 523,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "1455",
+    "arrival": "1620"
+  },
+  {
+    "code": 6189,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "1655",
+    "arrival": "1810"
+  },
+  {
+    "code": 6004,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "1920",
+    "arrival": "2015"
+  },
+  {
+    "code": 517,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "2115",
+    "arrival": "2220"
+  },
+  {
+    "code": 543,
+    "from": "BLR",
+    "to": "MAA",
+    "departure": "2240",
+    "arrival": "2335"
+  },
+  {
+    "code": 581,
+    "from": "BLR",
+    "to": "NAG",
+    "departure": "945",
+    "arrival": "1145"
+  },
+  {
+    "code": 201,
+    "from": "BLR",
+    "to": "NAG",
+    "departure": "1355",
+    "arrival": "1540"
+  },
+  {
+    "code": 617,
+    "from": "BLR",
+    "to": "NAG",
+    "departure": "1905",
+    "arrival": "2045"
+  },
+  {
+    "code": 473,
+    "from": "BLR",
+    "to": "PAT",
+    "departure": "240",
+    "arrival": "515"
+  },
+  {
+    "code": 485,
+    "from": "BLR",
+    "to": "PAT",
+    "departure": "1210",
+    "arrival": "1450"
+  },
+  {
+    "code": 345,
+    "from": "BLR",
+    "to": "PAT",
+    "departure": "1735",
+    "arrival": "2000"
+  },
+  {
+    "code": 792,
+    "from": "BLR",
+    "to": "PAT",
+    "departure": "2005",
+    "arrival": "2245"
+  },
+  {
+    "code": 699,
+    "from": "BLR",
+    "to": "PNQ",
+    "departure": "640",
+    "arrival": "815"
+  },
+  {
+    "code": 953,
+    "from": "BLR",
+    "to": "PNQ",
+    "departure": "1545",
+    "arrival": "1635"
+  },
+  {
+    "code": 426,
+    "from": "BLR",
+    "to": "PNQ",
+    "departure": "1730",
+    "arrival": "1900"
+  },
+  {
+    "code": 7107,
+    "from": "BLR",
+    "to": "RJA",
+    "departure": "650",
+    "arrival": "840"
+  },
+  {
+    "code": 7231,
+    "from": "BLR",
+    "to": "RJA",
+    "departure": "1630",
+    "arrival": "1835"
+  },
+  {
+    "code": 378,
+    "from": "BLR",
+    "to": "RPR",
+    "departure": "830",
+    "arrival": "1025"
+  },
+  {
+    "code": 503,
+    "from": "BLR",
+    "to": "RPR",
+    "departure": "1320",
+    "arrival": "1510"
+  },
+  {
+    "code": 6846,
+    "from": "BLR",
+    "to": "STV",
+    "departure": "900",
+    "arrival": "1040"
+  },
+  {
+    "code": 604,
+    "from": "BLR",
+    "to": "STV",
+    "departure": "1855",
+    "arrival": "2045"
+  },
+  {
+    "code": 7241,
+    "from": "BLR",
+    "to": "TCR",
+    "departure": "720",
+    "arrival": "900"
+  },
+  {
+    "code": 7282,
+    "from": "BLR",
+    "to": "TIR",
+    "departure": "855",
+    "arrival": "1015"
+  },
+  {
+    "code": 273,
+    "from": "BLR",
+    "to": "TRV",
+    "departure": "800",
+    "arrival": "920"
+  },
+  {
+    "code": 379,
+    "from": "BLR",
+    "to": "TRV",
+    "departure": "1610",
+    "arrival": "1720"
+  },
+  {
+    "code": 7234,
+    "from": "BLR",
+    "to": "TRZ",
+    "departure": "745",
+    "arrival": "920"
+  },
+  {
+    "code": 2423,
+    "from": "BLR",
+    "to": "TRZ",
+    "departure": "1740",
+    "arrival": "1900"
+  },
+  {
+    "code": 978,
+    "from": "BLR",
+    "to": "UDR",
+    "departure": "1320",
+    "arrival": "1540"
+  },
+  {
+    "code": 507,
+    "from": "BLR",
+    "to": "VGA",
+    "departure": "1350",
+    "arrival": "1510"
+  },
+  {
+    "code": 897,
+    "from": "BLR",
+    "to": "VNS",
+    "departure": "915",
+    "arrival": "1150"
+  },
+  {
+    "code": 224,
+    "from": "BLR",
+    "to": "VNS",
+    "departure": "1550",
+    "arrival": "1820"
+  },
+  {
+    "code": 224,
+    "from": "BLR",
+    "to": "VNS",
+    "departure": "1740",
+    "arrival": "2010"
+  },
+  {
+    "code": 288,
+    "from": "BLR",
+    "to": "VTZ",
+    "departure": "455",
+    "arrival": "655"
+  },
+  {
+    "code": 7612,
+    "from": "BLR",
+    "to": "VTZ",
+    "departure": "1220",
+    "arrival": "1435"
+  },
+  {
+    "code": 512,
+    "from": "BLR",
+    "to": "VTZ",
+    "departure": "1705",
+    "arrival": "1825"
+  },
+  {
+    "code": 5362,
+    "from": "BOM",
+    "to": "AMD",
+    "departure": "750",
+    "arrival": "920"
+  },
+  {
+    "code": 6342,
+    "from": "BOM",
+    "to": "AMD",
+    "departure": "1110",
+    "arrival": "1230"
+  },
+  {
+    "code": 213,
+    "from": "BOM",
+    "to": "AMD",
+    "departure": "1545",
+    "arrival": "1705"
+  },
+  {
+    "code": 639,
+    "from": "BOM",
+    "to": "AMD",
+    "departure": "1940",
+    "arrival": "2100"
+  },
+  {
+    "code": 6262,
+    "from": "BOM",
+    "to": "ATQ",
+    "departure": "710",
+    "arrival": "940"
+  },
+  {
+    "code": 1835,
+    "from": "BOM",
+    "to": "AUH",
+    "departure": "620",
+    "arrival": "810"
+  },
+  {
+    "code": 817,
+    "from": "BOM",
+    "to": "BBI",
+    "departure": "615",
+    "arrival": "830"
+  },
+  {
+    "code": 817,
+    "from": "BOM",
+    "to": "BBI",
+    "departure": "710",
+    "arrival": "925"
+  },
+  {
+    "code": 6597,
+    "from": "BOM",
+    "to": "BBI",
+    "departure": "1410",
+    "arrival": "1630"
+  },
+  {
+    "code": 6113,
+    "from": "BOM",
+    "to": "BDQ",
+    "departure": "1910",
+    "arrival": "2030"
+  },
+  {
+    "code": 662,
+    "from": "BOM",
+    "to": "BHO",
+    "departure": "945",
+    "arrival": "1115"
+  },
+  {
+    "code": 153,
+    "from": "BOM",
+    "to": "BHO",
+    "departure": "1520",
+    "arrival": "1650"
+  },
+  {
+    "code": 5321,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "530",
+    "arrival": "720"
+  },
+  {
+    "code": 432,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "815",
+    "arrival": "1010"
+  },
+  {
+    "code": 5354,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "1030",
+    "arrival": "1215"
+  },
+  {
+    "code": 283,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "1620",
+    "arrival": "1805"
+  },
+  {
+    "code": 199,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "1855",
+    "arrival": "2040"
+  },
+  {
+    "code": 128,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "2010",
+    "arrival": "2155"
+  },
+  {
+    "code": 406,
+    "from": "BOM",
+    "to": "BLR",
+    "departure": "2125",
+    "arrival": "2310"
+  },
+  {
+    "code": 9231,
+    "from": "BOM",
+    "to": "CCJ",
+    "departure": "2120",
+    "arrival": "2310"
+  },
+  {
+    "code": 5326,
+    "from": "BOM",
+    "to": "CCU",
+    "departure": "730",
+    "arrival": "1015"
+  },
+  {
+    "code": 323,
+    "from": "BOM",
+    "to": "CCU",
+    "departure": "1155",
+    "arrival": "1430"
+  },
+  {
+    "code": 997,
+    "from": "BOM",
+    "to": "CCU",
+    "departure": "1535",
+    "arrival": "1810"
+  },
+  {
+    "code": 6458,
+    "from": "BOM",
+    "to": "CCU",
+    "departure": "1920",
+    "arrival": "2135"
+  },
+  {
+    "code": 963,
+    "from": "BOM",
+    "to": "CCU",
+    "departure": "2255",
+    "arrival": "130"
+  },
+  {
+    "code": 6225,
+    "from": "BOM",
+    "to": "CJB",
+    "departure": "2020",
+    "arrival": "2155"
+  },
+  {
+    "code": 5015,
+    "from": "BOM",
+    "to": "COK",
+    "departure": "625",
+    "arrival": "830"
+  },
+  {
+    "code": 832,
+    "from": "BOM",
+    "to": "COK",
+    "departure": "2015",
+    "arrival": "2215"
+  },
+  {
+    "code": 533,
+    "from": "BOM",
+    "to": "DED",
+    "departure": "750",
+    "arrival": "1005"
+  },
+  {
+    "code": 104,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "605",
+    "arrival": "810"
+  },
+  {
+    "code": 5047,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "740",
+    "arrival": "945"
+  },
+  {
+    "code": 6374,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "940",
+    "arrival": "1150"
+  },
+  {
+    "code": 928,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "940",
+    "arrival": "1150"
+  },
+  {
+    "code": 407,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "1200",
+    "arrival": "1410"
+  },
+  {
+    "code": 6284,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "1415",
+    "arrival": "1620"
+  },
+  {
+    "code": 2036,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "1835",
+    "arrival": "2040"
+  },
+  {
+    "code": 2059,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "2000",
+    "arrival": "2205"
+  },
+  {
+    "code": 314,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "2000",
+    "arrival": "2205"
+  },
+  {
+    "code": 2174,
+    "from": "BOM",
+    "to": "DEL",
+    "departure": "2115",
+    "arrival": "2320"
+  },
+  {
+    "code": 1216,
+    "from": "BOM",
+    "to": "DMM",
+    "departure": "245",
+    "arrival": "425"
+  },
+  {
+    "code": 1709,
+    "from": "BOM",
+    "to": "DOH",
+    "departure": "1115",
+    "arrival": "1240"
+  },
+  {
+    "code": 4773,
+    "from": "BOM",
+    "to": "DOH",
+    "departure": "1115",
+    "arrival": "1240"
+  },
+  {
+    "code": 1719,
+    "from": "BOM",
+    "to": "DOH",
+    "departure": "1930",
+    "arrival": "2105"
+  },
+  {
+    "code": 4777,
+    "from": "BOM",
+    "to": "DOH",
+    "departure": "1930",
+    "arrival": "2105"
+  },
+  {
+    "code": 1719,
+    "from": "BOM",
+    "to": "DOH",
+    "departure": "2005",
+    "arrival": "2135"
+  },
+  {
+    "code": 4777,
+    "from": "BOM",
+    "to": "DOH",
+    "departure": "2005",
+    "arrival": "2135"
+  },
+  {
+    "code": 61,
+    "from": "BOM",
+    "to": "DXB",
+    "departure": "1825",
+    "arrival": "2035"
+  },
+  {
+    "code": 61,
+    "from": "BOM",
+    "to": "DXB",
+    "departure": "1830",
+    "arrival": "2035"
+  },
+  {
+    "code": 6241,
+    "from": "BOM",
+    "to": "GAU",
+    "departure": "915",
+    "arrival": "1215"
+  },
+  {
+    "code": 656,
+    "from": "BOM",
+    "to": "GAY",
+    "departure": "1020",
+    "arrival": "1250"
+  },
+  {
+    "code": 6331,
+    "from": "BOM",
+    "to": "GOI",
+    "departure": "615",
+    "arrival": "730"
+  },
+  {
+    "code": 179,
+    "from": "BOM",
+    "to": "GOI",
+    "departure": "1245",
+    "arrival": "1400"
+  },
+  {
+    "code": 317,
+    "from": "BOM",
+    "to": "GOI",
+    "departure": "1350",
+    "arrival": "1510"
+  },
+  {
+    "code": 6321,
+    "from": "BOM",
+    "to": "GOI",
+    "departure": "1650",
+    "arrival": "1810"
+  },
+  {
+    "code": 5351,
+    "from": "BOM",
+    "to": "GOI",
+    "departure": "1750",
+    "arrival": "1910"
+  },
+  {
+    "code": 136,
+    "from": "BOM",
+    "to": "GOP",
+    "departure": "925",
+    "arrival": "1200"
+  },
+  {
+    "code": 7134,
+    "from": "BOM",
+    "to": "HBX",
+    "departure": "1315",
+    "arrival": "1450"
+  },
+  {
+    "code": 409,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "630",
+    "arrival": "755"
+  },
+  {
+    "code": 6752,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "910",
+    "arrival": "1040"
+  },
+  {
+    "code": 6117,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "1200",
+    "arrival": "1335"
+  },
+  {
+    "code": 5361,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "1455",
+    "arrival": "1620"
+  },
+  {
+    "code": 6328,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "1545",
+    "arrival": "1710"
+  },
+  {
+    "code": 571,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "1900",
+    "arrival": "2030"
+  },
+  {
+    "code": 6296,
+    "from": "BOM",
+    "to": "HYD",
+    "departure": "2150",
+    "arrival": "2320"
+  },
+  {
+    "code": 5382,
+    "from": "BOM",
+    "to": "IDR",
+    "departure": "1455",
+    "arrival": "1625"
+  },
+  {
+    "code": 168,
+    "from": "BOM",
+    "to": "IDR",
+    "departure": "2030",
+    "arrival": "2155"
+  },
+  {
+    "code": 6241,
+    "from": "BOM",
+    "to": "IMF",
+    "departure": "915",
+    "arrival": "1340"
+  },
+  {
+    "code": 254,
+    "from": "BOM",
+    "to": "IXB",
+    "departure": "825",
+    "arrival": "1110"
+  },
+  {
+    "code": 495,
+    "from": "BOM",
+    "to": "IXC",
+    "departure": "900",
+    "arrival": "1120"
+  },
+  {
+    "code": 611,
+    "from": "BOM",
+    "to": "IXC",
+    "departure": "1255",
+    "arrival": "1520"
+  },
+  {
+    "code": 5379,
+    "from": "BOM",
+    "to": "IXC",
+    "departure": "1840",
+    "arrival": "2110"
+  },
+  {
+    "code": 5914,
+    "from": "BOM",
+    "to": "IXD",
+    "departure": "1250",
+    "arrival": "1455"
+  },
+  {
+    "code": 148,
+    "from": "BOM",
+    "to": "IXE",
+    "departure": "925",
+    "arrival": "1100"
+  },
+  {
+    "code": 6301,
+    "from": "BOM",
+    "to": "IXE",
+    "departure": "1905",
+    "arrival": "2045"
+  },
+  {
+    "code": 6752,
+    "from": "BOM",
+    "to": "IXM",
+    "departure": "910",
+    "arrival": "1330"
+  },
+  {
+    "code": 239,
+    "from": "BOM",
+    "to": "IXM",
+    "departure": "1430",
+    "arrival": "1640"
+  },
+  {
+    "code": 6179,
+    "from": "BOM",
+    "to": "IXR",
+    "departure": "555",
+    "arrival": "815"
+  },
+  {
+    "code": 6179,
+    "from": "BOM",
+    "to": "IXR",
+    "departure": "635",
+    "arrival": "850"
+  },
+  {
+    "code": 5346,
+    "from": "BOM",
+    "to": "IXU",
+    "departure": "1035",
+    "arrival": "1135"
+  },
+  {
+    "code": 5344,
+    "from": "BOM",
+    "to": "JAI",
+    "departure": "1115",
+    "arrival": "1255"
+  },
+  {
+    "code": 6998,
+    "from": "BOM",
+    "to": "JAI",
+    "departure": "1640",
+    "arrival": "1815"
+  },
+  {
+    "code": 6348,
+    "from": "BOM",
+    "to": "JAI",
+    "departure": "2035",
+    "arrival": "2220"
+  },
+  {
+    "code": 247,
+    "from": "BOM",
+    "to": "JDH",
+    "departure": "850",
+    "arrival": "1050"
+  },
+  {
+    "code": 9437,
+    "from": "BOM",
+    "to": "LKO",
+    "departure": "405",
+    "arrival": "615"
+  },
+  {
+    "code": 5011,
+    "from": "BOM",
+    "to": "LKO",
+    "departure": "620",
+    "arrival": "830"
+  },
+  {
+    "code": 672,
+    "from": "BOM",
+    "to": "LKO",
+    "departure": "1100",
+    "arrival": "1310"
+  },
+  {
+    "code": 5317,
+    "from": "BOM",
+    "to": "LKO",
+    "departure": "1400",
+    "arrival": "1605"
+  },
+  {
+    "code": 5341,
+    "from": "BOM",
+    "to": "LKO",
+    "departure": "1945",
+    "arrival": "2220"
+  },
+  {
+    "code": 425,
+    "from": "BOM",
+    "to": "MAA",
+    "departure": "920",
+    "arrival": "1120"
+  },
+  {
+    "code": 6117,
+    "from": "BOM",
+    "to": "MAA",
+    "departure": "1200",
+    "arrival": "1610"
+  },
+  {
+    "code": 716,
+    "from": "BOM",
+    "to": "MAA",
+    "departure": "1600",
+    "arrival": "1800"
+  },
+  {
+    "code": 5358,
+    "from": "BOM",
+    "to": "MAA",
+    "departure": "2010",
+    "arrival": "2210"
+  },
+  {
+    "code": 81,
+    "from": "BOM",
+    "to": "MCT",
+    "departure": "2040",
+    "arrival": "2200"
+  },
+  {
+    "code": 1784,
+    "from": "BOM",
+    "to": "MLE",
+    "departure": "1020",
+    "arrival": "1300"
+  },
+  {
+    "code": 1784,
+    "from": "BOM",
+    "to": "MLE",
+    "departure": "1045",
+    "arrival": "1300"
+  },
+  {
+    "code": 6894,
+    "from": "BOM",
+    "to": "NAG",
+    "departure": "555",
+    "arrival": "720"
+  },
+  {
+    "code": 5325,
+    "from": "BOM",
+    "to": "NAG",
+    "departure": "1025",
+    "arrival": "1155"
+  },
+  {
+    "code": 431,
+    "from": "BOM",
+    "to": "NAG",
+    "departure": "1445",
+    "arrival": "1615"
+  },
+  {
+    "code": 654,
+    "from": "BOM",
+    "to": "NAG",
+    "departure": "1840",
+    "arrival": "2015"
+  },
+  {
+    "code": 142,
+    "from": "BOM",
+    "to": "NAG",
+    "departure": "1840",
+    "arrival": "2015"
+  },
+  {
+    "code": 5377,
+    "from": "BOM",
+    "to": "NAG",
+    "departure": "2030",
+    "arrival": "2205"
+  },
+  {
+    "code": 5373,
+    "from": "BOM",
+    "to": "PAT",
+    "departure": "835",
+    "arrival": "1055"
+  },
+  {
+    "code": 761,
+    "from": "BOM",
+    "to": "PAT",
+    "departure": "1130",
+    "arrival": "1400"
+  },
+  {
+    "code": 464,
+    "from": "BOM",
+    "to": "RPR",
+    "departure": "1150",
+    "arrival": "1340"
+  },
+  {
+    "code": 6356,
+    "from": "BOM",
+    "to": "RPR",
+    "departure": "1740",
+    "arrival": "1930"
+  },
+  {
+    "code": 19,
+    "from": "BOM",
+    "to": "SIN",
+    "departure": "150",
+    "arrival": "1000"
+  },
+  {
+    "code": 409,
+    "from": "BOM",
+    "to": "TIR",
+    "departure": "630",
+    "arrival": "945"
+  },
+  {
+    "code": 231,
+    "from": "BOM",
+    "to": "TRV",
+    "departure": "1605",
+    "arrival": "1810"
+  },
+  {
+    "code": 6752,
+    "from": "BOM",
+    "to": "TRZ",
+    "departure": "910",
+    "arrival": "1310"
+  },
+  {
+    "code": 5323,
+    "from": "BOM",
+    "to": "UDR",
+    "departure": "1140",
+    "arrival": "1300"
+  },
+  {
+    "code": 749,
+    "from": "BOM",
+    "to": "UDR",
+    "departure": "1535",
+    "arrival": "1700"
+  },
+  {
+    "code": 6829,
+    "from": "BOM",
+    "to": "VNS",
+    "departure": "955",
+    "arrival": "1200"
+  },
+  {
+    "code": 578,
+    "from": "BOM",
+    "to": "VNS",
+    "departure": "1255",
+    "arrival": "1505"
+  },
+  {
+    "code": 6753,
+    "from": "BOM",
+    "to": "VTZ",
+    "departure": "1600",
+    "arrival": "1755"
+  },
+  {
+    "code": 7159,
+    "from": "CCJ",
+    "to": "BLR",
+    "departure": "810",
+    "arrival": "930"
+  },
+  {
+    "code": 2487,
+    "from": "CCJ",
+    "to": "BLR",
+    "departure": "1500",
+    "arrival": "1610"
+  },
+  {
+    "code": 2487,
+    "from": "CCJ",
+    "to": "DEL",
+    "departure": "1500",
+    "arrival": "1955"
+  },
+  {
+    "code": 1711,
+    "from": "CCJ",
+    "to": "DOH",
+    "departure": "200",
+    "arrival": "405"
+  },
+  {
+    "code": 1711,
+    "from": "CCJ",
+    "to": "DOH",
+    "departure": "1235",
+    "arrival": "1430"
+  },
+  {
+    "code": 7744,
+    "from": "CCJ",
+    "to": "HYD",
+    "departure": "940",
+    "arrival": "1210"
+  },
+  {
+    "code": 7401,
+    "from": "CCJ",
+    "to": "HYD",
+    "departure": "1140",
+    "arrival": "1405"
+  },
+  {
+    "code": 7352,
+    "from": "CCJ",
+    "to": "MAA",
+    "departure": "1350",
+    "arrival": "1535"
+  },
+  {
+    "code": 1025,
+    "from": "CCJ",
+    "to": "RUH",
+    "departure": "410",
+    "arrival": "650"
+  },
+  {
+    "code": 484,
+    "from": "CCU",
+    "to": "AJL",
+    "departure": "930",
+    "arrival": "1040"
+  },
+  {
+    "code": 202,
+    "from": "CCU",
+    "to": "AMD",
+    "departure": "515",
+    "arrival": "825"
+  },
+  {
+    "code": 6372,
+    "from": "CCU",
+    "to": "AMD",
+    "departure": "1635",
+    "arrival": "1940"
+  },
+  {
+    "code": 6674,
+    "from": "CCU",
+    "to": "AMD",
+    "departure": "1945",
+    "arrival": "2255"
+  },
+  {
+    "code": 5925,
+    "from": "CCU",
+    "to": "ATQ",
+    "departure": "1600",
+    "arrival": "1835"
+  },
+  {
+    "code": 456,
+    "from": "CCU",
+    "to": "BBI",
+    "departure": "1200",
+    "arrival": "1320"
+  },
+  {
+    "code": 814,
+    "from": "CCU",
+    "to": "BBI",
+    "departure": "1855",
+    "arrival": "2010"
+  },
+  {
+    "code": 868,
+    "from": "CCU",
+    "to": "BBI",
+    "departure": "2040",
+    "arrival": "2150"
+  },
+  {
+    "code": 77,
+    "from": "CCU",
+    "to": "BKK",
+    "departure": "2110",
+    "arrival": "105"
+  },
+  {
+    "code": 6379,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "450",
+    "arrival": "725"
+  },
+  {
+    "code": 825,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "615",
+    "arrival": "900"
+  },
+  {
+    "code": 139,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "720",
+    "arrival": "1005"
+  },
+  {
+    "code": 6143,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "945",
+    "arrival": "1240"
+  },
+  {
+    "code": 434,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "1145",
+    "arrival": "1425"
+  },
+  {
+    "code": 6814,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "1340",
+    "arrival": "1625"
+  },
+  {
+    "code": 932,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "1610",
+    "arrival": "1855"
+  },
+  {
+    "code": 875,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "1805",
+    "arrival": "2035"
+  },
+  {
+    "code": 939,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "1920",
+    "arrival": "2205"
+  },
+  {
+    "code": 328,
+    "from": "CCU",
+    "to": "BLR",
+    "departure": "2345",
+    "arrival": "230"
+  },
+  {
+    "code": 993,
+    "from": "CCU",
+    "to": "BOM",
+    "departure": "500",
+    "arrival": "750"
+  },
+  {
+    "code": 6459,
+    "from": "CCU",
+    "to": "BOM",
+    "departure": "810",
+    "arrival": "1115"
+  },
+  {
+    "code": 5327,
+    "from": "CCU",
+    "to": "BOM",
+    "departure": "1055",
+    "arrival": "1405"
+  },
+  {
+    "code": 5364,
+    "from": "CCU",
+    "to": "BOM",
+    "departure": "1525",
+    "arrival": "1835"
+  },
+  {
+    "code": 959,
+    "from": "CCU",
+    "to": "BOM",
+    "departure": "1900",
+    "arrival": "2210"
+  },
+  {
+    "code": 759,
+    "from": "CCU",
+    "to": "CJB",
+    "departure": "1045",
+    "arrival": "1515"
+  },
+  {
+    "code": 6248,
+    "from": "CCU",
+    "to": "COK",
+    "departure": "1015",
+    "arrival": "1305"
+  },
+  {
+    "code": 6162,
+    "from": "CCU",
+    "to": "COK",
+    "departure": "1930",
+    "arrival": "2235"
+  },
+  {
+    "code": 8293,
+    "from": "CCU",
+    "to": "DAC",
+    "departure": "1145",
+    "arrival": "1330"
+  },
+  {
+    "code": 1858,
+    "from": "CCU",
+    "to": "DAC",
+    "departure": "2345",
+    "arrival": "110"
+  },
+  {
+    "code": 6123,
+    "from": "CCU",
+    "to": "DED",
+    "departure": "1345",
+    "arrival": "1600"
+  },
+  {
+    "code": 6324,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "715",
+    "arrival": "940"
+  },
+  {
+    "code": 2182,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "930",
+    "arrival": "1155"
+  },
+  {
+    "code": 854,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "1115",
+    "arrival": "1335"
+  },
+  {
+    "code": 6616,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "1435",
+    "arrival": "1715"
+  },
+  {
+    "code": 2075,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "1740",
+    "arrival": "2020"
+  },
+  {
+    "code": 2264,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "1910",
+    "arrival": "2140"
+  },
+  {
+    "code": 262,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "2020",
+    "arrival": "2255"
+  },
+  {
+    "code": 476,
+    "from": "CCU",
+    "to": "DEL",
+    "departure": "2135",
+    "arrival": "15"
+  },
+  {
+    "code": 445,
+    "from": "CCU",
+    "to": "DIB",
+    "departure": "855",
+    "arrival": "1030"
+  },
+  {
+    "code": 455,
+    "from": "CCU",
+    "to": "DIB",
+    "departure": "1120",
+    "arrival": "1255"
+  },
+  {
+    "code": 331,
+    "from": "CCU",
+    "to": "DMU",
+    "departure": "730",
+    "arrival": "910"
+  },
+  {
+    "code": 374,
+    "from": "CCU",
+    "to": "GAU",
+    "departure": "845",
+    "arrival": "1000"
+  },
+  {
+    "code": 833,
+    "from": "CCU",
+    "to": "GAU",
+    "departure": "1505",
+    "arrival": "1615"
+  },
+  {
+    "code": 789,
+    "from": "CCU",
+    "to": "GAU",
+    "departure": "1725",
+    "arrival": "1830"
+  },
+  {
+    "code": 6623,
+    "from": "CCU",
+    "to": "GAU",
+    "departure": "2110",
+    "arrival": "2220"
+  },
+  {
+    "code": 227,
+    "from": "CCU",
+    "to": "GOI",
+    "departure": "940",
+    "arrival": "1435"
+  },
+  {
+    "code": 496,
+    "from": "CCU",
+    "to": "GOI",
+    "departure": "1620",
+    "arrival": "1925"
+  },
+  {
+    "code": 7305,
+    "from": "CCU",
+    "to": "GOP",
+    "departure": "915",
+    "arrival": "1110"
+  },
+  {
+    "code": 131,
+    "from": "CCU",
+    "to": "HYD",
+    "departure": "600",
+    "arrival": "815"
+  },
+  {
+    "code": 6513,
+    "from": "CCU",
+    "to": "HYD",
+    "departure": "905",
+    "arrival": "1135"
+  },
+  {
+    "code": 6134,
+    "from": "CCU",
+    "to": "HYD",
+    "departure": "1225",
+    "arrival": "1425"
+  },
+  {
+    "code": 6353,
+    "from": "CCU",
+    "to": "HYD",
+    "departure": "1625",
+    "arrival": "1845"
+  },
+  {
+    "code": 946,
+    "from": "CCU",
+    "to": "HYD",
+    "departure": "1735",
+    "arrival": "2025"
+  },
+  {
+    "code": 274,
+    "from": "CCU",
+    "to": "HYD",
+    "departure": "2125",
+    "arrival": "2345"
+  },
+  {
+    "code": 227,
+    "from": "CCU",
+    "to": "IDR",
+    "departure": "940",
+    "arrival": "1155"
+  },
+  {
+    "code": 227,
+    "from": "CCU",
+    "to": "IDR",
+    "departure": "940",
+    "arrival": "1200"
+  },
+  {
+    "code": 6323,
+    "from": "CCU",
+    "to": "IMF",
+    "departure": "1150",
+    "arrival": "1315"
+  },
+  {
+    "code": 853,
+    "from": "CCU",
+    "to": "IMF",
+    "departure": "1320",
+    "arrival": "1440"
+  },
+  {
+    "code": 361,
+    "from": "CCU",
+    "to": "IXA",
+    "departure": "840",
+    "arrival": "940"
+  },
+  {
+    "code": 862,
+    "from": "CCU",
+    "to": "IXA",
+    "departure": "1040",
+    "arrival": "1140"
+  },
+  {
+    "code": 102,
+    "from": "CCU",
+    "to": "IXA",
+    "departure": "1205",
+    "arrival": "1305"
+  },
+  {
+    "code": 6317,
+    "from": "CCU",
+    "to": "IXA",
+    "departure": "1530",
+    "arrival": "1630"
+  },
+  {
+    "code": 442,
+    "from": "CCU",
+    "to": "IXA",
+    "departure": "1655",
+    "arrival": "1755"
+  },
+  {
+    "code": 557,
+    "from": "CCU",
+    "to": "IXB",
+    "departure": "1320",
+    "arrival": "1430"
+  },
+  {
+    "code": 372,
+    "from": "CCU",
+    "to": "IXC",
+    "departure": "1715",
+    "arrival": "1955"
+  },
+  {
+    "code": 7983,
+    "from": "CCU",
+    "to": "IXD",
+    "departure": "825",
+    "arrival": "1030"
+  },
+  {
+    "code": 139,
+    "from": "CCU",
+    "to": "IXM",
+    "departure": "720",
+    "arrival": "1200"
+  },
+  {
+    "code": 447,
+    "from": "CCU",
+    "to": "IXS",
+    "departure": "1020",
+    "arrival": "1135"
+  },
+  {
+    "code": 344,
+    "from": "CCU",
+    "to": "IXS",
+    "departure": "1150",
+    "arrival": "1255"
+  },
+  {
+    "code": 415,
+    "from": "CCU",
+    "to": "JAI",
+    "departure": "925",
+    "arrival": "1200"
+  },
+  {
+    "code": 449,
+    "from": "CCU",
+    "to": "JAI",
+    "departure": "1420",
+    "arrival": "1700"
+  },
+  {
+    "code": 6314,
+    "from": "CCU",
+    "to": "JAI",
+    "departure": "1955",
+    "arrival": "2210"
+  },
+  {
+    "code": 3242,
+    "from": "CCU",
+    "to": "JDH",
+    "departure": "830",
+    "arrival": "1125"
+  },
+  {
+    "code": 6256,
+    "from": "CCU",
+    "to": "LKO",
+    "departure": "705",
+    "arrival": "845"
+  },
+  {
+    "code": 856,
+    "from": "CCU",
+    "to": "LKO",
+    "departure": "2005",
+    "arrival": "2155"
+  },
+  {
+    "code": 351,
+    "from": "CCU",
+    "to": "MAA",
+    "departure": "520",
+    "arrival": "810"
+  },
+  {
+    "code": 709,
+    "from": "CCU",
+    "to": "MAA",
+    "departure": "705",
+    "arrival": "935"
+  },
+  {
+    "code": 759,
+    "from": "CCU",
+    "to": "MAA",
+    "departure": "1045",
+    "arrival": "1320"
+  },
+  {
+    "code": 246,
+    "from": "CCU",
+    "to": "MAA",
+    "departure": "1325",
+    "arrival": "1540"
+  },
+  {
+    "code": 757,
+    "from": "CCU",
+    "to": "MAA",
+    "departure": "1905",
+    "arrival": "2130"
+  },
+  {
+    "code": 6291,
+    "from": "CCU",
+    "to": "MAA",
+    "departure": "2100",
+    "arrival": "2335"
+  },
+  {
+    "code": 404,
+    "from": "CCU",
+    "to": "NAG",
+    "departure": "2055",
+    "arrival": "2255"
+  },
+  {
+    "code": 6527,
+    "from": "CCU",
+    "to": "PAT",
+    "departure": "1250",
+    "arrival": "1355"
+  },
+  {
+    "code": 6105,
+    "from": "CCU",
+    "to": "PAT",
+    "departure": "1800",
+    "arrival": "1930"
+  },
+  {
+    "code": 123,
+    "from": "CCU",
+    "to": "PNQ",
+    "departure": "1335",
+    "arrival": "1610"
+  },
+  {
+    "code": 7149,
+    "from": "CCU",
+    "to": "RPR",
+    "departure": "615",
+    "arrival": "840"
+  },
+  {
+    "code": 171,
+    "from": "CCU",
+    "to": "RPR",
+    "departure": "1400",
+    "arrival": "1600"
+  },
+  {
+    "code": 356,
+    "from": "CCU",
+    "to": "STV",
+    "departure": "635",
+    "arrival": "950"
+  },
+  {
+    "code": 349,
+    "from": "CCU",
+    "to": "VNS",
+    "departure": "1240",
+    "arrival": "1400"
+  },
+  {
+    "code": 428,
+    "from": "CCU",
+    "to": "VNS",
+    "departure": "1535",
+    "arrival": "1655"
+  },
+  {
+    "code": 6956,
+    "from": "CCU",
+    "to": "VTZ",
+    "departure": "1210",
+    "arrival": "1340"
+  },
+  {
+    "code": 992,
+    "from": "CJB",
+    "to": "AMD",
+    "departure": "1730",
+    "arrival": "2205"
+  },
+  {
+    "code": 528,
+    "from": "CJB",
+    "to": "BLR",
+    "departure": "920",
+    "arrival": "1015"
+  },
+  {
+    "code": 526,
+    "from": "CJB",
+    "to": "BLR",
+    "departure": "1430",
+    "arrival": "1540"
+  },
+  {
+    "code": 992,
+    "from": "CJB",
+    "to": "BLR",
+    "departure": "1730",
+    "arrival": "1835"
+  },
+  {
+    "code": 6224,
+    "from": "CJB",
+    "to": "BOM",
+    "departure": "615",
+    "arrival": "840"
+  },
+  {
+    "code": 183,
+    "from": "CJB",
+    "to": "CCU",
+    "departure": "1615",
+    "arrival": "2030"
+  },
+  {
+    "code": 2169,
+    "from": "CJB",
+    "to": "DEL",
+    "departure": "1000",
+    "arrival": "1310"
+  },
+  {
+    "code": 6985,
+    "from": "CJB",
+    "to": "DEL",
+    "departure": "2210",
+    "arrival": "120"
+  },
+  {
+    "code": 998,
+    "from": "CJB",
+    "to": "HYD",
+    "departure": "1150",
+    "arrival": "1310"
+  },
+  {
+    "code": 752,
+    "from": "CJB",
+    "to": "HYD",
+    "departure": "2050",
+    "arrival": "2220"
+  },
+  {
+    "code": 998,
+    "from": "CJB",
+    "to": "JAI",
+    "departure": "1150",
+    "arrival": "1630"
+  },
+  {
+    "code": 208,
+    "from": "CJB",
+    "to": "MAA",
+    "departure": "725",
+    "arrival": "830"
+  },
+  {
+    "code": 6138,
+    "from": "CJB",
+    "to": "MAA",
+    "departure": "900",
+    "arrival": "1010"
+  },
+  {
+    "code": 183,
+    "from": "CJB",
+    "to": "MAA",
+    "departure": "1615",
+    "arrival": "1720"
+  },
+  {
+    "code": 6385,
+    "from": "CJB",
+    "to": "MAA",
+    "departure": "1810",
+    "arrival": "1935"
+  },
+  {
+    "code": 924,
+    "from": "CJB",
+    "to": "MAA",
+    "departure": "2110",
+    "arrival": "2205"
+  },
+  {
+    "code": 1202,
+    "from": "CMB",
+    "to": "MAA",
+    "departure": "930",
+    "arrival": "1105"
+  },
+  {
+    "code": 7973,
+    "from": "CNN",
+    "to": "BLR",
+    "departure": "1605",
+    "arrival": "1720"
+  },
+  {
+    "code": 7109,
+    "from": "CNN",
+    "to": "BLR",
+    "departure": "2000",
+    "arrival": "2055"
+  },
+  {
+    "code": 1715,
+    "from": "CNN",
+    "to": "DOH",
+    "departure": "1900",
+    "arrival": "2105"
+  },
+  {
+    "code": 7984,
+    "from": "CNN",
+    "to": "GOI",
+    "departure": "1720",
+    "arrival": "1840"
+  },
+  {
+    "code": 7178,
+    "from": "CNN",
+    "to": "HYD",
+    "departure": "2130",
+    "arrival": "2330"
+  },
+  {
+    "code": 7943,
+    "from": "CNN",
+    "to": "MAA",
+    "departure": "2140",
+    "arrival": "2330"
+  },
+  {
+    "code": 7977,
+    "from": "CNN",
+    "to": "TRV",
+    "departure": "1150",
+    "arrival": "1310"
+  },
+  {
+    "code": 6342,
+    "from": "COK",
+    "to": "AMD",
+    "departure": "750",
+    "arrival": "1230"
+  },
+  {
+    "code": 896,
+    "from": "COK",
+    "to": "AMD",
+    "departure": "940",
+    "arrival": "1205"
+  },
+  {
+    "code": 217,
+    "from": "COK",
+    "to": "BBI",
+    "departure": "1320",
+    "arrival": "1730"
+  },
+  {
+    "code": 6345,
+    "from": "COK",
+    "to": "BLR",
+    "departure": "530",
+    "arrival": "640"
+  },
+  {
+    "code": 553,
+    "from": "COK",
+    "to": "BLR",
+    "departure": "1250",
+    "arrival": "1345"
+  },
+  {
+    "code": 847,
+    "from": "COK",
+    "to": "BLR",
+    "departure": "1425",
+    "arrival": "1535"
+  },
+  {
+    "code": 375,
+    "from": "COK",
+    "to": "BLR",
+    "departure": "1620",
+    "arrival": "1715"
+  },
+  {
+    "code": 6893,
+    "from": "COK",
+    "to": "BLR",
+    "departure": "1740",
+    "arrival": "1850"
+  },
+  {
+    "code": 322,
+    "from": "COK",
+    "to": "BLR",
+    "departure": "2030",
+    "arrival": "2220"
+  },
+  {
+    "code": 6342,
+    "from": "COK",
+    "to": "BOM",
+    "departure": "750",
+    "arrival": "1005"
+  },
+  {
+    "code": 5016,
+    "from": "COK",
+    "to": "BOM",
+    "departure": "920",
+    "arrival": "1135"
+  },
+  {
+    "code": 6163,
+    "from": "COK",
+    "to": "CCU",
+    "departure": "700",
+    "arrival": "955"
+  },
+  {
+    "code": 789,
+    "from": "COK",
+    "to": "CCU",
+    "departure": "1350",
+    "arrival": "1645"
+  },
+  {
+    "code": 2135,
+    "from": "COK",
+    "to": "DEL",
+    "departure": "605",
+    "arrival": "930"
+  },
+  {
+    "code": 2047,
+    "from": "COK",
+    "to": "DEL",
+    "departure": "915",
+    "arrival": "1240"
+  },
+  {
+    "code": 1703,
+    "from": "COK",
+    "to": "DOH",
+    "departure": "815",
+    "arrival": "1020"
+  },
+  {
+    "code": 1703,
+    "from": "COK",
+    "to": "DOH",
+    "departure": "1915",
+    "arrival": "2130"
+  },
+  {
+    "code": 67,
+    "from": "COK",
+    "to": "DXB",
+    "departure": "2235",
+    "arrival": "130"
+  },
+  {
+    "code": 789,
+    "from": "COK",
+    "to": "GAU",
+    "departure": "1350",
+    "arrival": "1830"
+  },
+  {
+    "code": 568,
+    "from": "COK",
+    "to": "HYD",
+    "departure": "515",
+    "arrival": "650"
+  },
+  {
+    "code": 913,
+    "from": "COK",
+    "to": "HYD",
+    "departure": "925",
+    "arrival": "1105"
+  },
+  {
+    "code": 1526,
+    "from": "COK",
+    "to": "HYD",
+    "departure": "925",
+    "arrival": "1105"
+  },
+  {
+    "code": 304,
+    "from": "COK",
+    "to": "HYD",
+    "departure": "2235",
+    "arrival": "15"
+  },
+  {
+    "code": 6194,
+    "from": "COK",
+    "to": "IDR",
+    "departure": "1035",
+    "arrival": "1450"
+  },
+  {
+    "code": 847,
+    "from": "COK",
+    "to": "JAI",
+    "departure": "1425",
+    "arrival": "1900"
+  },
+  {
+    "code": 1757,
+    "from": "COK",
+    "to": "KWI",
+    "departure": "2050",
+    "arrival": "10"
+  },
+  {
+    "code": 6194,
+    "from": "COK",
+    "to": "MAA",
+    "departure": "1035",
+    "arrival": "1150"
+  },
+  {
+    "code": 141,
+    "from": "COK",
+    "to": "MAA",
+    "departure": "1100",
+    "arrival": "1215"
+  },
+  {
+    "code": 217,
+    "from": "COK",
+    "to": "MAA",
+    "departure": "1320",
+    "arrival": "1435"
+  },
+  {
+    "code": 536,
+    "from": "COK",
+    "to": "MAA",
+    "departure": "1320",
+    "arrival": "1435"
+  },
+  {
+    "code": 542,
+    "from": "COK",
+    "to": "MAA",
+    "departure": "1940",
+    "arrival": "2115"
+  },
+  {
+    "code": 542,
+    "from": "COK",
+    "to": "MAA",
+    "departure": "2015",
+    "arrival": "2135"
+  },
+  {
+    "code": 1846,
+    "from": "COK",
+    "to": "MCT",
+    "departure": "2305",
+    "arrival": "125"
+  },
+  {
+    "code": 1795,
+    "from": "COK",
+    "to": "MLE",
+    "departure": "1340",
+    "arrival": "1440"
+  },
+  {
+    "code": 542,
+    "from": "COK",
+    "to": "NAG",
+    "departure": "2015",
+    "arrival": "2355"
+  },
+  {
+    "code": 723,
+    "from": "COK",
+    "to": "PNQ",
+    "departure": "1800",
+    "arrival": "1950"
+  },
+  {
+    "code": 1859,
+    "from": "DAC",
+    "to": "CCU",
+    "departure": "210",
+    "arrival": "245"
+  },
+  {
+    "code": 8294,
+    "from": "DAC",
+    "to": "CCU",
+    "departure": "1430",
+    "arrival": "1515"
+  },
+  {
+    "code": 332,
+    "from": "DED",
+    "to": "AMD",
+    "departure": "1210",
+    "arrival": "1350"
+  },
+  {
+    "code": 6537,
+    "from": "DED",
+    "to": "BLR",
+    "departure": "1600",
+    "arrival": "1900"
+  },
+  {
+    "code": 257,
+    "from": "DED",
+    "to": "BOM",
+    "departure": "1040",
+    "arrival": "1310"
+  },
+  {
+    "code": 6124,
+    "from": "DED",
+    "to": "CCU",
+    "departure": "1630",
+    "arrival": "1910"
+  },
+  {
+    "code": 114,
+    "from": "DED",
+    "to": "DEL",
+    "departure": "935",
+    "arrival": "1020"
+  },
+  {
+    "code": 184,
+    "from": "DED",
+    "to": "DEL",
+    "departure": "1320",
+    "arrival": "1420"
+  },
+  {
+    "code": 2072,
+    "from": "DED",
+    "to": "DEL",
+    "departure": "1715",
+    "arrival": "1810"
+  },
+  {
+    "code": 2251,
+    "from": "DED",
+    "to": "DEL",
+    "departure": "2000",
+    "arrival": "2050"
+  },
+  {
+    "code": 844,
+    "from": "DED",
+    "to": "HYD",
+    "departure": "1800",
+    "arrival": "2215"
+  },
+  {
+    "code": 114,
+    "from": "DED",
+    "to": "JAI",
+    "departure": "935",
+    "arrival": "1145"
+  },
+  {
+    "code": 844,
+    "from": "DED",
+    "to": "LKO",
+    "departure": "1800",
+    "arrival": "1900"
+  },
+  {
+    "code": 2015,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "500",
+    "arrival": "635"
+  },
+  {
+    "code": 2257,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "645",
+    "arrival": "840"
+  },
+  {
+    "code": 2407,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "930",
+    "arrival": "1105"
+  },
+  {
+    "code": 653,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "1350",
+    "arrival": "1525"
+  },
+  {
+    "code": 2298,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "1620",
+    "arrival": "1755"
+  },
+  {
+    "code": 268,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "1855",
+    "arrival": "2035"
+  },
+  {
+    "code": 499,
+    "from": "DEL",
+    "to": "AMD",
+    "departure": "2050",
+    "arrival": "2230"
+  },
+  {
+    "code": 2056,
+    "from": "DEL",
+    "to": "ATQ",
+    "departure": "900",
+    "arrival": "1010"
+  },
+  {
+    "code": 151,
+    "from": "DEL",
+    "to": "ATQ",
+    "departure": "1340",
+    "arrival": "1450"
+  },
+  {
+    "code": 402,
+    "from": "DEL",
+    "to": "ATQ",
+    "departure": "1340",
+    "arrival": "1450"
+  },
+  {
+    "code": 2166,
+    "from": "DEL",
+    "to": "ATQ",
+    "departure": "2005",
+    "arrival": "2125"
+  },
+  {
+    "code": 1833,
+    "from": "DEL",
+    "to": "AUH",
+    "departure": "1935",
+    "arrival": "2225"
+  },
+  {
+    "code": 2701,
+    "from": "DEL",
+    "to": "BBI",
+    "departure": "855",
+    "arrival": "1100"
+  },
+  {
+    "code": 2014,
+    "from": "DEL",
+    "to": "BBI",
+    "departure": "1540",
+    "arrival": "1750"
+  },
+  {
+    "code": 2058,
+    "from": "DEL",
+    "to": "BBI",
+    "departure": "1915",
+    "arrival": "2115"
+  },
+  {
+    "code": 2058,
+    "from": "DEL",
+    "to": "BBI",
+    "departure": "1915",
+    "arrival": "2130"
+  },
+  {
+    "code": 494,
+    "from": "DEL",
+    "to": "BDQ",
+    "departure": "535",
+    "arrival": "730"
+  },
+  {
+    "code": 2064,
+    "from": "DEL",
+    "to": "BDQ",
+    "departure": "1030",
+    "arrival": "1215"
+  },
+  {
+    "code": 2061,
+    "from": "DEL",
+    "to": "BHO",
+    "departure": "700",
+    "arrival": "825"
+  },
+  {
+    "code": 2061,
+    "from": "DEL",
+    "to": "BHO",
+    "departure": "805",
+    "arrival": "935"
+  },
+  {
+    "code": 2053,
+    "from": "DEL",
+    "to": "BHO",
+    "departure": "1345",
+    "arrival": "1520"
+  },
+  {
+    "code": 2093,
+    "from": "DEL",
+    "to": "BHO",
+    "departure": "1825",
+    "arrival": "1955"
+  },
+  {
+    "code": 85,
+    "from": "DEL",
+    "to": "BKK",
+    "departure": "1055",
+    "arrival": "1630"
+  },
+  {
+    "code": 2162,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "500",
+    "arrival": "740"
+  },
+  {
+    "code": 2175,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "700",
+    "arrival": "945"
+  },
+  {
+    "code": 2297,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "955",
+    "arrival": "1240"
+  },
+  {
+    "code": 2423,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "1400",
+    "arrival": "1640"
+  },
+  {
+    "code": 819,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "1410",
+    "arrival": "1655"
+  },
+  {
+    "code": 2018,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "1515",
+    "arrival": "1815"
+  },
+  {
+    "code": 2248,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "1620",
+    "arrival": "1920"
+  },
+  {
+    "code": 2027,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "1745",
+    "arrival": "2030"
+  },
+  {
+    "code": 2637,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "1905",
+    "arrival": "2205"
+  },
+  {
+    "code": 2134,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "2110",
+    "arrival": "10"
+  },
+  {
+    "code": 2429,
+    "from": "DEL",
+    "to": "BLR",
+    "departure": "2230",
+    "arrival": "115"
+  },
+  {
+    "code": 148,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "505",
+    "arrival": "710"
+  },
+  {
+    "code": 408,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "625",
+    "arrival": "845"
+  },
+  {
+    "code": 5339,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "1035",
+    "arrival": "1300"
+  },
+  {
+    "code": 531,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "1250",
+    "arrival": "1505"
+  },
+  {
+    "code": 2035,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "1555",
+    "arrival": "1745"
+  },
+  {
+    "code": 2173,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "1820",
+    "arrival": "2025"
+  },
+  {
+    "code": 6957,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "1920",
+    "arrival": "2135"
+  },
+  {
+    "code": 2068,
+    "from": "DEL",
+    "to": "BOM",
+    "departure": "2100",
+    "arrival": "2305"
+  },
+  {
+    "code": 2297,
+    "from": "DEL",
+    "to": "CCJ",
+    "departure": "955",
+    "arrival": "1430"
+  },
+  {
+    "code": 282,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "430",
+    "arrival": "640"
+  },
+  {
+    "code": 2181,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "615",
+    "arrival": "830"
+  },
+  {
+    "code": 377,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "750",
+    "arrival": "1005"
+  },
+  {
+    "code": 6457,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "1020",
+    "arrival": "1235"
+  },
+  {
+    "code": 261,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "1705",
+    "arrival": "1945"
+  },
+  {
+    "code": 261,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "1730",
+    "arrival": "1945"
+  },
+  {
+    "code": 307,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "1840",
+    "arrival": "2055"
+  },
+  {
+    "code": 2076,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "2120",
+    "arrival": "2340"
+  },
+  {
+    "code": 2265,
+    "from": "DEL",
+    "to": "CCU",
+    "departure": "2245",
+    "arrival": "100"
+  },
+  {
+    "code": 2168,
+    "from": "DEL",
+    "to": "CJB",
+    "departure": "625",
+    "arrival": "915"
+  },
+  {
+    "code": 6908,
+    "from": "DEL",
+    "to": "CJB",
+    "departure": "1840",
+    "arrival": "2135"
+  },
+  {
+    "code": 2046,
+    "from": "DEL",
+    "to": "COK",
+    "departure": "525",
+    "arrival": "845"
+  },
+  {
+    "code": 2123,
+    "from": "DEL",
+    "to": "COK",
+    "departure": "2010",
+    "arrival": "2315"
+  },
+  {
+    "code": 129,
+    "from": "DEL",
+    "to": "DED",
+    "departure": "805",
+    "arrival": "855"
+  },
+  {
+    "code": 176,
+    "from": "DEL",
+    "to": "DED",
+    "departure": "1200",
+    "arrival": "1240"
+  },
+  {
+    "code": 2071,
+    "from": "DEL",
+    "to": "DED",
+    "departure": "1550",
+    "arrival": "1640"
+  },
+  {
+    "code": 2249,
+    "from": "DEL",
+    "to": "DED",
+    "departure": "1835",
+    "arrival": "1930"
+  },
+  {
+    "code": 6889,
+    "from": "DEL",
+    "to": "DIB",
+    "departure": "650",
+    "arrival": "925"
+  },
+  {
+    "code": 2157,
+    "from": "DEL",
+    "to": "DIB",
+    "departure": "810",
+    "arrival": "1320"
+  },
+  {
+    "code": 2401,
+    "from": "DEL",
+    "to": "DIB",
+    "departure": "1200",
+    "arrival": "1430"
+  },
+  {
+    "code": 1224,
+    "from": "DEL",
+    "to": "DMM",
+    "departure": "2140",
+    "arrival": "2350"
+  },
+  {
+    "code": 1701,
+    "from": "DEL",
+    "to": "DOH",
+    "departure": "115",
+    "arrival": "325"
+  },
+  {
+    "code": 4771,
+    "from": "DEL",
+    "to": "DOH",
+    "departure": "115",
+    "arrival": "325"
+  },
+  {
+    "code": 1736,
+    "from": "DEL",
+    "to": "DOH",
+    "departure": "1900",
+    "arrival": "2115"
+  },
+  {
+    "code": 4781,
+    "from": "DEL",
+    "to": "DOH",
+    "departure": "1900",
+    "arrival": "2115"
+  },
+  {
+    "code": 1736,
+    "from": "DEL",
+    "to": "DOH",
+    "departure": "1935",
+    "arrival": "2135"
+  },
+  {
+    "code": 4781,
+    "from": "DEL",
+    "to": "DOH",
+    "departure": "1935",
+    "arrival": "2135"
+  },
+  {
+    "code": 23,
+    "from": "DEL",
+    "to": "DXB",
+    "departure": "1715",
+    "arrival": "1955"
+  },
+  {
+    "code": 23,
+    "from": "DEL",
+    "to": "DXB",
+    "departure": "1915",
+    "arrival": "2155"
+  },
+  {
+    "code": 251,
+    "from": "DEL",
+    "to": "GAU",
+    "departure": "610",
+    "arrival": "755"
+  },
+  {
+    "code": 2157,
+    "from": "DEL",
+    "to": "GAU",
+    "departure": "810",
+    "arrival": "1020"
+  },
+  {
+    "code": 277,
+    "from": "DEL",
+    "to": "GAU",
+    "departure": "945",
+    "arrival": "1220"
+  },
+  {
+    "code": 2192,
+    "from": "DEL",
+    "to": "GAU",
+    "departure": "1415",
+    "arrival": "1630"
+  },
+  {
+    "code": 694,
+    "from": "DEL",
+    "to": "GAU",
+    "departure": "1725",
+    "arrival": "1945"
+  },
+  {
+    "code": 2081,
+    "from": "DEL",
+    "to": "GAU",
+    "departure": "1930",
+    "arrival": "2150"
+  },
+  {
+    "code": 726,
+    "from": "DEL",
+    "to": "GAY",
+    "departure": "1255",
+    "arrival": "1445"
+  },
+  {
+    "code": 212,
+    "from": "DEL",
+    "to": "GOI",
+    "departure": "955",
+    "arrival": "1235"
+  },
+  {
+    "code": 2024,
+    "from": "DEL",
+    "to": "GOI",
+    "departure": "1150",
+    "arrival": "1430"
+  },
+  {
+    "code": 256,
+    "from": "DEL",
+    "to": "GOI",
+    "departure": "1355",
+    "arrival": "1635"
+  },
+  {
+    "code": 2041,
+    "from": "DEL",
+    "to": "GOI",
+    "departure": "1755",
+    "arrival": "2100"
+  },
+  {
+    "code": 2252,
+    "from": "DEL",
+    "to": "GOI",
+    "departure": "1935",
+    "arrival": "2215"
+  },
+  {
+    "code": 826,
+    "from": "DEL",
+    "to": "GOP",
+    "departure": "850",
+    "arrival": "930"
+  },
+  {
+    "code": 2022,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "510",
+    "arrival": "720"
+  },
+  {
+    "code": 5001,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "720",
+    "arrival": "935"
+  },
+  {
+    "code": 739,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "1120",
+    "arrival": "1320"
+  },
+  {
+    "code": 2164,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "1310",
+    "arrival": "1515"
+  },
+  {
+    "code": 967,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "1710",
+    "arrival": "1915"
+  },
+  {
+    "code": 2128,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "2030",
+    "arrival": "2230"
+  },
+  {
+    "code": 5055,
+    "from": "DEL",
+    "to": "HYD",
+    "departure": "2200",
+    "arrival": "10"
+  },
+  {
+    "code": 2403,
+    "from": "DEL",
+    "to": "IDR",
+    "departure": "635",
+    "arrival": "815"
+  },
+  {
+    "code": 733,
+    "from": "DEL",
+    "to": "IDR",
+    "departure": "1340",
+    "arrival": "1505"
+  },
+  {
+    "code": 2121,
+    "from": "DEL",
+    "to": "IDR",
+    "departure": "1610",
+    "arrival": "1735"
+  },
+  {
+    "code": 2063,
+    "from": "DEL",
+    "to": "IDR",
+    "departure": "2000",
+    "arrival": "2130"
+  },
+  {
+    "code": 2019,
+    "from": "DEL",
+    "to": "IMF",
+    "departure": "1010",
+    "arrival": "1300"
+  },
+  {
+    "code": 11,
+    "from": "DEL",
+    "to": "IST",
+    "departure": "530",
+    "arrival": "1035"
+  },
+  {
+    "code": 4651,
+    "from": "DEL",
+    "to": "IST",
+    "departure": "530",
+    "arrival": "1035"
+  },
+  {
+    "code": 889,
+    "from": "DEL",
+    "to": "IXA",
+    "departure": "1210",
+    "arrival": "1440"
+  },
+  {
+    "code": 5023,
+    "from": "DEL",
+    "to": "IXB",
+    "departure": "745",
+    "arrival": "950"
+  },
+  {
+    "code": 6614,
+    "from": "DEL",
+    "to": "IXB",
+    "departure": "1210",
+    "arrival": "1410"
+  },
+  {
+    "code": 2048,
+    "from": "DEL",
+    "to": "IXB",
+    "departure": "1310",
+    "arrival": "1510"
+  },
+  {
+    "code": 192,
+    "from": "DEL",
+    "to": "IXB",
+    "departure": "1310",
+    "arrival": "1510"
+  },
+  {
+    "code": 2151,
+    "from": "DEL",
+    "to": "IXC",
+    "departure": "1225",
+    "arrival": "1340"
+  },
+  {
+    "code": 2408,
+    "from": "DEL",
+    "to": "IXC",
+    "departure": "1535",
+    "arrival": "1630"
+  },
+  {
+    "code": 2141,
+    "from": "DEL",
+    "to": "IXC",
+    "departure": "1735",
+    "arrival": "1840"
+  },
+  {
+    "code": 736,
+    "from": "DEL",
+    "to": "IXC",
+    "departure": "1920",
+    "arrival": "2020"
+  },
+  {
+    "code": 2246,
+    "from": "DEL",
+    "to": "IXD",
+    "departure": "1000",
+    "arrival": "1130"
+  },
+  {
+    "code": 148,
+    "from": "DEL",
+    "to": "IXE",
+    "departure": "505",
+    "arrival": "1100"
+  },
+  {
+    "code": 2175,
+    "from": "DEL",
+    "to": "IXE",
+    "departure": "700",
+    "arrival": "1130"
+  },
+  {
+    "code": 671,
+    "from": "DEL",
+    "to": "IXE",
+    "departure": "1820",
+    "arrival": "2120"
+  },
+  {
+    "code": 2559,
+    "from": "DEL",
+    "to": "IXJ",
+    "departure": "730",
+    "arrival": "900"
+  },
+  {
+    "code": 554,
+    "from": "DEL",
+    "to": "IXJ",
+    "departure": "925",
+    "arrival": "1100"
+  },
+  {
+    "code": 2073,
+    "from": "DEL",
+    "to": "IXJ",
+    "departure": "1025",
+    "arrival": "1200"
+  },
+  {
+    "code": 2326,
+    "from": "DEL",
+    "to": "IXJ",
+    "departure": "1230",
+    "arrival": "1400"
+  },
+  {
+    "code": 2171,
+    "from": "DEL",
+    "to": "IXJ",
+    "departure": "1405",
+    "arrival": "1535"
+  },
+  {
+    "code": 2155,
+    "from": "DEL",
+    "to": "IXM",
+    "departure": "1225",
+    "arrival": "1545"
+  },
+  {
+    "code": 421,
+    "from": "DEL",
+    "to": "IXR",
+    "departure": "625",
+    "arrival": "835"
+  },
+  {
+    "code": 421,
+    "from": "DEL",
+    "to": "IXR",
+    "departure": "755",
+    "arrival": "950"
+  },
+  {
+    "code": 6535,
+    "from": "DEL",
+    "to": "IXR",
+    "departure": "1705",
+    "arrival": "1845"
+  },
+  {
+    "code": 6535,
+    "from": "DEL",
+    "to": "IXR",
+    "departure": "1755",
+    "arrival": "1940"
+  },
+  {
+    "code": 2082,
+    "from": "DEL",
+    "to": "IXR",
+    "departure": "1810",
+    "arrival": "1955"
+  },
+  {
+    "code": 251,
+    "from": "DEL",
+    "to": "IXS",
+    "departure": "610",
+    "arrival": "920"
+  },
+  {
+    "code": 2054,
+    "from": "DEL",
+    "to": "IXU",
+    "departure": "1100",
+    "arrival": "1240"
+  },
+  {
+    "code": 2143,
+    "from": "DEL",
+    "to": "JAI",
+    "departure": "545",
+    "arrival": "645"
+  },
+  {
+    "code": 114,
+    "from": "DEL",
+    "to": "JAI",
+    "departure": "1100",
+    "arrival": "1145"
+  },
+  {
+    "code": 284,
+    "from": "DEL",
+    "to": "JAI",
+    "departure": "2030",
+    "arrival": "2120"
+  },
+  {
+    "code": 31,
+    "from": "DEL",
+    "to": "KTM",
+    "departure": "1140",
+    "arrival": "1345"
+  },
+  {
+    "code": 1759,
+    "from": "DEL",
+    "to": "KWI",
+    "departure": "2315",
+    "arrival": "155"
+  },
+  {
+    "code": 5424,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "450",
+    "arrival": "600"
+  },
+  {
+    "code": 2586,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "625",
+    "arrival": "735"
+  },
+  {
+    "code": 906,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "840",
+    "arrival": "950"
+  },
+  {
+    "code": 943,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "1225",
+    "arrival": "1335"
+  },
+  {
+    "code": 2424,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "1430",
+    "arrival": "1545"
+  },
+  {
+    "code": 5003,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "1620",
+    "arrival": "1730"
+  },
+  {
+    "code": 2084,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "1850",
+    "arrival": "2000"
+  },
+  {
+    "code": 6528,
+    "from": "DEL",
+    "to": "LKO",
+    "departure": "2105",
+    "arrival": "2220"
+  },
+  {
+    "code": 2031,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "755",
+    "arrival": "1045"
+  },
+  {
+    "code": 2406,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "930",
+    "arrival": "1220"
+  },
+  {
+    "code": 6236,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "1210",
+    "arrival": "1500"
+  },
+  {
+    "code": 2028,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "1525",
+    "arrival": "1815"
+  },
+  {
+    "code": 2259,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "1745",
+    "arrival": "2035"
+  },
+  {
+    "code": 2519,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "2045",
+    "arrival": "2330"
+  },
+  {
+    "code": 2766,
+    "from": "DEL",
+    "to": "MAA",
+    "departure": "2210",
+    "arrival": "100"
+  },
+  {
+    "code": 8246,
+    "from": "DEL",
+    "to": "MLE",
+    "departure": "535",
+    "arrival": "910"
+  },
+  {
+    "code": 2011,
+    "from": "DEL",
+    "to": "NAG",
+    "departure": "700",
+    "arrival": "840"
+  },
+  {
+    "code": 2125,
+    "from": "DEL",
+    "to": "NAG",
+    "departure": "920",
+    "arrival": "1100"
+  },
+  {
+    "code": 2198,
+    "from": "DEL",
+    "to": "NAG",
+    "departure": "1845",
+    "arrival": "2025"
+  },
+  {
+    "code": 504,
+    "from": "DEL",
+    "to": "NAG",
+    "departure": "2035",
+    "arrival": "2215"
+  },
+  {
+    "code": 6494,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "320",
+    "arrival": "500"
+  },
+  {
+    "code": 494,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "535",
+    "arrival": "735"
+  },
+  {
+    "code": 2763,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "1130",
+    "arrival": "1250"
+  },
+  {
+    "code": 203,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "1410",
+    "arrival": "1550"
+  },
+  {
+    "code": 107,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "1720",
+    "arrival": "1900"
+  },
+  {
+    "code": 2614,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "1905",
+    "arrival": "2105"
+  },
+  {
+    "code": 499,
+    "from": "DEL",
+    "to": "PAT",
+    "departure": "2050",
+    "arrival": "2230"
+  },
+  {
+    "code": 643,
+    "from": "DEL",
+    "to": "PNQ",
+    "departure": "705",
+    "arrival": "930"
+  },
+  {
+    "code": 271,
+    "from": "DEL",
+    "to": "PNQ",
+    "departure": "1000",
+    "arrival": "1210"
+  },
+  {
+    "code": 286,
+    "from": "DEL",
+    "to": "PNQ",
+    "departure": "1730",
+    "arrival": "1935"
+  },
+  {
+    "code": 2757,
+    "from": "DEL",
+    "to": "RPR",
+    "departure": "710",
+    "arrival": "900"
+  },
+  {
+    "code": 2291,
+    "from": "DEL",
+    "to": "RPR",
+    "departure": "1050",
+    "arrival": "1240"
+  },
+  {
+    "code": 2091,
+    "from": "DEL",
+    "to": "RPR",
+    "departure": "1240",
+    "arrival": "1415"
+  },
+  {
+    "code": 509,
+    "from": "DEL",
+    "to": "RPR",
+    "departure": "1505",
+    "arrival": "1650"
+  },
+  {
+    "code": 2912,
+    "from": "DEL",
+    "to": "RPR",
+    "departure": "1710",
+    "arrival": "1900"
+  },
+  {
+    "code": 2094,
+    "from": "DEL",
+    "to": "SAG",
+    "departure": "1110",
+    "arrival": "1305"
+  },
+  {
+    "code": 5034,
+    "from": "DEL",
+    "to": "STV",
+    "departure": "635",
+    "arrival": "825"
+  },
+  {
+    "code": 2177,
+    "from": "DEL",
+    "to": "STV",
+    "departure": "1645",
+    "arrival": "1850"
+  },
+  {
+    "code": 2586,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "625",
+    "arrival": "810"
+  },
+  {
+    "code": 2559,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "730",
+    "arrival": "1030"
+  },
+  {
+    "code": 2011,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "805",
+    "arrival": "940"
+  },
+  {
+    "code": 2558,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "855",
+    "arrival": "1030"
+  },
+  {
+    "code": 2486,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "1200",
+    "arrival": "1345"
+  },
+  {
+    "code": 2132,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "1300",
+    "arrival": "1430"
+  },
+  {
+    "code": 2148,
+    "from": "DEL",
+    "to": "SXR",
+    "departure": "1455",
+    "arrival": "1640"
+  },
+  {
+    "code": 2105,
+    "from": "DEL",
+    "to": "TRV",
+    "departure": "1750",
+    "arrival": "2105"
+  },
+  {
+    "code": 2423,
+    "from": "DEL",
+    "to": "TRZ",
+    "departure": "1400",
+    "arrival": "1900"
+  },
+  {
+    "code": 2153,
+    "from": "DEL",
+    "to": "UDR",
+    "departure": "755",
+    "arrival": "910"
+  },
+  {
+    "code": 2262,
+    "from": "DEL",
+    "to": "UDR",
+    "departure": "1345",
+    "arrival": "1520"
+  },
+  {
+    "code": 5041,
+    "from": "DEL",
+    "to": "UDR",
+    "departure": "1655",
+    "arrival": "1820"
+  },
+  {
+    "code": 2183,
+    "from": "DEL",
+    "to": "VGA",
+    "departure": "510",
+    "arrival": "730"
+  },
+  {
+    "code": 2136,
+    "from": "DEL",
+    "to": "VNS",
+    "departure": "915",
+    "arrival": "1040"
+  },
+  {
+    "code": 2086,
+    "from": "DEL",
+    "to": "VNS",
+    "departure": "1130",
+    "arrival": "1300"
+  },
+  {
+    "code": 519,
+    "from": "DEL",
+    "to": "VNS",
+    "departure": "1540",
+    "arrival": "1700"
+  },
+  {
+    "code": 2051,
+    "from": "DEL",
+    "to": "VTZ",
+    "departure": "705",
+    "arrival": "920"
+  },
+  {
+    "code": 2719,
+    "from": "DEL",
+    "to": "VTZ",
+    "departure": "1645",
+    "arrival": "1855"
+  },
+  {
+    "code": 446,
+    "from": "DIB",
+    "to": "CCU",
+    "departure": "1100",
+    "arrival": "1310"
+  },
+  {
+    "code": 206,
+    "from": "DIB",
+    "to": "CCU",
+    "departure": "1330",
+    "arrival": "1530"
+  },
+  {
+    "code": 6772,
+    "from": "DIB",
+    "to": "DEL",
+    "departure": "955",
+    "arrival": "1330"
+  },
+  {
+    "code": 2158,
+    "from": "DIB",
+    "to": "DEL",
+    "departure": "1400",
+    "arrival": "1855"
+  },
+  {
+    "code": 2402,
+    "from": "DIB",
+    "to": "DEL",
+    "departure": "1500",
+    "arrival": "1840"
+  },
+  {
+    "code": 2158,
+    "from": "DIB",
+    "to": "GAU",
+    "departure": "1400",
+    "arrival": "1510"
+  },
+  {
+    "code": 1219,
+    "from": "DMM",
+    "to": "BOM",
+    "departure": "1805",
+    "arrival": "25"
+  },
+  {
+    "code": 8936,
+    "from": "DMM",
+    "to": "COK",
+    "departure": "2040",
+    "arrival": "335"
+  },
+  {
+    "code": 1223,
+    "from": "DMM",
+    "to": "DEL",
+    "departure": "35",
+    "arrival": "720"
+  },
+  {
+    "code": 8582,
+    "from": "DMM",
+    "to": "LKO",
+    "departure": "1040",
+    "arrival": "1725"
+  },
+  {
+    "code": 417,
+    "from": "DMU",
+    "to": "CCU",
+    "departure": "940",
+    "arrival": "1105"
+  },
+  {
+    "code": 1723,
+    "from": "DOH",
+    "to": "BLR",
+    "departure": "2010",
+    "arrival": "235"
+  },
+  {
+    "code": 1708,
+    "from": "DOH",
+    "to": "BOM",
+    "departure": "425",
+    "arrival": "1015"
+  },
+  {
+    "code": 4772,
+    "from": "DOH",
+    "to": "BOM",
+    "departure": "425",
+    "arrival": "1015"
+  },
+  {
+    "code": 1718,
+    "from": "DOH",
+    "to": "BOM",
+    "departure": "2205",
+    "arrival": "400"
+  },
+  {
+    "code": 4776,
+    "from": "DOH",
+    "to": "BOM",
+    "departure": "2205",
+    "arrival": "400"
+  },
+  {
+    "code": 1718,
+    "from": "DOH",
+    "to": "BOM",
+    "departure": "2235",
+    "arrival": "415"
+  },
+  {
+    "code": 4776,
+    "from": "DOH",
+    "to": "BOM",
+    "departure": "2235",
+    "arrival": "415"
+  },
+  {
+    "code": 1712,
+    "from": "DOH",
+    "to": "CCJ",
+    "departure": "440",
+    "arrival": "1115"
+  },
+  {
+    "code": 1712,
+    "from": "DOH",
+    "to": "CCJ",
+    "departure": "505",
+    "arrival": "1135"
+  },
+  {
+    "code": 1716,
+    "from": "DOH",
+    "to": "CNN",
+    "departure": "2235",
+    "arrival": "515"
+  },
+  {
+    "code": 1704,
+    "from": "DOH",
+    "to": "COK",
+    "departure": "1120",
+    "arrival": "1750"
+  },
+  {
+    "code": 1704,
+    "from": "DOH",
+    "to": "COK",
+    "departure": "1140",
+    "arrival": "1825"
+  },
+  {
+    "code": 1702,
+    "from": "DOH",
+    "to": "DEL",
+    "departure": "1340",
+    "arrival": "1945"
+  },
+  {
+    "code": 4770,
+    "from": "DOH",
+    "to": "DEL",
+    "departure": "1340",
+    "arrival": "1945"
+  },
+  {
+    "code": 1737,
+    "from": "DOH",
+    "to": "DEL",
+    "departure": "2215",
+    "arrival": "420"
+  },
+  {
+    "code": 4780,
+    "from": "DOH",
+    "to": "DEL",
+    "departure": "2215",
+    "arrival": "420"
+  },
+  {
+    "code": 1737,
+    "from": "DOH",
+    "to": "DEL",
+    "departure": "2235",
+    "arrival": "455"
+  },
+  {
+    "code": 4780,
+    "from": "DOH",
+    "to": "DEL",
+    "departure": "2235",
+    "arrival": "455"
+  },
+  {
+    "code": 1726,
+    "from": "DOH",
+    "to": "HYD",
+    "departure": "145",
+    "arrival": "805"
+  },
+  {
+    "code": 4778,
+    "from": "DOH",
+    "to": "HYD",
+    "departure": "145",
+    "arrival": "805"
+  },
+  {
+    "code": 4778,
+    "from": "DOH",
+    "to": "HYD",
+    "departure": "225",
+    "arrival": "840"
+  },
+  {
+    "code": 1726,
+    "from": "DOH",
+    "to": "HYD",
+    "departure": "345",
+    "arrival": "1000"
+  },
+  {
+    "code": 1714,
+    "from": "DOH",
+    "to": "HYD",
+    "departure": "2230",
+    "arrival": "445"
+  },
+  {
+    "code": 4774,
+    "from": "DOH",
+    "to": "HYD",
+    "departure": "2230",
+    "arrival": "445"
+  },
+  {
+    "code": 1706,
+    "from": "DOH",
+    "to": "MAA",
+    "departure": "1530",
+    "arrival": "2220"
+  },
+  {
+    "code": 62,
+    "from": "DXB",
+    "to": "BOM",
+    "departure": "1100",
+    "arrival": "1535"
+  },
+  {
+    "code": 1332,
+    "from": "DXB",
+    "to": "CCU",
+    "departure": "2135",
+    "arrival": "330"
+  },
+  {
+    "code": 24,
+    "from": "DXB",
+    "to": "DEL",
+    "departure": "2055",
+    "arrival": "145"
+  },
+  {
+    "code": 24,
+    "from": "DXB",
+    "to": "DEL",
+    "departure": "2255",
+    "arrival": "415"
+  },
+  {
+    "code": 25,
+    "from": "DXB",
+    "to": "HYD",
+    "departure": "855",
+    "arrival": "1350"
+  },
+  {
+    "code": 25,
+    "from": "DXB",
+    "to": "HYD",
+    "departure": "1000",
+    "arrival": "1505"
+  },
+  {
+    "code": 8457,
+    "from": "DXB",
+    "to": "LKO",
+    "departure": "125",
+    "arrival": "635"
+  },
+  {
+    "code": 66,
+    "from": "DXB",
+    "to": "MAA",
+    "departure": "910",
+    "arrival": "1440"
+  },
+  {
+    "code": 468,
+    "from": "GAU",
+    "to": "AJL",
+    "departure": "1305",
+    "arrival": "1410"
+  },
+  {
+    "code": 291,
+    "from": "GAU",
+    "to": "BLR",
+    "departure": "1210",
+    "arrival": "1550"
+  },
+  {
+    "code": 478,
+    "from": "GAU",
+    "to": "BLR",
+    "departure": "2000",
+    "arrival": "2340"
+  },
+  {
+    "code": 6242,
+    "from": "GAU",
+    "to": "BOM",
+    "departure": "1530",
+    "arrival": "1915"
+  },
+  {
+    "code": 6248,
+    "from": "GAU",
+    "to": "CCU",
+    "departure": "740",
+    "arrival": "910"
+  },
+  {
+    "code": 349,
+    "from": "GAU",
+    "to": "CCU",
+    "departure": "1045",
+    "arrival": "1205"
+  },
+  {
+    "code": 540,
+    "from": "GAU",
+    "to": "CCU",
+    "departure": "1045",
+    "arrival": "1205"
+  },
+  {
+    "code": 834,
+    "from": "GAU",
+    "to": "CCU",
+    "departure": "1645",
+    "arrival": "1815"
+  },
+  {
+    "code": 6292,
+    "from": "GAU",
+    "to": "CCU",
+    "departure": "1910",
+    "arrival": "2035"
+  },
+  {
+    "code": 6248,
+    "from": "GAU",
+    "to": "COK",
+    "departure": "740",
+    "arrival": "1305"
+  },
+  {
+    "code": 2078,
+    "from": "GAU",
+    "to": "DEL",
+    "departure": "625",
+    "arrival": "925"
+  },
+  {
+    "code": 614,
+    "from": "GAU",
+    "to": "DEL",
+    "departure": "1155",
+    "arrival": "1540"
+  },
+  {
+    "code": 278,
+    "from": "GAU",
+    "to": "DEL",
+    "departure": "1300",
+    "arrival": "1600"
+  },
+  {
+    "code": 2158,
+    "from": "GAU",
+    "to": "DEL",
+    "departure": "1550",
+    "arrival": "1855"
+  },
+  {
+    "code": 2193,
+    "from": "GAU",
+    "to": "DEL",
+    "departure": "1710",
+    "arrival": "2010"
+  },
+  {
+    "code": 558,
+    "from": "GAU",
+    "to": "DEL",
+    "departure": "2025",
+    "arrival": "2320"
+  },
+  {
+    "code": 2157,
+    "from": "GAU",
+    "to": "DIB",
+    "departure": "1120",
+    "arrival": "1320"
+  },
+  {
+    "code": 6539,
+    "from": "GAU",
+    "to": "HYD",
+    "departure": "925",
+    "arrival": "1230"
+  },
+  {
+    "code": 457,
+    "from": "GAU",
+    "to": "IMF",
+    "departure": "910",
+    "arrival": "1015"
+  },
+  {
+    "code": 6241,
+    "from": "GAU",
+    "to": "IMF",
+    "departure": "1245",
+    "arrival": "1340"
+  },
+  {
+    "code": 112,
+    "from": "GAU",
+    "to": "IXA",
+    "departure": "1230",
+    "arrival": "1325"
+  },
+  {
+    "code": 718,
+    "from": "GAU",
+    "to": "IXC",
+    "departure": "1600",
+    "arrival": "2015"
+  },
+  {
+    "code": 251,
+    "from": "GAU",
+    "to": "IXS",
+    "departure": "830",
+    "arrival": "920"
+  },
+  {
+    "code": 6181,
+    "from": "GAU",
+    "to": "JAI",
+    "departure": "1100",
+    "arrival": "1355"
+  },
+  {
+    "code": 119,
+    "from": "GAU",
+    "to": "MAA",
+    "departure": "1600",
+    "arrival": "1925"
+  },
+  {
+    "code": 623,
+    "from": "GAU",
+    "to": "MAA",
+    "departure": "2150",
+    "arrival": "105"
+  },
+  {
+    "code": 718,
+    "from": "GAU",
+    "to": "PAT",
+    "departure": "1600",
+    "arrival": "1735"
+  },
+  {
+    "code": 349,
+    "from": "GAU",
+    "to": "VNS",
+    "departure": "1045",
+    "arrival": "1400"
+  },
+  {
+    "code": 657,
+    "from": "GAY",
+    "to": "BOM",
+    "departure": "1325",
+    "arrival": "1605"
+  },
+  {
+    "code": 725,
+    "from": "GAY",
+    "to": "DEL",
+    "departure": "1525",
+    "arrival": "1720"
+  },
+  {
+    "code": 162,
+    "from": "GOI",
+    "to": "AMD",
+    "departure": "2100",
+    "arrival": "2235"
+  },
+  {
+    "code": 189,
+    "from": "GOI",
+    "to": "BLR",
+    "departure": "825",
+    "arrival": "945"
+  },
+  {
+    "code": 714,
+    "from": "GOI",
+    "to": "BLR",
+    "departure": "1415",
+    "arrival": "1545"
+  },
+  {
+    "code": 935,
+    "from": "GOI",
+    "to": "BLR",
+    "departure": "1645",
+    "arrival": "1800"
+  },
+  {
+    "code": 369,
+    "from": "GOI",
+    "to": "BLR",
+    "departure": "2020",
+    "arrival": "2140"
+  },
+  {
+    "code": 6332,
+    "from": "GOI",
+    "to": "BOM",
+    "departure": "815",
+    "arrival": "935"
+  },
+  {
+    "code": 6097,
+    "from": "GOI",
+    "to": "BOM",
+    "departure": "1500",
+    "arrival": "1630"
+  },
+  {
+    "code": 341,
+    "from": "GOI",
+    "to": "BOM",
+    "departure": "1630",
+    "arrival": "1800"
+  },
+  {
+    "code": 5352,
+    "from": "GOI",
+    "to": "BOM",
+    "departure": "1940",
+    "arrival": "2120"
+  },
+  {
+    "code": 6322,
+    "from": "GOI",
+    "to": "BOM",
+    "departure": "2245",
+    "arrival": "5"
+  },
+  {
+    "code": 228,
+    "from": "GOI",
+    "to": "CCU",
+    "departure": "1515",
+    "arrival": "2020"
+  },
+  {
+    "code": 491,
+    "from": "GOI",
+    "to": "CCU",
+    "departure": "2005",
+    "arrival": "2250"
+  },
+  {
+    "code": 7985,
+    "from": "GOI",
+    "to": "CNN",
+    "departure": "1910",
+    "arrival": "2045"
+  },
+  {
+    "code": 665,
+    "from": "GOI",
+    "to": "DEL",
+    "departure": "1330",
+    "arrival": "1610"
+  },
+  {
+    "code": 2025,
+    "from": "GOI",
+    "to": "DEL",
+    "departure": "1530",
+    "arrival": "1820"
+  },
+  {
+    "code": 276,
+    "from": "GOI",
+    "to": "DEL",
+    "departure": "1720",
+    "arrival": "2000"
+  },
+  {
+    "code": 2042,
+    "from": "GOI",
+    "to": "DEL",
+    "departure": "2130",
+    "arrival": "15"
+  },
+  {
+    "code": 2253,
+    "from": "GOI",
+    "to": "DEL",
+    "departure": "2245",
+    "arrival": "130"
+  },
+  {
+    "code": 715,
+    "from": "GOI",
+    "to": "HYD",
+    "departure": "50",
+    "arrival": "205"
+  },
+  {
+    "code": 487,
+    "from": "GOI",
+    "to": "HYD",
+    "departure": "800",
+    "arrival": "925"
+  },
+  {
+    "code": 381,
+    "from": "GOI",
+    "to": "HYD",
+    "departure": "1400",
+    "arrival": "1520"
+  },
+  {
+    "code": 6142,
+    "from": "GOI",
+    "to": "HYD",
+    "departure": "1845",
+    "arrival": "2015"
+  },
+  {
+    "code": 358,
+    "from": "GOI",
+    "to": "HYD",
+    "departure": "2110",
+    "arrival": "2250"
+  },
+  {
+    "code": 228,
+    "from": "GOI",
+    "to": "IDR",
+    "departure": "1515",
+    "arrival": "1720"
+  },
+  {
+    "code": 391,
+    "from": "GOI",
+    "to": "IXC",
+    "departure": "1740",
+    "arrival": "2020"
+  },
+  {
+    "code": 904,
+    "from": "GOI",
+    "to": "JAI",
+    "departure": "2215",
+    "arrival": "40"
+  },
+  {
+    "code": 397,
+    "from": "GOI",
+    "to": "LKO",
+    "departure": "1840",
+    "arrival": "2100"
+  },
+  {
+    "code": 412,
+    "from": "GOI",
+    "to": "MAA",
+    "departure": "1530",
+    "arrival": "1715"
+  },
+  {
+    "code": 921,
+    "from": "GOI",
+    "to": "NAG",
+    "departure": "2310",
+    "arrival": "55"
+  },
+  {
+    "code": 6293,
+    "from": "GOI",
+    "to": "STV",
+    "departure": "1900",
+    "arrival": "2020"
+  },
+  {
+    "code": 137,
+    "from": "GOP",
+    "to": "BOM",
+    "departure": "1230",
+    "arrival": "1505"
+  },
+  {
+    "code": 7306,
+    "from": "GOP",
+    "to": "CCU",
+    "departure": "1250",
+    "arrival": "1440"
+  },
+  {
+    "code": 138,
+    "from": "GOP",
+    "to": "DEL",
+    "departure": "1030",
+    "arrival": "1235"
+  },
+  {
+    "code": 6318,
+    "from": "GOP",
+    "to": "HYD",
+    "departure": "1500",
+    "arrival": "1730"
+  },
+  {
+    "code": 7938,
+    "from": "GOP",
+    "to": "IXD",
+    "departure": "1140",
+    "arrival": "1230"
+  },
+  {
+    "code": 5942,
+    "from": "HBX",
+    "to": "AMD",
+    "departure": "1745",
+    "arrival": "1925"
+  },
+  {
+    "code": 7161,
+    "from": "HBX",
+    "to": "BLR",
+    "departure": "1530",
+    "arrival": "1635"
+  },
+  {
+    "code": 7115,
+    "from": "HBX",
+    "to": "BLR",
+    "departure": "2010",
+    "arrival": "2210"
+  },
+  {
+    "code": 7133,
+    "from": "HBX",
+    "to": "BOM",
+    "departure": "1110",
+    "arrival": "1245"
+  },
+  {
+    "code": 7987,
+    "from": "HBX",
+    "to": "MAA",
+    "departure": "1510",
+    "arrival": "1705"
+  },
+  {
+    "code": 387,
+    "from": "HYD",
+    "to": "AMD",
+    "departure": "555",
+    "arrival": "755"
+  },
+  {
+    "code": 644,
+    "from": "HYD",
+    "to": "AMD",
+    "departure": "1315",
+    "arrival": "1510"
+  },
+  {
+    "code": 6131,
+    "from": "HYD",
+    "to": "AMD",
+    "departure": "1650",
+    "arrival": "1845"
+  },
+  {
+    "code": 6719,
+    "from": "HYD",
+    "to": "AMD",
+    "departure": "1815",
+    "arrival": "2005"
+  },
+  {
+    "code": 266,
+    "from": "HYD",
+    "to": "BBI",
+    "departure": "635",
+    "arrival": "810"
+  },
+  {
+    "code": 527,
+    "from": "HYD",
+    "to": "BBI",
+    "departure": "1340",
+    "arrival": "1520"
+  },
+  {
+    "code": 6116,
+    "from": "HYD",
+    "to": "BBI",
+    "departure": "1915",
+    "arrival": "2045"
+  },
+  {
+    "code": 6186,
+    "from": "HYD",
+    "to": "BDQ",
+    "departure": "930",
+    "arrival": "1110"
+  },
+  {
+    "code": 7121,
+    "from": "HYD",
+    "to": "BHO",
+    "departure": "1120",
+    "arrival": "1350"
+  },
+  {
+    "code": 6158,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "625",
+    "arrival": "730"
+  },
+  {
+    "code": 6319,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "715",
+    "arrival": "825"
+  },
+  {
+    "code": 146,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "940",
+    "arrival": "1110"
+  },
+  {
+    "code": 6137,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "1245",
+    "arrival": "1400"
+  },
+  {
+    "code": 6505,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "1415",
+    "arrival": "1530"
+  },
+  {
+    "code": 7142,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "1705",
+    "arrival": "1845"
+  },
+  {
+    "code": 167,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "1905",
+    "arrival": "2030"
+  },
+  {
+    "code": 6916,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "2020",
+    "arrival": "2130"
+  },
+  {
+    "code": 829,
+    "from": "HYD",
+    "to": "BLR",
+    "departure": "2325",
+    "arrival": "45"
+  },
+  {
+    "code": 6329,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "640",
+    "arrival": "810"
+  },
+  {
+    "code": 384,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "855",
+    "arrival": "1020"
+  },
+  {
+    "code": 5359,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "1235",
+    "arrival": "1410"
+  },
+  {
+    "code": 969,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "1635",
+    "arrival": "1810"
+  },
+  {
+    "code": 6276,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "1750",
+    "arrival": "1920"
+  },
+  {
+    "code": 413,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "2130",
+    "arrival": "2320"
+  },
+  {
+    "code": 6295,
+    "from": "HYD",
+    "to": "BOM",
+    "departure": "2200",
+    "arrival": "2330"
+  },
+  {
+    "code": 7743,
+    "from": "HYD",
+    "to": "CCJ",
+    "departure": "545",
+    "arrival": "810"
+  },
+  {
+    "code": 7112,
+    "from": "HYD",
+    "to": "CCJ",
+    "departure": "815",
+    "arrival": "1040"
+  },
+  {
+    "code": 353,
+    "from": "HYD",
+    "to": "CCU",
+    "departure": "545",
+    "arrival": "740"
+  },
+  {
+    "code": 6323,
+    "from": "HYD",
+    "to": "CCU",
+    "departure": "850",
+    "arrival": "1100"
+  },
+  {
+    "code": 132,
+    "from": "HYD",
+    "to": "CCU",
+    "departure": "1100",
+    "arrival": "1300"
+  },
+  {
+    "code": 359,
+    "from": "HYD",
+    "to": "CCU",
+    "departure": "1520",
+    "arrival": "1725"
+  },
+  {
+    "code": 311,
+    "from": "HYD",
+    "to": "CCU",
+    "departure": "1845",
+    "arrival": "2050"
+  },
+  {
+    "code": 944,
+    "from": "HYD",
+    "to": "CCU",
+    "departure": "2115",
+    "arrival": "2320"
+  },
+  {
+    "code": 914,
+    "from": "HYD",
+    "to": "CJB",
+    "departure": "935",
+    "arrival": "1100"
+  },
+  {
+    "code": 606,
+    "from": "HYD",
+    "to": "CJB",
+    "departure": "1840",
+    "arrival": "2000"
+  },
+  {
+    "code": 7216,
+    "from": "HYD",
+    "to": "CNN",
+    "departure": "1435",
+    "arrival": "1645"
+  },
+  {
+    "code": 6187,
+    "from": "HYD",
+    "to": "COK",
+    "departure": "1030",
+    "arrival": "1220"
+  },
+  {
+    "code": 6334,
+    "from": "HYD",
+    "to": "COK",
+    "departure": "1215",
+    "arrival": "1350"
+  },
+  {
+    "code": 566,
+    "from": "HYD",
+    "to": "COK",
+    "departure": "2145",
+    "arrival": "2325"
+  },
+  {
+    "code": 566,
+    "from": "HYD",
+    "to": "COK",
+    "departure": "2210",
+    "arrival": "2350"
+  },
+  {
+    "code": 732,
+    "from": "HYD",
+    "to": "DED",
+    "departure": "1315",
+    "arrival": "1645"
+  },
+  {
+    "code": 2129,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "520",
+    "arrival": "725"
+  },
+  {
+    "code": 2023,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "810",
+    "arrival": "1020"
+  },
+  {
+    "code": 5002,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "1030",
+    "arrival": "1240"
+  },
+  {
+    "code": 6468,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "1400",
+    "arrival": "1605"
+  },
+  {
+    "code": 2165,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "1625",
+    "arrival": "1835"
+  },
+  {
+    "code": 5162,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "1820",
+    "arrival": "2030"
+  },
+  {
+    "code": 6684,
+    "from": "HYD",
+    "to": "DEL",
+    "departure": "2010",
+    "arrival": "2220"
+  },
+  {
+    "code": 1727,
+    "from": "HYD",
+    "to": "DOH",
+    "departure": "25",
+    "arrival": "245"
+  },
+  {
+    "code": 1713,
+    "from": "HYD",
+    "to": "DOH",
+    "departure": "730",
+    "arrival": "945"
+  },
+  {
+    "code": 4775,
+    "from": "HYD",
+    "to": "DOH",
+    "departure": "730",
+    "arrival": "945"
+  },
+  {
+    "code": 1727,
+    "from": "HYD",
+    "to": "DOH",
+    "departure": "2215",
+    "arrival": "45"
+  },
+  {
+    "code": 4779,
+    "from": "HYD",
+    "to": "DOH",
+    "departure": "2215",
+    "arrival": "45"
+  },
+  {
+    "code": 8488,
+    "from": "HYD",
+    "to": "DXB",
+    "departure": "515",
+    "arrival": "800"
+  },
+  {
+    "code": 8488,
+    "from": "HYD",
+    "to": "DXB",
+    "departure": "605",
+    "arrival": "850"
+  },
+  {
+    "code": 6538,
+    "from": "HYD",
+    "to": "GAU",
+    "departure": "555",
+    "arrival": "855"
+  },
+  {
+    "code": 486,
+    "from": "HYD",
+    "to": "GOI",
+    "departure": "540",
+    "arrival": "715"
+  },
+  {
+    "code": 905,
+    "from": "HYD",
+    "to": "GOI",
+    "departure": "1145",
+    "arrival": "1300"
+  },
+  {
+    "code": 6141,
+    "from": "HYD",
+    "to": "GOI",
+    "departure": "1645",
+    "arrival": "1805"
+  },
+  {
+    "code": 348,
+    "from": "HYD",
+    "to": "GOI",
+    "departure": "1900",
+    "arrival": "2040"
+  },
+  {
+    "code": 6316,
+    "from": "HYD",
+    "to": "GOP",
+    "departure": "1205",
+    "arrival": "1420"
+  },
+  {
+    "code": 883,
+    "from": "HYD",
+    "to": "IDR",
+    "departure": "1300",
+    "arrival": "1435"
+  },
+  {
+    "code": 6237,
+    "from": "HYD",
+    "to": "IDR",
+    "departure": "1805",
+    "arrival": "1940"
+  },
+  {
+    "code": 6323,
+    "from": "HYD",
+    "to": "IMF",
+    "departure": "850",
+    "arrival": "1315"
+  },
+  {
+    "code": 149,
+    "from": "HYD",
+    "to": "IXB",
+    "departure": "710",
+    "arrival": "920"
+  },
+  {
+    "code": 269,
+    "from": "HYD",
+    "to": "IXC",
+    "departure": "1625",
+    "arrival": "1900"
+  },
+  {
+    "code": 7163,
+    "from": "HYD",
+    "to": "IXE",
+    "departure": "625",
+    "arrival": "815"
+  },
+  {
+    "code": 7146,
+    "from": "HYD",
+    "to": "IXE",
+    "departure": "1540",
+    "arrival": "1730"
+  },
+  {
+    "code": 7966,
+    "from": "HYD",
+    "to": "IXG",
+    "departure": "755",
+    "arrival": "930"
+  },
+  {
+    "code": 448,
+    "from": "HYD",
+    "to": "IXM",
+    "departure": "730",
+    "arrival": "915"
+  },
+  {
+    "code": 6752,
+    "from": "HYD",
+    "to": "IXM",
+    "departure": "1140",
+    "arrival": "1330"
+  },
+  {
+    "code": 981,
+    "from": "HYD",
+    "to": "IXR",
+    "departure": "1330",
+    "arrival": "1520"
+  },
+  {
+    "code": 134,
+    "from": "HYD",
+    "to": "IXR",
+    "departure": "1750",
+    "arrival": "1945"
+  },
+  {
+    "code": 7346,
+    "from": "HYD",
+    "to": "IXU",
+    "departure": "1150",
+    "arrival": "1325"
+  },
+  {
+    "code": 188,
+    "from": "HYD",
+    "to": "IXZ",
+    "departure": "615",
+    "arrival": "1045"
+  },
+  {
+    "code": 998,
+    "from": "HYD",
+    "to": "JAI",
+    "departure": "1420",
+    "arrival": "1630"
+  },
+  {
+    "code": 467,
+    "from": "HYD",
+    "to": "JAI",
+    "departure": "1715",
+    "arrival": "1925"
+  },
+  {
+    "code": 7994,
+    "from": "HYD",
+    "to": "KLH",
+    "departure": "1220",
+    "arrival": "1400"
+  },
+  {
+    "code": 364,
+    "from": "HYD",
+    "to": "LKO",
+    "departure": "505",
+    "arrival": "705"
+  },
+  {
+    "code": 732,
+    "from": "HYD",
+    "to": "LKO",
+    "departure": "1315",
+    "arrival": "1500"
+  },
+  {
+    "code": 188,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "615",
+    "arrival": "730"
+  },
+  {
+    "code": 546,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "1025",
+    "arrival": "1210"
+  },
+  {
+    "code": 497,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "1445",
+    "arrival": "1610"
+  },
+  {
+    "code": 6117,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "1445",
+    "arrival": "1610"
+  },
+  {
+    "code": 6238,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "1800",
+    "arrival": "1915"
+  },
+  {
+    "code": 223,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "1940",
+    "arrival": "2100"
+  },
+  {
+    "code": 983,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "2045",
+    "arrival": "2205"
+  },
+  {
+    "code": 6109,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "2155",
+    "arrival": "2315"
+  },
+  {
+    "code": 299,
+    "from": "HYD",
+    "to": "MAA",
+    "departure": "2240",
+    "arrival": "5"
+  },
+  {
+    "code": 7955,
+    "from": "HYD",
+    "to": "MYQ",
+    "departure": "835",
+    "arrival": "1025"
+  },
+  {
+    "code": 7745,
+    "from": "HYD",
+    "to": "NAG",
+    "departure": "655",
+    "arrival": "830"
+  },
+  {
+    "code": 154,
+    "from": "HYD",
+    "to": "PAT",
+    "departure": "1050",
+    "arrival": "1300"
+  },
+  {
+    "code": 982,
+    "from": "HYD",
+    "to": "PAT",
+    "departure": "1720",
+    "arrival": "2000"
+  },
+  {
+    "code": 6516,
+    "from": "HYD",
+    "to": "PNQ",
+    "departure": "900",
+    "arrival": "1000"
+  },
+  {
+    "code": 466,
+    "from": "HYD",
+    "to": "PNQ",
+    "departure": "1225",
+    "arrival": "1330"
+  },
+  {
+    "code": 7118,
+    "from": "HYD",
+    "to": "RJA",
+    "departure": "805",
+    "arrival": "925"
+  },
+  {
+    "code": 7124,
+    "from": "HYD",
+    "to": "RJA",
+    "departure": "1240",
+    "arrival": "1355"
+  },
+  {
+    "code": 7236,
+    "from": "HYD",
+    "to": "RJA",
+    "departure": "1410",
+    "arrival": "1535"
+  },
+  {
+    "code": 7123,
+    "from": "HYD",
+    "to": "RJA",
+    "departure": "1920",
+    "arrival": "2045"
+  },
+  {
+    "code": 7294,
+    "from": "HYD",
+    "to": "RPR",
+    "departure": "745",
+    "arrival": "935"
+  },
+  {
+    "code": 7249,
+    "from": "HYD",
+    "to": "RPR",
+    "departure": "1840",
+    "arrival": "2035"
+  },
+  {
+    "code": 7245,
+    "from": "HYD",
+    "to": "SAG",
+    "departure": "925",
+    "arrival": "1130"
+  },
+  {
+    "code": 1405,
+    "from": "HYD",
+    "to": "SHJ",
+    "departure": "40",
+    "arrival": "315"
+  },
+  {
+    "code": 493,
+    "from": "HYD",
+    "to": "STV",
+    "departure": "925",
+    "arrival": "1120"
+  },
+  {
+    "code": 493,
+    "from": "HYD",
+    "to": "STV",
+    "departure": "935",
+    "arrival": "1120"
+  },
+  {
+    "code": 186,
+    "from": "HYD",
+    "to": "TIR",
+    "departure": "835",
+    "arrival": "945"
+  },
+  {
+    "code": 409,
+    "from": "HYD",
+    "to": "TIR",
+    "departure": "835",
+    "arrival": "945"
+  },
+  {
+    "code": 194,
+    "from": "HYD",
+    "to": "TIR",
+    "departure": "1425",
+    "arrival": "1535"
+  },
+  {
+    "code": 7253,
+    "from": "HYD",
+    "to": "TIR",
+    "departure": "1715",
+    "arrival": "1835"
+  },
+  {
+    "code": 645,
+    "from": "HYD",
+    "to": "TRV",
+    "departure": "825",
+    "arrival": "1015"
+  },
+  {
+    "code": 214,
+    "from": "HYD",
+    "to": "TRV",
+    "departure": "1650",
+    "arrival": "1900"
+  },
+  {
+    "code": 448,
+    "from": "HYD",
+    "to": "TRZ",
+    "departure": "730",
+    "arrival": "900"
+  },
+  {
+    "code": 6752,
+    "from": "HYD",
+    "to": "TRZ",
+    "departure": "1140",
+    "arrival": "1310"
+  },
+  {
+    "code": 416,
+    "from": "HYD",
+    "to": "UDR",
+    "departure": "1305",
+    "arrival": "1440"
+  },
+  {
+    "code": 7201,
+    "from": "HYD",
+    "to": "VGA",
+    "departure": "750",
+    "arrival": "900"
+  },
+  {
+    "code": 7353,
+    "from": "HYD",
+    "to": "VGA",
+    "departure": "1140",
+    "arrival": "1250"
+  },
+  {
+    "code": 7205,
+    "from": "HYD",
+    "to": "VGA",
+    "departure": "1555",
+    "arrival": "1710"
+  },
+  {
+    "code": 7127,
+    "from": "HYD",
+    "to": "VGA",
+    "departure": "1835",
+    "arrival": "1945"
+  },
+  {
+    "code": 216,
+    "from": "HYD",
+    "to": "VNS",
+    "departure": "950",
+    "arrival": "1210"
+  },
+  {
+    "code": 6624,
+    "from": "HYD",
+    "to": "VNS",
+    "departure": "1540",
+    "arrival": "1730"
+  },
+  {
+    "code": 177,
+    "from": "HYD",
+    "to": "VTZ",
+    "departure": "525",
+    "arrival": "640"
+  },
+  {
+    "code": 879,
+    "from": "HYD",
+    "to": "VTZ",
+    "departure": "1040",
+    "arrival": "1150"
+  },
+  {
+    "code": 305,
+    "from": "HYD",
+    "to": "VTZ",
+    "departure": "1350",
+    "arrival": "1510"
+  },
+  {
+    "code": 324,
+    "from": "HYD",
+    "to": "VTZ",
+    "departure": "1615",
+    "arrival": "1730"
+  },
+  {
+    "code": 6211,
+    "from": "HYD",
+    "to": "VTZ",
+    "departure": "2050",
+    "arrival": "2200"
+  },
+  {
+    "code": 7295,
+    "from": "IDR",
+    "to": "AMD",
+    "departure": "1300",
+    "arrival": "1410"
+  },
+  {
+    "code": 393,
+    "from": "IDR",
+    "to": "BLR",
+    "departure": "1500",
+    "arrival": "1700"
+  },
+  {
+    "code": 392,
+    "from": "IDR",
+    "to": "BLR",
+    "departure": "2120",
+    "arrival": "2310"
+  },
+  {
+    "code": 169,
+    "from": "IDR",
+    "to": "BOM",
+    "departure": "710",
+    "arrival": "850"
+  },
+  {
+    "code": 5381,
+    "from": "IDR",
+    "to": "BOM",
+    "departure": "1700",
+    "arrival": "1830"
+  },
+  {
+    "code": 228,
+    "from": "IDR",
+    "to": "CCU",
+    "departure": "1800",
+    "arrival": "2020"
+  },
+  {
+    "code": 6195,
+    "from": "IDR",
+    "to": "COK",
+    "departure": "1530",
+    "arrival": "1945"
+  },
+  {
+    "code": 2069,
+    "from": "IDR",
+    "to": "DEL",
+    "departure": "655",
+    "arrival": "840"
+  },
+  {
+    "code": 2404,
+    "from": "IDR",
+    "to": "DEL",
+    "departure": "845",
+    "arrival": "1020"
+  },
+  {
+    "code": 6409,
+    "from": "IDR",
+    "to": "DEL",
+    "departure": "1600",
+    "arrival": "1740"
+  },
+  {
+    "code": 2122,
+    "from": "IDR",
+    "to": "DEL",
+    "departure": "1805",
+    "arrival": "1935"
+  },
+  {
+    "code": 227,
+    "from": "IDR",
+    "to": "GOI",
+    "departure": "1225",
+    "arrival": "1435"
+  },
+  {
+    "code": 227,
+    "from": "IDR",
+    "to": "GOI",
+    "departure": "1240",
+    "arrival": "1435"
+  },
+  {
+    "code": 884,
+    "from": "IDR",
+    "to": "HYD",
+    "departure": "1515",
+    "arrival": "1640"
+  },
+  {
+    "code": 299,
+    "from": "IDR",
+    "to": "HYD",
+    "departure": "2020",
+    "arrival": "2140"
+  },
+  {
+    "code": 7251,
+    "from": "IDR",
+    "to": "JAI",
+    "departure": "1050",
+    "arrival": "1240"
+  },
+  {
+    "code": 6195,
+    "from": "IDR",
+    "to": "MAA",
+    "departure": "1530",
+    "arrival": "1745"
+  },
+  {
+    "code": 299,
+    "from": "IDR",
+    "to": "MAA",
+    "departure": "2020",
+    "arrival": "5"
+  },
+  {
+    "code": 7252,
+    "from": "IDR",
+    "to": "NAG",
+    "departure": "1500",
+    "arrival": "1625"
+  },
+  {
+    "code": 7296,
+    "from": "IDR",
+    "to": "RPR",
+    "departure": "1615",
+    "arrival": "1800"
+  },
+  {
+    "code": 291,
+    "from": "IMF",
+    "to": "BLR",
+    "departure": "1045",
+    "arrival": "1550"
+  },
+  {
+    "code": 386,
+    "from": "IMF",
+    "to": "BLR",
+    "departure": "1310",
+    "arrival": "1830"
+  },
+  {
+    "code": 6242,
+    "from": "IMF",
+    "to": "BOM",
+    "departure": "1410",
+    "arrival": "1915"
+  },
+  {
+    "code": 6353,
+    "from": "IMF",
+    "to": "CCU",
+    "departure": "1425",
+    "arrival": "1550"
+  },
+  {
+    "code": 851,
+    "from": "IMF",
+    "to": "CCU",
+    "departure": "1510",
+    "arrival": "1635"
+  },
+  {
+    "code": 2021,
+    "from": "IMF",
+    "to": "DEL",
+    "departure": "1340",
+    "arrival": "1705"
+  },
+  {
+    "code": 291,
+    "from": "IMF",
+    "to": "GAU",
+    "departure": "1045",
+    "arrival": "1120"
+  },
+  {
+    "code": 6242,
+    "from": "IMF",
+    "to": "GAU",
+    "departure": "1410",
+    "arrival": "1500"
+  },
+  {
+    "code": 6353,
+    "from": "IMF",
+    "to": "HYD",
+    "departure": "1425",
+    "arrival": "1845"
+  },
+  {
+    "code": 386,
+    "from": "IMF",
+    "to": "IXA",
+    "departure": "1310",
+    "arrival": "1410"
+  },
+  {
+    "code": 16,
+    "from": "IST",
+    "to": "DEL",
+    "departure": "1755",
+    "arrival": "245"
+  },
+  {
+    "code": 4718,
+    "from": "IST",
+    "to": "DEL",
+    "departure": "1755",
+    "arrival": "245"
+  },
+  {
+    "code": 386,
+    "from": "IXA",
+    "to": "BLR",
+    "departure": "1450",
+    "arrival": "1830"
+  },
+  {
+    "code": 362,
+    "from": "IXA",
+    "to": "CCU",
+    "departure": "1010",
+    "arrival": "1115"
+  },
+  {
+    "code": 863,
+    "from": "IXA",
+    "to": "CCU",
+    "departure": "1210",
+    "arrival": "1310"
+  },
+  {
+    "code": 994,
+    "from": "IXA",
+    "to": "CCU",
+    "departure": "1350",
+    "arrival": "1450"
+  },
+  {
+    "code": 488,
+    "from": "IXA",
+    "to": "CCU",
+    "departure": "1700",
+    "arrival": "1805"
+  },
+  {
+    "code": 443,
+    "from": "IXA",
+    "to": "CCU",
+    "departure": "1850",
+    "arrival": "1955"
+  },
+  {
+    "code": 6672,
+    "from": "IXA",
+    "to": "DEL",
+    "departure": "1520",
+    "arrival": "1810"
+  },
+  {
+    "code": 119,
+    "from": "IXA",
+    "to": "GAU",
+    "departure": "1420",
+    "arrival": "1530"
+  },
+  {
+    "code": 385,
+    "from": "IXA",
+    "to": "IMF",
+    "departure": "1135",
+    "arrival": "1230"
+  },
+  {
+    "code": 119,
+    "from": "IXA",
+    "to": "MAA",
+    "departure": "1420",
+    "arrival": "1925"
+  },
+  {
+    "code": 229,
+    "from": "IXB",
+    "to": "AMD",
+    "departure": "1145",
+    "arrival": "1445"
+  },
+  {
+    "code": 2033,
+    "from": "IXB",
+    "to": "BLR",
+    "departure": "1525",
+    "arrival": "1900"
+  },
+  {
+    "code": 6175,
+    "from": "IXB",
+    "to": "BOM",
+    "departure": "1200",
+    "arrival": "1530"
+  },
+  {
+    "code": 6444,
+    "from": "IXB",
+    "to": "CCU",
+    "departure": "1515",
+    "arrival": "1620"
+  },
+  {
+    "code": 5024,
+    "from": "IXB",
+    "to": "DEL",
+    "departure": "1030",
+    "arrival": "1300"
+  },
+  {
+    "code": 6325,
+    "from": "IXB",
+    "to": "DEL",
+    "departure": "1450",
+    "arrival": "1715"
+  },
+  {
+    "code": 2049,
+    "from": "IXB",
+    "to": "DEL",
+    "departure": "1550",
+    "arrival": "1825"
+  },
+  {
+    "code": 619,
+    "from": "IXB",
+    "to": "HYD",
+    "departure": "950",
+    "arrival": "1240"
+  },
+  {
+    "code": 6346,
+    "from": "IXB",
+    "to": "MAA",
+    "departure": "1240",
+    "arrival": "1545"
+  },
+  {
+    "code": 6178,
+    "from": "IXC",
+    "to": "AMD",
+    "departure": "1440",
+    "arrival": "1640"
+  },
+  {
+    "code": 593,
+    "from": "IXC",
+    "to": "BLR",
+    "departure": "1440",
+    "arrival": "1750"
+  },
+  {
+    "code": 591,
+    "from": "IXC",
+    "to": "BLR",
+    "departure": "2000",
+    "arrival": "2305"
+  },
+  {
+    "code": 5378,
+    "from": "IXC",
+    "to": "BOM",
+    "departure": "745",
+    "arrival": "1015"
+  },
+  {
+    "code": 264,
+    "from": "IXC",
+    "to": "BOM",
+    "departure": "1205",
+    "arrival": "1450"
+  },
+  {
+    "code": 612,
+    "from": "IXC",
+    "to": "BOM",
+    "departure": "1555",
+    "arrival": "1835"
+  },
+  {
+    "code": 376,
+    "from": "IXC",
+    "to": "CCU",
+    "departure": "800",
+    "arrival": "1050"
+  },
+  {
+    "code": 236,
+    "from": "IXC",
+    "to": "DEL",
+    "departure": "730",
+    "arrival": "830"
+  },
+  {
+    "code": 2152,
+    "from": "IXC",
+    "to": "DEL",
+    "departure": "1410",
+    "arrival": "1515"
+  },
+  {
+    "code": 2409,
+    "from": "IXC",
+    "to": "DEL",
+    "departure": "1700",
+    "arrival": "1800"
+  },
+  {
+    "code": 2142,
+    "from": "IXC",
+    "to": "DEL",
+    "departure": "1910",
+    "arrival": "1955"
+  },
+  {
+    "code": 717,
+    "from": "IXC",
+    "to": "GAU",
+    "departure": "1145",
+    "arrival": "1525"
+  },
+  {
+    "code": 389,
+    "from": "IXC",
+    "to": "GOI",
+    "departure": "1425",
+    "arrival": "1710"
+  },
+  {
+    "code": 615,
+    "from": "IXC",
+    "to": "HYD",
+    "departure": "1940",
+    "arrival": "2215"
+  },
+  {
+    "code": 658,
+    "from": "IXC",
+    "to": "JAI",
+    "departure": "1635",
+    "arrival": "1745"
+  },
+  {
+    "code": 6133,
+    "from": "IXC",
+    "to": "LKO",
+    "departure": "825",
+    "arrival": "940"
+  },
+  {
+    "code": 549,
+    "from": "IXC",
+    "to": "MAA",
+    "departure": "1800",
+    "arrival": "2110"
+  },
+  {
+    "code": 6133,
+    "from": "IXC",
+    "to": "PAT",
+    "departure": "825",
+    "arrival": "1215"
+  },
+  {
+    "code": 717,
+    "from": "IXC",
+    "to": "PAT",
+    "departure": "1145",
+    "arrival": "1335"
+  },
+  {
+    "code": 6177,
+    "from": "IXC",
+    "to": "SXR",
+    "departure": "1040",
+    "arrival": "1150"
+  },
+  {
+    "code": 5997,
+    "from": "IXD",
+    "to": "BLR",
+    "departure": "1350",
+    "arrival": "1625"
+  },
+  {
+    "code": 5915,
+    "from": "IXD",
+    "to": "BOM",
+    "departure": "1535",
+    "arrival": "1800"
+  },
+  {
+    "code": 7982,
+    "from": "IXD",
+    "to": "CCU",
+    "departure": "1310",
+    "arrival": "1540"
+  },
+  {
+    "code": 2038,
+    "from": "IXD",
+    "to": "DEL",
+    "departure": "1600",
+    "arrival": "1725"
+  },
+  {
+    "code": 7937,
+    "from": "IXD",
+    "to": "GOP",
+    "departure": "1100",
+    "arrival": "1220"
+  },
+  {
+    "code": 5983,
+    "from": "IXD",
+    "to": "PNQ",
+    "departure": "1210",
+    "arrival": "1440"
+  },
+  {
+    "code": 7989,
+    "from": "IXD",
+    "to": "RPR",
+    "departure": "1130",
+    "arrival": "1320"
+  },
+  {
+    "code": 2176,
+    "from": "IXE",
+    "to": "BLR",
+    "departure": "1210",
+    "arrival": "1305"
+  },
+  {
+    "code": 388,
+    "from": "IXE",
+    "to": "BLR",
+    "departure": "1350",
+    "arrival": "1450"
+  },
+  {
+    "code": 182,
+    "from": "IXE",
+    "to": "BLR",
+    "departure": "1935",
+    "arrival": "2040"
+  },
+  {
+    "code": 6284,
+    "from": "IXE",
+    "to": "BOM",
+    "departure": "1140",
+    "arrival": "1320"
+  },
+  {
+    "code": 6302,
+    "from": "IXE",
+    "to": "BOM",
+    "departure": "2115",
+    "arrival": "2300"
+  },
+  {
+    "code": 6284,
+    "from": "IXE",
+    "to": "DEL",
+    "departure": "1140",
+    "arrival": "1620"
+  },
+  {
+    "code": 2176,
+    "from": "IXE",
+    "to": "DEL",
+    "departure": "1210",
+    "arrival": "1630"
+  },
+  {
+    "code": 6698,
+    "from": "IXE",
+    "to": "DEL",
+    "departure": "2150",
+    "arrival": "50"
+  },
+  {
+    "code": 7164,
+    "from": "IXE",
+    "to": "HYD",
+    "departure": "835",
+    "arrival": "1030"
+  },
+  {
+    "code": 7147,
+    "from": "IXE",
+    "to": "HYD",
+    "departure": "1810",
+    "arrival": "2010"
+  },
+  {
+    "code": 388,
+    "from": "IXE",
+    "to": "LKO",
+    "departure": "1350",
+    "arrival": "1815"
+  },
+  {
+    "code": 7139,
+    "from": "IXE",
+    "to": "MAA",
+    "departure": "1610",
+    "arrival": "1800"
+  },
+  {
+    "code": 7742,
+    "from": "IXG",
+    "to": "BLR",
+    "departure": "1345",
+    "arrival": "1505"
+  },
+  {
+    "code": 7968,
+    "from": "IXG",
+    "to": "HYD",
+    "departure": "1000",
+    "arrival": "1130"
+  },
+  {
+    "code": 653,
+    "from": "IXJ",
+    "to": "AMD",
+    "departure": "1140",
+    "arrival": "1525"
+  },
+  {
+    "code": 2559,
+    "from": "IXJ",
+    "to": "DEL",
+    "departure": "945",
+    "arrival": "1300"
+  },
+  {
+    "code": 653,
+    "from": "IXJ",
+    "to": "DEL",
+    "departure": "1140",
+    "arrival": "1310"
+  },
+  {
+    "code": 2074,
+    "from": "IXJ",
+    "to": "DEL",
+    "departure": "1245",
+    "arrival": "1415"
+  },
+  {
+    "code": 2325,
+    "from": "IXJ",
+    "to": "DEL",
+    "departure": "1430",
+    "arrival": "1600"
+  },
+  {
+    "code": 2172,
+    "from": "IXJ",
+    "to": "DEL",
+    "departure": "1610",
+    "arrival": "1740"
+  },
+  {
+    "code": 2559,
+    "from": "IXJ",
+    "to": "SXR",
+    "departure": "945",
+    "arrival": "1030"
+  },
+  {
+    "code": 296,
+    "from": "IXM",
+    "to": "BLR",
+    "departure": "1230",
+    "arrival": "1340"
+  },
+  {
+    "code": 969,
+    "from": "IXM",
+    "to": "BOM",
+    "departure": "1400",
+    "arrival": "1810"
+  },
+  {
+    "code": 242,
+    "from": "IXM",
+    "to": "BOM",
+    "departure": "1715",
+    "arrival": "1920"
+  },
+  {
+    "code": 296,
+    "from": "IXM",
+    "to": "CCU",
+    "departure": "1230",
+    "arrival": "1650"
+  },
+  {
+    "code": 2156,
+    "from": "IXM",
+    "to": "DEL",
+    "departure": "1630",
+    "arrival": "1940"
+  },
+  {
+    "code": 452,
+    "from": "IXM",
+    "to": "HYD",
+    "departure": "945",
+    "arrival": "1120"
+  },
+  {
+    "code": 969,
+    "from": "IXM",
+    "to": "HYD",
+    "departure": "1400",
+    "arrival": "1545"
+  },
+  {
+    "code": 7682,
+    "from": "IXM",
+    "to": "MAA",
+    "departure": "825",
+    "arrival": "950"
+  },
+  {
+    "code": 173,
+    "from": "IXM",
+    "to": "MAA",
+    "departure": "1115",
+    "arrival": "1230"
+  },
+  {
+    "code": 462,
+    "from": "IXM",
+    "to": "MAA",
+    "departure": "1900",
+    "arrival": "2000"
+  },
+  {
+    "code": 462,
+    "from": "IXM",
+    "to": "MAA",
+    "departure": "1930",
+    "arrival": "2030"
+  },
+  {
+    "code": 258,
+    "from": "IXR",
+    "to": "BLR",
+    "departure": "1655",
+    "arrival": "1930"
+  },
+  {
+    "code": 258,
+    "from": "IXR",
+    "to": "BLR",
+    "departure": "2045",
+    "arrival": "2315"
+  },
+  {
+    "code": 5319,
+    "from": "IXR",
+    "to": "BOM",
+    "departure": "855",
+    "arrival": "1135"
+  },
+  {
+    "code": 5319,
+    "from": "IXR",
+    "to": "BOM",
+    "departure": "930",
+    "arrival": "1210"
+  },
+  {
+    "code": 398,
+    "from": "IXR",
+    "to": "DEL",
+    "departure": "915",
+    "arrival": "1125"
+  },
+  {
+    "code": 398,
+    "from": "IXR",
+    "to": "DEL",
+    "departure": "1020",
+    "arrival": "1225"
+  },
+  {
+    "code": 6184,
+    "from": "IXR",
+    "to": "DEL",
+    "departure": "1925",
+    "arrival": "2125"
+  },
+  {
+    "code": 6184,
+    "from": "IXR",
+    "to": "DEL",
+    "departure": "2020",
+    "arrival": "2220"
+  },
+  {
+    "code": 2083,
+    "from": "IXR",
+    "to": "DEL",
+    "departure": "2030",
+    "arrival": "2230"
+  },
+  {
+    "code": 989,
+    "from": "IXR",
+    "to": "HYD",
+    "departure": "1600",
+    "arrival": "1755"
+  },
+  {
+    "code": 259,
+    "from": "IXR",
+    "to": "HYD",
+    "departure": "2025",
+    "arrival": "2235"
+  },
+  {
+    "code": 6336,
+    "from": "IXR",
+    "to": "MAA",
+    "departure": "840",
+    "arrival": "1105"
+  },
+  {
+    "code": 932,
+    "from": "IXS",
+    "to": "BLR",
+    "departure": "1340",
+    "arrival": "1855"
+  },
+  {
+    "code": 449,
+    "from": "IXS",
+    "to": "CCU",
+    "departure": "1215",
+    "arrival": "1345"
+  },
+  {
+    "code": 932,
+    "from": "IXS",
+    "to": "CCU",
+    "departure": "1340",
+    "arrival": "1520"
+  },
+  {
+    "code": 614,
+    "from": "IXS",
+    "to": "DEL",
+    "departure": "1000",
+    "arrival": "1540"
+  },
+  {
+    "code": 614,
+    "from": "IXS",
+    "to": "GAU",
+    "departure": "1000",
+    "arrival": "1110"
+  },
+  {
+    "code": 449,
+    "from": "IXS",
+    "to": "JAI",
+    "departure": "1215",
+    "arrival": "1700"
+  },
+  {
+    "code": 6269,
+    "from": "IXU",
+    "to": "BLR",
+    "departure": "945",
+    "arrival": "1055"
+  },
+  {
+    "code": 5347,
+    "from": "IXU",
+    "to": "BOM",
+    "departure": "1210",
+    "arrival": "1310"
+  },
+  {
+    "code": 2055,
+    "from": "IXU",
+    "to": "DEL",
+    "departure": "1330",
+    "arrival": "1525"
+  },
+  {
+    "code": 7347,
+    "from": "IXU",
+    "to": "HYD",
+    "departure": "1400",
+    "arrival": "1525"
+  },
+  {
+    "code": 6269,
+    "from": "IXU",
+    "to": "MAA",
+    "departure": "945",
+    "arrival": "1355"
+  },
+  {
+    "code": 624,
+    "from": "IXZ",
+    "to": "HYD",
+    "departure": "1120",
+    "arrival": "1535"
+  },
+  {
+    "code": 624,
+    "from": "IXZ",
+    "to": "MAA",
+    "departure": "1120",
+    "arrival": "1340"
+  },
+  {
+    "code": 918,
+    "from": "JAI",
+    "to": "AMD",
+    "departure": "1340",
+    "arrival": "1450"
+  },
+  {
+    "code": 419,
+    "from": "JAI",
+    "to": "BLR",
+    "departure": "910",
+    "arrival": "1145"
+  },
+  {
+    "code": 996,
+    "from": "JAI",
+    "to": "BLR",
+    "departure": "1320",
+    "arrival": "1615"
+  },
+  {
+    "code": 6268,
+    "from": "JAI",
+    "to": "BLR",
+    "departure": "1940",
+    "arrival": "2240"
+  },
+  {
+    "code": 482,
+    "from": "JAI",
+    "to": "BLR",
+    "departure": "2215",
+    "arrival": "45"
+  },
+  {
+    "code": 5343,
+    "from": "JAI",
+    "to": "BOM",
+    "departure": "830",
+    "arrival": "1040"
+  },
+  {
+    "code": 218,
+    "from": "JAI",
+    "to": "BOM",
+    "departure": "1330",
+    "arrival": "1555"
+  },
+  {
+    "code": 6347,
+    "from": "JAI",
+    "to": "BOM",
+    "departure": "1750",
+    "arrival": "1945"
+  },
+  {
+    "code": 6347,
+    "from": "JAI",
+    "to": "BOM",
+    "departure": "1750",
+    "arrival": "1955"
+  },
+  {
+    "code": 447,
+    "from": "JAI",
+    "to": "CCU",
+    "departure": "730",
+    "arrival": "950"
+  },
+  {
+    "code": 498,
+    "from": "JAI",
+    "to": "CCU",
+    "departure": "1245",
+    "arrival": "1455"
+  },
+  {
+    "code": 303,
+    "from": "JAI",
+    "to": "CCU",
+    "departure": "1700",
+    "arrival": "1905"
+  },
+  {
+    "code": 914,
+    "from": "JAI",
+    "to": "CJB",
+    "departure": "645",
+    "arrival": "1100"
+  },
+  {
+    "code": 419,
+    "from": "JAI",
+    "to": "COK",
+    "departure": "910",
+    "arrival": "1345"
+  },
+  {
+    "code": 129,
+    "from": "JAI",
+    "to": "DED",
+    "departure": "600",
+    "arrival": "855"
+  },
+  {
+    "code": 129,
+    "from": "JAI",
+    "to": "DEL",
+    "departure": "600",
+    "arrival": "700"
+  },
+  {
+    "code": 203,
+    "from": "JAI",
+    "to": "DEL",
+    "departure": "1215",
+    "arrival": "1320"
+  },
+  {
+    "code": 2145,
+    "from": "JAI",
+    "to": "DEL",
+    "departure": "2000",
+    "arrival": "2055"
+  },
+  {
+    "code": 6182,
+    "from": "JAI",
+    "to": "GAU",
+    "departure": "745",
+    "arrival": "1030"
+  },
+  {
+    "code": 903,
+    "from": "JAI",
+    "to": "GOI",
+    "departure": "1920",
+    "arrival": "2145"
+  },
+  {
+    "code": 914,
+    "from": "JAI",
+    "to": "HYD",
+    "departure": "645",
+    "arrival": "845"
+  },
+  {
+    "code": 471,
+    "from": "JAI",
+    "to": "HYD",
+    "departure": "2005",
+    "arrival": "2205"
+  },
+  {
+    "code": 7252,
+    "from": "JAI",
+    "to": "IDR",
+    "departure": "1305",
+    "arrival": "1440"
+  },
+  {
+    "code": 652,
+    "from": "JAI",
+    "to": "IXC",
+    "departure": "1425",
+    "arrival": "1540"
+  },
+  {
+    "code": 447,
+    "from": "JAI",
+    "to": "IXS",
+    "departure": "730",
+    "arrival": "1135"
+  },
+  {
+    "code": 605,
+    "from": "JAI",
+    "to": "MAA",
+    "departure": "2030",
+    "arrival": "2305"
+  },
+  {
+    "code": 7252,
+    "from": "JAI",
+    "to": "NAG",
+    "departure": "1305",
+    "arrival": "1625"
+  },
+  {
+    "code": 203,
+    "from": "JAI",
+    "to": "PAT",
+    "departure": "1215",
+    "arrival": "1550"
+  },
+  {
+    "code": 918,
+    "from": "JAI",
+    "to": "PNQ",
+    "departure": "1340",
+    "arrival": "1640"
+  },
+  {
+    "code": 6413,
+    "from": "JDH",
+    "to": "BLR",
+    "departure": "1405",
+    "arrival": "1640"
+  },
+  {
+    "code": 249,
+    "from": "JDH",
+    "to": "BOM",
+    "departure": "1130",
+    "arrival": "1325"
+  },
+  {
+    "code": 6014,
+    "from": "JDH",
+    "to": "MAA",
+    "departure": "1240",
+    "arrival": "1515"
+  },
+  {
+    "code": 9231,
+    "from": "JED",
+    "to": "BOM",
+    "departure": "1310",
+    "arrival": "2020"
+  },
+  {
+    "code": 9437,
+    "from": "JED",
+    "to": "BOM",
+    "departure": "1820",
+    "arrival": "130"
+  },
+  {
+    "code": 9231,
+    "from": "JED",
+    "to": "CCJ",
+    "departure": "1310",
+    "arrival": "2310"
+  },
+  {
+    "code": 9437,
+    "from": "JED",
+    "to": "LKO",
+    "departure": "1820",
+    "arrival": "615"
+  },
+  {
+    "code": 7993,
+    "from": "KLH",
+    "to": "HYD",
+    "departure": "1430",
+    "arrival": "1610"
+  },
+  {
+    "code": 32,
+    "from": "KTM",
+    "to": "DEL",
+    "departure": "1445",
+    "arrival": "1615"
+  },
+  {
+    "code": 1754,
+    "from": "KWI",
+    "to": "AMD",
+    "departure": "1040",
+    "arrival": "1650"
+  },
+  {
+    "code": 1758,
+    "from": "KWI",
+    "to": "COK",
+    "departure": "110",
+    "arrival": "835"
+  },
+  {
+    "code": 1765,
+    "from": "KWI",
+    "to": "DEL",
+    "departure": "255",
+    "arrival": "925"
+  },
+  {
+    "code": 1752,
+    "from": "KWI",
+    "to": "MAA",
+    "departure": "510",
+    "arrival": "1230"
+  },
+  {
+    "code": 142,
+    "from": "LKO",
+    "to": "AMD",
+    "departure": "535",
+    "arrival": "725"
+  },
+  {
+    "code": 807,
+    "from": "LKO",
+    "to": "AMD",
+    "departure": "1025",
+    "arrival": "1225"
+  },
+  {
+    "code": 121,
+    "from": "LKO",
+    "to": "AMD",
+    "departure": "1940",
+    "arrival": "2150"
+  },
+  {
+    "code": 6389,
+    "from": "LKO",
+    "to": "BLR",
+    "departure": "530",
+    "arrival": "810"
+  },
+  {
+    "code": 279,
+    "from": "LKO",
+    "to": "BLR",
+    "departure": "820",
+    "arrival": "1130"
+  },
+  {
+    "code": 626,
+    "from": "LKO",
+    "to": "BLR",
+    "departure": "1430",
+    "arrival": "1705"
+  },
+  {
+    "code": 541,
+    "from": "LKO",
+    "to": "BLR",
+    "departure": "1900",
+    "arrival": "2200"
+  },
+  {
+    "code": 5342,
+    "from": "LKO",
+    "to": "BOM",
+    "departure": "630",
+    "arrival": "855"
+  },
+  {
+    "code": 5012,
+    "from": "LKO",
+    "to": "BOM",
+    "departure": "910",
+    "arrival": "1140"
+  },
+  {
+    "code": 673,
+    "from": "LKO",
+    "to": "BOM",
+    "departure": "1340",
+    "arrival": "1610"
+  },
+  {
+    "code": 5318,
+    "from": "LKO",
+    "to": "BOM",
+    "departure": "1700",
+    "arrival": "1930"
+  },
+  {
+    "code": 6244,
+    "from": "LKO",
+    "to": "CCU",
+    "departure": "945",
+    "arrival": "1125"
+  },
+  {
+    "code": 6157,
+    "from": "LKO",
+    "to": "CCU",
+    "departure": "1740",
+    "arrival": "1920"
+  },
+  {
+    "code": 732,
+    "from": "LKO",
+    "to": "DED",
+    "departure": "1530",
+    "arrival": "1645"
+  },
+  {
+    "code": 769,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "655",
+    "arrival": "800"
+  },
+  {
+    "code": 2587,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "840",
+    "arrival": "955"
+  },
+  {
+    "code": 243,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "1030",
+    "arrival": "1145"
+  },
+  {
+    "code": 306,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "1410",
+    "arrival": "1525"
+  },
+  {
+    "code": 2425,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "1640",
+    "arrival": "1745"
+  },
+  {
+    "code": 5004,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "1830",
+    "arrival": "1945"
+  },
+  {
+    "code": 2085,
+    "from": "LKO",
+    "to": "DEL",
+    "departure": "2030",
+    "arrival": "2135"
+  },
+  {
+    "code": 8456,
+    "from": "LKO",
+    "to": "DXB",
+    "departure": "710",
+    "arrival": "1000"
+  },
+  {
+    "code": 396,
+    "from": "LKO",
+    "to": "GOI",
+    "departure": "1525",
+    "arrival": "1750"
+  },
+  {
+    "code": 365,
+    "from": "LKO",
+    "to": "HYD",
+    "departure": "745",
+    "arrival": "950"
+  },
+  {
+    "code": 844,
+    "from": "LKO",
+    "to": "HYD",
+    "departure": "2000",
+    "arrival": "2215"
+  },
+  {
+    "code": 6232,
+    "from": "LKO",
+    "to": "IXC",
+    "departure": "1445",
+    "arrival": "1615"
+  },
+  {
+    "code": 279,
+    "from": "LKO",
+    "to": "IXE",
+    "departure": "820",
+    "arrival": "1320"
+  },
+  {
+    "code": 518,
+    "from": "LKO",
+    "to": "MAA",
+    "departure": "1815",
+    "arrival": "2055"
+  },
+  {
+    "code": 6133,
+    "from": "LKO",
+    "to": "PAT",
+    "departure": "1045",
+    "arrival": "1215"
+  },
+  {
+    "code": 166,
+    "from": "LKO",
+    "to": "PNQ",
+    "departure": "1105",
+    "arrival": "1320"
+  },
+  {
+    "code": 394,
+    "from": "LKO",
+    "to": "RPR",
+    "departure": "620",
+    "arrival": "755"
+  },
+  {
+    "code": 1407,
+    "from": "LKO",
+    "to": "SHJ",
+    "departure": "1515",
+    "arrival": "1825"
+  },
+  {
+    "code": 294,
+    "from": "MAA",
+    "to": "AMD",
+    "departure": "615",
+    "arrival": "850"
+  },
+  {
+    "code": 454,
+    "from": "MAA",
+    "to": "AMD",
+    "departure": "1625",
+    "arrival": "1900"
+  },
+  {
+    "code": 947,
+    "from": "MAA",
+    "to": "BBI",
+    "departure": "635",
+    "arrival": "820"
+  },
+  {
+    "code": 217,
+    "from": "MAA",
+    "to": "BBI",
+    "departure": "1540",
+    "arrival": "1730"
+  },
+  {
+    "code": 6188,
+    "from": "MAA",
+    "to": "BHO",
+    "departure": "1445",
+    "arrival": "1900"
+  },
+  {
+    "code": 6897,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "600",
+    "arrival": "700"
+  },
+  {
+    "code": 6216,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "755",
+    "arrival": "850"
+  },
+  {
+    "code": 6847,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "1000",
+    "arrival": "1045"
+  },
+  {
+    "code": 858,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "1120",
+    "arrival": "1225"
+  },
+  {
+    "code": 522,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "1255",
+    "arrival": "1355"
+  },
+  {
+    "code": 6188,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "1445",
+    "arrival": "1605"
+  },
+  {
+    "code": 516,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "1905",
+    "arrival": "2015"
+  },
+  {
+    "code": 891,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "2010",
+    "arrival": "2120"
+  },
+  {
+    "code": 6005,
+    "from": "MAA",
+    "to": "BLR",
+    "departure": "2120",
+    "arrival": "2250"
+  },
+  {
+    "code": 424,
+    "from": "MAA",
+    "to": "BOM",
+    "departure": "605",
+    "arrival": "830"
+  },
+  {
+    "code": 384,
+    "from": "MAA",
+    "to": "BOM",
+    "departure": "640",
+    "arrival": "1020"
+  },
+  {
+    "code": 6815,
+    "from": "MAA",
+    "to": "BOM",
+    "departure": "1310",
+    "arrival": "1515"
+  },
+  {
+    "code": 5357,
+    "from": "MAA",
+    "to": "BOM",
+    "departure": "1650",
+    "arrival": "1900"
+  },
+  {
+    "code": 7686,
+    "from": "MAA",
+    "to": "CCJ",
+    "departure": "1125",
+    "arrival": "1320"
+  },
+  {
+    "code": 708,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "415",
+    "arrival": "630"
+  },
+  {
+    "code": 797,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "735",
+    "arrival": "945"
+  },
+  {
+    "code": 6285,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "900",
+    "arrival": "1120"
+  },
+  {
+    "code": 115,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "1010",
+    "arrival": "1240"
+  },
+  {
+    "code": 278,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "1800",
+    "arrival": "2020"
+  },
+  {
+    "code": 183,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "1800",
+    "arrival": "2030"
+  },
+  {
+    "code": 116,
+    "from": "MAA",
+    "to": "CCU",
+    "departure": "2210",
+    "arrival": "25"
+  },
+  {
+    "code": 174,
+    "from": "MAA",
+    "to": "CJB",
+    "departure": "545",
+    "arrival": "645"
+  },
+  {
+    "code": 6127,
+    "from": "MAA",
+    "to": "CJB",
+    "departure": "710",
+    "arrival": "820"
+  },
+  {
+    "code": 759,
+    "from": "MAA",
+    "to": "CJB",
+    "departure": "1420",
+    "arrival": "1515"
+  },
+  {
+    "code": 118,
+    "from": "MAA",
+    "to": "CJB",
+    "departure": "1620",
+    "arrival": "1730"
+  },
+  {
+    "code": 923,
+    "from": "MAA",
+    "to": "CJB",
+    "departure": "1925",
+    "arrival": "2040"
+  },
+  {
+    "code": 1201,
+    "from": "MAA",
+    "to": "CMB",
+    "departure": "655",
+    "arrival": "815"
+  },
+  {
+    "code": 7942,
+    "from": "MAA",
+    "to": "CNN",
+    "departure": "1910",
+    "arrival": "2110"
+  },
+  {
+    "code": 327,
+    "from": "MAA",
+    "to": "COK",
+    "departure": "845",
+    "arrival": "1005"
+  },
+  {
+    "code": 525,
+    "from": "MAA",
+    "to": "COK",
+    "departure": "1130",
+    "arrival": "1250"
+  },
+  {
+    "code": 948,
+    "from": "MAA",
+    "to": "COK",
+    "departure": "1130",
+    "arrival": "1250"
+  },
+  {
+    "code": 535,
+    "from": "MAA",
+    "to": "COK",
+    "departure": "1755",
+    "arrival": "1900"
+  },
+  {
+    "code": 6195,
+    "from": "MAA",
+    "to": "COK",
+    "departure": "1825",
+    "arrival": "1945"
+  },
+  {
+    "code": 2066,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "550",
+    "arrival": "835"
+  },
+  {
+    "code": 6235,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "815",
+    "arrival": "1110"
+  },
+  {
+    "code": 2767,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "925",
+    "arrival": "1225"
+  },
+  {
+    "code": 2032,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "1150",
+    "arrival": "1435"
+  },
+  {
+    "code": 2752,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "1705",
+    "arrival": "2000"
+  },
+  {
+    "code": 2029,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "1900",
+    "arrival": "2150"
+  },
+  {
+    "code": 2261,
+    "from": "MAA",
+    "to": "DEL",
+    "departure": "2115",
+    "arrival": "5"
+  },
+  {
+    "code": 1707,
+    "from": "MAA",
+    "to": "DOH",
+    "departure": "30",
+    "arrival": "310"
+  },
+  {
+    "code": 65,
+    "from": "MAA",
+    "to": "DXB",
+    "departure": "505",
+    "arrival": "810"
+  },
+  {
+    "code": 112,
+    "from": "MAA",
+    "to": "GAU",
+    "departure": "850",
+    "arrival": "1145"
+  },
+  {
+    "code": 627,
+    "from": "MAA",
+    "to": "GAU",
+    "departure": "1830",
+    "arrival": "2120"
+  },
+  {
+    "code": 411,
+    "from": "MAA",
+    "to": "GOI",
+    "departure": "1305",
+    "arrival": "1430"
+  },
+  {
+    "code": 7986,
+    "from": "MAA",
+    "to": "HBX",
+    "departure": "840",
+    "arrival": "1050"
+  },
+  {
+    "code": 984,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "510",
+    "arrival": "620"
+  },
+  {
+    "code": 384,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "640",
+    "arrival": "750"
+  },
+  {
+    "code": 493,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "745",
+    "arrival": "855"
+  },
+  {
+    "code": 545,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "745",
+    "arrival": "855"
+  },
+  {
+    "code": 416,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "1055",
+    "arrival": "1225"
+  },
+  {
+    "code": 624,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "1425",
+    "arrival": "1535"
+  },
+  {
+    "code": 6237,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "1545",
+    "arrival": "1710"
+  },
+  {
+    "code": 6108,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "1950",
+    "arrival": "2110"
+  },
+  {
+    "code": 298,
+    "from": "MAA",
+    "to": "HYD",
+    "departure": "2140",
+    "arrival": "2305"
+  },
+  {
+    "code": 6194,
+    "from": "MAA",
+    "to": "IDR",
+    "departure": "1240",
+    "arrival": "1450"
+  },
+  {
+    "code": 6237,
+    "from": "MAA",
+    "to": "IDR",
+    "departure": "1545",
+    "arrival": "1940"
+  },
+  {
+    "code": 112,
+    "from": "MAA",
+    "to": "IXA",
+    "departure": "850",
+    "arrival": "1325"
+  },
+  {
+    "code": 6315,
+    "from": "MAA",
+    "to": "IXB",
+    "departure": "910",
+    "arrival": "1210"
+  },
+  {
+    "code": 548,
+    "from": "MAA",
+    "to": "IXC",
+    "departure": "1405",
+    "arrival": "1710"
+  },
+  {
+    "code": 7232,
+    "from": "MAA",
+    "to": "IXE",
+    "departure": "1345",
+    "arrival": "1540"
+  },
+  {
+    "code": 7681,
+    "from": "MAA",
+    "to": "IXM",
+    "departure": "630",
+    "arrival": "805"
+  },
+  {
+    "code": 172,
+    "from": "MAA",
+    "to": "IXM",
+    "departure": "935",
+    "arrival": "1040"
+  },
+  {
+    "code": 461,
+    "from": "MAA",
+    "to": "IXM",
+    "departure": "1715",
+    "arrival": "1815"
+  },
+  {
+    "code": 461,
+    "from": "MAA",
+    "to": "IXM",
+    "departure": "1755",
+    "arrival": "1900"
+  },
+  {
+    "code": 6335,
+    "from": "MAA",
+    "to": "IXR",
+    "departure": "535",
+    "arrival": "805"
+  },
+  {
+    "code": 6897,
+    "from": "MAA",
+    "to": "IXU",
+    "departure": "600",
+    "arrival": "915"
+  },
+  {
+    "code": 188,
+    "from": "MAA",
+    "to": "IXZ",
+    "departure": "830",
+    "arrival": "1045"
+  },
+  {
+    "code": 603,
+    "from": "MAA",
+    "to": "JAI",
+    "departure": "1710",
+    "arrival": "1945"
+  },
+  {
+    "code": 6013,
+    "from": "MAA",
+    "to": "JDH",
+    "departure": "920",
+    "arrival": "1200"
+  },
+  {
+    "code": 1751,
+    "from": "MAA",
+    "to": "KWI",
+    "departure": "100",
+    "arrival": "410"
+  },
+  {
+    "code": 515,
+    "from": "MAA",
+    "to": "LKO",
+    "departure": "1440",
+    "arrival": "1715"
+  },
+  {
+    "code": 6146,
+    "from": "MAA",
+    "to": "NAG",
+    "departure": "1855",
+    "arrival": "2055"
+  },
+  {
+    "code": 542,
+    "from": "MAA",
+    "to": "NAG",
+    "departure": "2210",
+    "arrival": "2355"
+  },
+  {
+    "code": 6758,
+    "from": "MAA",
+    "to": "PAT",
+    "departure": "1220",
+    "arrival": "1505"
+  },
+  {
+    "code": 912,
+    "from": "MAA",
+    "to": "PNQ",
+    "departure": "1320",
+    "arrival": "1505"
+  },
+  {
+    "code": 7687,
+    "from": "MAA",
+    "to": "RJA",
+    "departure": "1555",
+    "arrival": "1745"
+  },
+  {
+    "code": 6212,
+    "from": "MAA",
+    "to": "RPR",
+    "departure": "1100",
+    "arrival": "1250"
+  },
+  {
+    "code": 53,
+    "from": "MAA",
+    "to": "SIN",
+    "departure": "2200",
+    "arrival": "440"
+  },
+  {
+    "code": 493,
+    "from": "MAA",
+    "to": "STV",
+    "departure": "745",
+    "arrival": "1120"
+  },
+  {
+    "code": 7183,
+    "from": "MAA",
+    "to": "TCR",
+    "departure": "835",
+    "arrival": "1025"
+  },
+  {
+    "code": 7228,
+    "from": "MAA",
+    "to": "TCR",
+    "departure": "1115",
+    "arrival": "1300"
+  },
+  {
+    "code": 7185,
+    "from": "MAA",
+    "to": "TCR",
+    "departure": "1300",
+    "arrival": "1445"
+  },
+  {
+    "code": 6558,
+    "from": "MAA",
+    "to": "TRV",
+    "departure": "945",
+    "arrival": "1110"
+  },
+  {
+    "code": 535,
+    "from": "MAA",
+    "to": "TRV",
+    "departure": "1855",
+    "arrival": "2020"
+  },
+  {
+    "code": 7143,
+    "from": "MAA",
+    "to": "TRZ",
+    "departure": "700",
+    "arrival": "815"
+  },
+  {
+    "code": 7215,
+    "from": "MAA",
+    "to": "TRZ",
+    "departure": "2035",
+    "arrival": "2145"
+  },
+  {
+    "code": 416,
+    "from": "MAA",
+    "to": "UDR",
+    "departure": "1055",
+    "arrival": "1440"
+  },
+  {
+    "code": 7208,
+    "from": "MAA",
+    "to": "VGA",
+    "departure": "1630",
+    "arrival": "1800"
+  },
+  {
+    "code": 513,
+    "from": "MAA",
+    "to": "VNS",
+    "departure": "1015",
+    "arrival": "1250"
+  },
+  {
+    "code": 551,
+    "from": "MAA",
+    "to": "VTZ",
+    "departure": "705",
+    "arrival": "820"
+  },
+  {
+    "code": 6835,
+    "from": "MAA",
+    "to": "VTZ",
+    "departure": "1550",
+    "arrival": "1700"
+  },
+  {
+    "code": 82,
+    "from": "MCT",
+    "to": "BOM",
+    "departure": "2300",
+    "arrival": "245"
+  },
+  {
+    "code": 1847,
+    "from": "MCT",
+    "to": "COK",
+    "departure": "225",
+    "arrival": "730"
+  },
+  {
+    "code": 1785,
+    "from": "MLE",
+    "to": "BOM",
+    "departure": "1405",
+    "arrival": "1740"
+  },
+  {
+    "code": 1796,
+    "from": "MLE",
+    "to": "COK",
+    "departure": "1035",
+    "arrival": "1235"
+  },
+  {
+    "code": 8247,
+    "from": "MLE",
+    "to": "DEL",
+    "departure": "1615",
+    "arrival": "2050"
+  },
+  {
+    "code": 7956,
+    "from": "MYQ",
+    "to": "HYD",
+    "departure": "1050",
+    "arrival": "1250"
+  },
+  {
+    "code": 159,
+    "from": "NAG",
+    "to": "AMD",
+    "departure": "820",
+    "arrival": "940"
+  },
+  {
+    "code": 583,
+    "from": "NAG",
+    "to": "BLR",
+    "departure": "1220",
+    "arrival": "1355"
+  },
+  {
+    "code": 204,
+    "from": "NAG",
+    "to": "BLR",
+    "departure": "1620",
+    "arrival": "1755"
+  },
+  {
+    "code": 618,
+    "from": "NAG",
+    "to": "BLR",
+    "departure": "2115",
+    "arrival": "2305"
+  },
+  {
+    "code": 6404,
+    "from": "NAG",
+    "to": "BOM",
+    "departure": "605",
+    "arrival": "745"
+  },
+  {
+    "code": 6895,
+    "from": "NAG",
+    "to": "BOM",
+    "departure": "750",
+    "arrival": "945"
+  },
+  {
+    "code": 297,
+    "from": "NAG",
+    "to": "BOM",
+    "departure": "1230",
+    "arrival": "1405"
+  },
+  {
+    "code": 472,
+    "from": "NAG",
+    "to": "BOM",
+    "departure": "1700",
+    "arrival": "1840"
+  },
+  {
+    "code": 655,
+    "from": "NAG",
+    "to": "BOM",
+    "departure": "2045",
+    "arrival": "2225"
+  },
+  {
+    "code": 403,
+    "from": "NAG",
+    "to": "CCU",
+    "departure": "645",
+    "arrival": "825"
+  },
+  {
+    "code": 327,
+    "from": "NAG",
+    "to": "COK",
+    "departure": "615",
+    "arrival": "1005"
+  },
+  {
+    "code": 505,
+    "from": "NAG",
+    "to": "DEL",
+    "departure": "700",
+    "arrival": "835"
+  },
+  {
+    "code": 2039,
+    "from": "NAG",
+    "to": "DEL",
+    "departure": "910",
+    "arrival": "1105"
+  },
+  {
+    "code": 2149,
+    "from": "NAG",
+    "to": "DEL",
+    "departure": "1600",
+    "arrival": "1745"
+  },
+  {
+    "code": 2199,
+    "from": "NAG",
+    "to": "DEL",
+    "departure": "2100",
+    "arrival": "2250"
+  },
+  {
+    "code": 919,
+    "from": "NAG",
+    "to": "GOI",
+    "departure": "2050",
+    "arrival": "2240"
+  },
+  {
+    "code": 7746,
+    "from": "NAG",
+    "to": "HYD",
+    "departure": "1650",
+    "arrival": "1830"
+  },
+  {
+    "code": 7251,
+    "from": "NAG",
+    "to": "IDR",
+    "departure": "900",
+    "arrival": "1020"
+  },
+  {
+    "code": 7251,
+    "from": "NAG",
+    "to": "JAI",
+    "departure": "900",
+    "arrival": "1240"
+  },
+  {
+    "code": 327,
+    "from": "NAG",
+    "to": "MAA",
+    "departure": "615",
+    "arrival": "800"
+  },
+  {
+    "code": 6149,
+    "from": "NAG",
+    "to": "MAA",
+    "departure": "715",
+    "arrival": "850"
+  },
+  {
+    "code": 915,
+    "from": "NAG",
+    "to": "PNQ",
+    "departure": "735",
+    "arrival": "900"
+  },
+  {
+    "code": 6104,
+    "from": "NAG",
+    "to": "PNQ",
+    "departure": "1140",
+    "arrival": "1305"
+  },
+  {
+    "code": 6852,
+    "from": "PAT",
+    "to": "AMD",
+    "departure": "1810",
+    "arrival": "2040"
+  },
+  {
+    "code": 474,
+    "from": "PAT",
+    "to": "BLR",
+    "departure": "545",
+    "arrival": "855"
+  },
+  {
+    "code": 805,
+    "from": "PAT",
+    "to": "BLR",
+    "departure": "1540",
+    "arrival": "1820"
+  },
+  {
+    "code": 6839,
+    "from": "PAT",
+    "to": "BLR",
+    "departure": "2045",
+    "arrival": "2330"
+  },
+  {
+    "code": 793,
+    "from": "PAT",
+    "to": "BLR",
+    "departure": "2325",
+    "arrival": "200"
+  },
+  {
+    "code": 5374,
+    "from": "PAT",
+    "to": "BOM",
+    "departure": "1125",
+    "arrival": "1420"
+  },
+  {
+    "code": 762,
+    "from": "PAT",
+    "to": "BOM",
+    "departure": "1430",
+    "arrival": "1705"
+  },
+  {
+    "code": 634,
+    "from": "PAT",
+    "to": "CCU",
+    "departure": "1425",
+    "arrival": "1615"
+  },
+  {
+    "code": 6107,
+    "from": "PAT",
+    "to": "CCU",
+    "departure": "2010",
+    "arrival": "2115"
+  },
+  {
+    "code": 724,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "540",
+    "arrival": "735"
+  },
+  {
+    "code": 6367,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "815",
+    "arrival": "955"
+  },
+  {
+    "code": 2764,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "1320",
+    "arrival": "1530"
+  },
+  {
+    "code": 736,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "1640",
+    "arrival": "1840"
+  },
+  {
+    "code": 508,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "1940",
+    "arrival": "2145"
+  },
+  {
+    "code": 2724,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "2155",
+    "arrival": "2315"
+  },
+  {
+    "code": 501,
+    "from": "PAT",
+    "to": "DEL",
+    "departure": "2315",
+    "arrival": "110"
+  },
+  {
+    "code": 717,
+    "from": "PAT",
+    "to": "GAU",
+    "departure": "1415",
+    "arrival": "1525"
+  },
+  {
+    "code": 292,
+    "from": "PAT",
+    "to": "HYD",
+    "departure": "1340",
+    "arrival": "1600"
+  },
+  {
+    "code": 6529,
+    "from": "PAT",
+    "to": "HYD",
+    "departure": "2045",
+    "arrival": "2305"
+  },
+  {
+    "code": 6232,
+    "from": "PAT",
+    "to": "IXC",
+    "departure": "1300",
+    "arrival": "1615"
+  },
+  {
+    "code": 736,
+    "from": "PAT",
+    "to": "IXC",
+    "departure": "1640",
+    "arrival": "2020"
+  },
+  {
+    "code": 718,
+    "from": "PAT",
+    "to": "IXC",
+    "departure": "1810",
+    "arrival": "2015"
+  },
+  {
+    "code": 6232,
+    "from": "PAT",
+    "to": "LKO",
+    "departure": "1300",
+    "arrival": "1405"
+  },
+  {
+    "code": 6239,
+    "from": "PAT",
+    "to": "MAA",
+    "departure": "1555",
+    "arrival": "1845"
+  },
+  {
+    "code": 917,
+    "from": "PNQ",
+    "to": "AMD",
+    "departure": "950",
+    "arrival": "1110"
+  },
+  {
+    "code": 402,
+    "from": "PNQ",
+    "to": "ATQ",
+    "departure": "1010",
+    "arrival": "1450"
+  },
+  {
+    "code": 954,
+    "from": "PNQ",
+    "to": "BLR",
+    "departure": "900",
+    "arrival": "1025"
+  },
+  {
+    "code": 319,
+    "from": "PNQ",
+    "to": "BLR",
+    "departure": "1600",
+    "arrival": "1735"
+  },
+  {
+    "code": 103,
+    "from": "PNQ",
+    "to": "BLR",
+    "departure": "1935",
+    "arrival": "2115"
+  },
+  {
+    "code": 124,
+    "from": "PNQ",
+    "to": "CCU",
+    "departure": "1645",
+    "arrival": "1915"
+  },
+  {
+    "code": 722,
+    "from": "PNQ",
+    "to": "COK",
+    "departure": "1805",
+    "arrival": "1955"
+  },
+  {
+    "code": 6571,
+    "from": "PNQ",
+    "to": "DEL",
+    "departure": "815",
+    "arrival": "1035"
+  },
+  {
+    "code": 402,
+    "from": "PNQ",
+    "to": "DEL",
+    "departure": "1010",
+    "arrival": "1230"
+  },
+  {
+    "code": 272,
+    "from": "PNQ",
+    "to": "DEL",
+    "departure": "1510",
+    "arrival": "1730"
+  },
+  {
+    "code": 6517,
+    "from": "PNQ",
+    "to": "HYD",
+    "departure": "1055",
+    "arrival": "1205"
+  },
+  {
+    "code": 815,
+    "from": "PNQ",
+    "to": "HYD",
+    "departure": "1425",
+    "arrival": "1535"
+  },
+  {
+    "code": 5984,
+    "from": "PNQ",
+    "to": "IXD",
+    "departure": "1250",
+    "arrival": "1525"
+  },
+  {
+    "code": 917,
+    "from": "PNQ",
+    "to": "JAI",
+    "departure": "950",
+    "arrival": "1300"
+  },
+  {
+    "code": 882,
+    "from": "PNQ",
+    "to": "LKO",
+    "departure": "1410",
+    "arrival": "1700"
+  },
+  {
+    "code": 911,
+    "from": "PNQ",
+    "to": "MAA",
+    "departure": "910",
+    "arrival": "1110"
+  },
+  {
+    "code": 6279,
+    "from": "PNQ",
+    "to": "NAG",
+    "departure": "1350",
+    "arrival": "1515"
+  },
+  {
+    "code": 916,
+    "from": "PNQ",
+    "to": "NAG",
+    "departure": "1710",
+    "arrival": "1840"
+  },
+  {
+    "code": 7113,
+    "from": "RJA",
+    "to": "BLR",
+    "departure": "900",
+    "arrival": "1110"
+  },
+  {
+    "code": 7685,
+    "from": "RJA",
+    "to": "BLR",
+    "departure": "1905",
+    "arrival": "2105"
+  },
+  {
+    "code": 7119,
+    "from": "RJA",
+    "to": "HYD",
+    "departure": "955",
+    "arrival": "1115"
+  },
+  {
+    "code": 7125,
+    "from": "RJA",
+    "to": "HYD",
+    "departure": "1415",
+    "arrival": "1530"
+  },
+  {
+    "code": 7237,
+    "from": "RJA",
+    "to": "HYD",
+    "departure": "1605",
+    "arrival": "1740"
+  },
+  {
+    "code": 7126,
+    "from": "RJA",
+    "to": "HYD",
+    "departure": "2115",
+    "arrival": "2240"
+  },
+  {
+    "code": 7688,
+    "from": "RJA",
+    "to": "MAA",
+    "departure": "1805",
+    "arrival": "1940"
+  },
+  {
+    "code": 7295,
+    "from": "RPR",
+    "to": "AMD",
+    "departure": "1010",
+    "arrival": "1410"
+  },
+  {
+    "code": 382,
+    "from": "RPR",
+    "to": "BLR",
+    "departure": "1110",
+    "arrival": "1310"
+  },
+  {
+    "code": 492,
+    "from": "RPR",
+    "to": "BLR",
+    "departure": "1600",
+    "arrival": "1750"
+  },
+  {
+    "code": 465,
+    "from": "RPR",
+    "to": "BOM",
+    "departure": "1410",
+    "arrival": "1610"
+  },
+  {
+    "code": 6357,
+    "from": "RPR",
+    "to": "BOM",
+    "departure": "2005",
+    "arrival": "2205"
+  },
+  {
+    "code": 241,
+    "from": "RPR",
+    "to": "CCU",
+    "departure": "1630",
+    "arrival": "1740"
+  },
+  {
+    "code": 7265,
+    "from": "RPR",
+    "to": "CCU",
+    "departure": "2100",
+    "arrival": "2255"
+  },
+  {
+    "code": 2195,
+    "from": "RPR",
+    "to": "DEL",
+    "departure": "930",
+    "arrival": "1135"
+  },
+  {
+    "code": 2292,
+    "from": "RPR",
+    "to": "DEL",
+    "departure": "1310",
+    "arrival": "1510"
+  },
+  {
+    "code": 2092,
+    "from": "RPR",
+    "to": "DEL",
+    "departure": "1455",
+    "arrival": "1655"
+  },
+  {
+    "code": 511,
+    "from": "RPR",
+    "to": "DEL",
+    "departure": "1730",
+    "arrival": "1935"
+  },
+  {
+    "code": 2454,
+    "from": "RPR",
+    "to": "DEL",
+    "departure": "1930",
+    "arrival": "2130"
+  },
+  {
+    "code": 7308,
+    "from": "RPR",
+    "to": "HYD",
+    "departure": "1350",
+    "arrival": "1605"
+  },
+  {
+    "code": 7248,
+    "from": "RPR",
+    "to": "HYD",
+    "departure": "1830",
+    "arrival": "2040"
+  },
+  {
+    "code": 7295,
+    "from": "RPR",
+    "to": "IDR",
+    "departure": "1010",
+    "arrival": "1215"
+  },
+  {
+    "code": 7932,
+    "from": "RPR",
+    "to": "IXD",
+    "departure": "900",
+    "arrival": "1050"
+  },
+  {
+    "code": 395,
+    "from": "RPR",
+    "to": "LKO",
+    "departure": "830",
+    "arrival": "955"
+  },
+  {
+    "code": 6213,
+    "from": "RPR",
+    "to": "MAA",
+    "departure": "1320",
+    "arrival": "1510"
+  },
+  {
+    "code": 1026,
+    "from": "RUH",
+    "to": "CCJ",
+    "departure": "750",
+    "arrival": "1530"
+  },
+  {
+    "code": 5424,
+    "from": "RUH",
+    "to": "DEL",
+    "departure": "1910",
+    "arrival": "200"
+  },
+  {
+    "code": 5424,
+    "from": "RUH",
+    "to": "LKO",
+    "departure": "1910",
+    "arrival": "600"
+  },
+  {
+    "code": 2095,
+    "from": "SAG",
+    "to": "DEL",
+    "departure": "1335",
+    "arrival": "1535"
+  },
+  {
+    "code": 7246,
+    "from": "SAG",
+    "to": "HYD",
+    "departure": "1200",
+    "arrival": "1340"
+  },
+  {
+    "code": 8417,
+    "from": "SHJ",
+    "to": "DEL",
+    "departure": "45",
+    "arrival": "545"
+  },
+  {
+    "code": 1406,
+    "from": "SHJ",
+    "to": "HYD",
+    "departure": "1925",
+    "arrival": "15"
+  },
+  {
+    "code": 1412,
+    "from": "SHJ",
+    "to": "LKO",
+    "departure": "415",
+    "arrival": "920"
+  },
+  {
+    "code": 1402,
+    "from": "SHJ",
+    "to": "TRV",
+    "departure": "150",
+    "arrival": "730"
+  },
+  {
+    "code": 29,
+    "from": "SIN",
+    "to": "BOM",
+    "departure": "1100",
+    "arrival": "1425"
+  },
+  {
+    "code": 54,
+    "from": "SIN",
+    "to": "MAA",
+    "departure": "550",
+    "arrival": "735"
+  },
+  {
+    "code": 44,
+    "from": "SIN",
+    "to": "TRZ",
+    "departure": "1340",
+    "arrival": "1550"
+  },
+  {
+    "code": 5036,
+    "from": "STV",
+    "to": "BLR",
+    "departure": "1140",
+    "arrival": "1350"
+  },
+  {
+    "code": 607,
+    "from": "STV",
+    "to": "BLR",
+    "departure": "2115",
+    "arrival": "2315"
+  },
+  {
+    "code": 357,
+    "from": "STV",
+    "to": "CCU",
+    "departure": "1025",
+    "arrival": "1255"
+  },
+  {
+    "code": 5035,
+    "from": "STV",
+    "to": "DEL",
+    "departure": "915",
+    "arrival": "1050"
+  },
+  {
+    "code": 2178,
+    "from": "STV",
+    "to": "DEL",
+    "departure": "1930",
+    "arrival": "2125"
+  },
+  {
+    "code": 6294,
+    "from": "STV",
+    "to": "GOI",
+    "departure": "2050",
+    "arrival": "2215"
+  },
+  {
+    "code": 497,
+    "from": "STV",
+    "to": "HYD",
+    "departure": "1200",
+    "arrival": "1330"
+  },
+  {
+    "code": 497,
+    "from": "STV",
+    "to": "MAA",
+    "departure": "1200",
+    "arrival": "1610"
+  },
+  {
+    "code": 6178,
+    "from": "SXR",
+    "to": "AMD",
+    "departure": "1230",
+    "arrival": "1640"
+  },
+  {
+    "code": 2587,
+    "from": "SXR",
+    "to": "DEL",
+    "departure": "840",
+    "arrival": "1020"
+  },
+  {
+    "code": 2039,
+    "from": "SXR",
+    "to": "DEL",
+    "departure": "1035",
+    "arrival": "1215"
+  },
+  {
+    "code": 2559,
+    "from": "SXR",
+    "to": "DEL",
+    "departure": "1115",
+    "arrival": "1300"
+  },
+  {
+    "code": 2124,
+    "from": "SXR",
+    "to": "DEL",
+    "departure": "1420",
+    "arrival": "1600"
+  },
+  {
+    "code": 2554,
+    "from": "SXR",
+    "to": "DEL",
+    "departure": "1510",
+    "arrival": "1645"
+  },
+  {
+    "code": 2197,
+    "from": "SXR",
+    "to": "DEL",
+    "departure": "1715",
+    "arrival": "1855"
+  },
+  {
+    "code": 6178,
+    "from": "SXR",
+    "to": "IXC",
+    "departure": "1230",
+    "arrival": "1345"
+  },
+  {
+    "code": 7242,
+    "from": "TCR",
+    "to": "BLR",
+    "departure": "920",
+    "arrival": "1105"
+  },
+  {
+    "code": 7184,
+    "from": "TCR",
+    "to": "MAA",
+    "departure": "1055",
+    "arrival": "1225"
+  },
+  {
+    "code": 7229,
+    "from": "TCR",
+    "to": "MAA",
+    "departure": "1335",
+    "arrival": "1520"
+  },
+  {
+    "code": 7186,
+    "from": "TCR",
+    "to": "MAA",
+    "departure": "1515",
+    "arrival": "1655"
+  },
+  {
+    "code": 7317,
+    "from": "TIR",
+    "to": "BLR",
+    "departure": "1830",
+    "arrival": "1940"
+  },
+  {
+    "code": 5359,
+    "from": "TIR",
+    "to": "BOM",
+    "departure": "1020",
+    "arrival": "1410"
+  },
+  {
+    "code": 187,
+    "from": "TIR",
+    "to": "HYD",
+    "departure": "1020",
+    "arrival": "1140"
+  },
+  {
+    "code": 5359,
+    "from": "TIR",
+    "to": "HYD",
+    "departure": "1020",
+    "arrival": "1140"
+  },
+  {
+    "code": 248,
+    "from": "TIR",
+    "to": "HYD",
+    "departure": "1625",
+    "arrival": "1735"
+  },
+  {
+    "code": 7254,
+    "from": "TIR",
+    "to": "HYD",
+    "departure": "1900",
+    "arrival": "2045"
+  },
+  {
+    "code": 7293,
+    "from": "TIR",
+    "to": "VGA",
+    "departure": "1040",
+    "arrival": "1200"
+  },
+  {
+    "code": 7293,
+    "from": "TIR",
+    "to": "VTZ",
+    "departure": "1040",
+    "arrival": "1320"
+  },
+  {
+    "code": 644,
+    "from": "TRV",
+    "to": "AMD",
+    "departure": "1045",
+    "arrival": "1510"
+  },
+  {
+    "code": 483,
+    "from": "TRV",
+    "to": "BLR",
+    "departure": "1000",
+    "arrival": "1125"
+  },
+  {
+    "code": 6147,
+    "from": "TRV",
+    "to": "BLR",
+    "departure": "1805",
+    "arrival": "1925"
+  },
+  {
+    "code": 232,
+    "from": "TRV",
+    "to": "BOM",
+    "departure": "1850",
+    "arrival": "2125"
+  },
+  {
+    "code": 7976,
+    "from": "TRV",
+    "to": "CNN",
+    "departure": "1350",
+    "arrival": "1515"
+  },
+  {
+    "code": 2106,
+    "from": "TRV",
+    "to": "DEL",
+    "departure": "2205",
+    "arrival": "140"
+  },
+  {
+    "code": 644,
+    "from": "TRV",
+    "to": "HYD",
+    "departure": "1045",
+    "arrival": "1235"
+  },
+  {
+    "code": 312,
+    "from": "TRV",
+    "to": "HYD",
+    "departure": "1930",
+    "arrival": "2115"
+  },
+  {
+    "code": 6344,
+    "from": "TRV",
+    "to": "MAA",
+    "departure": "1150",
+    "arrival": "1325"
+  },
+  {
+    "code": 536,
+    "from": "TRV",
+    "to": "MAA",
+    "departure": "2045",
+    "arrival": "2215"
+  },
+  {
+    "code": 1401,
+    "from": "TRV",
+    "to": "SHJ",
+    "departure": "2200",
+    "arrival": "50"
+  },
+  {
+    "code": 7307,
+    "from": "TRZ",
+    "to": "BLR",
+    "departure": "950",
+    "arrival": "1050"
+  },
+  {
+    "code": 2289,
+    "from": "TRZ",
+    "to": "BLR",
+    "departure": "1935",
+    "arrival": "2040"
+  },
+  {
+    "code": 969,
+    "from": "TRZ",
+    "to": "BOM",
+    "departure": "1400",
+    "arrival": "1810"
+  },
+  {
+    "code": 2289,
+    "from": "TRZ",
+    "to": "DEL",
+    "departure": "1935",
+    "arrival": "25"
+  },
+  {
+    "code": 452,
+    "from": "TRZ",
+    "to": "HYD",
+    "departure": "930",
+    "arrival": "1120"
+  },
+  {
+    "code": 969,
+    "from": "TRZ",
+    "to": "HYD",
+    "departure": "1400",
+    "arrival": "1545"
+  },
+  {
+    "code": 7144,
+    "from": "TRZ",
+    "to": "MAA",
+    "departure": "845",
+    "arrival": "955"
+  },
+  {
+    "code": 7151,
+    "from": "TRZ",
+    "to": "MAA",
+    "departure": "2215",
+    "arrival": "2325"
+  },
+  {
+    "code": 43,
+    "from": "TRZ",
+    "to": "SIN",
+    "departure": "1900",
+    "arrival": "145"
+  },
+  {
+    "code": 651,
+    "from": "UDR",
+    "to": "BLR",
+    "departure": "1615",
+    "arrival": "1830"
+  },
+  {
+    "code": 5324,
+    "from": "UDR",
+    "to": "BOM",
+    "departure": "1340",
+    "arrival": "1525"
+  },
+  {
+    "code": 748,
+    "from": "UDR",
+    "to": "BOM",
+    "departure": "1740",
+    "arrival": "1925"
+  },
+  {
+    "code": 2154,
+    "from": "UDR",
+    "to": "DEL",
+    "departure": "940",
+    "arrival": "1100"
+  },
+  {
+    "code": 2263,
+    "from": "UDR",
+    "to": "DEL",
+    "departure": "1550",
+    "arrival": "1655"
+  },
+  {
+    "code": 5042,
+    "from": "UDR",
+    "to": "DEL",
+    "departure": "1910",
+    "arrival": "2020"
+  },
+  {
+    "code": 6238,
+    "from": "UDR",
+    "to": "HYD",
+    "departure": "1520",
+    "arrival": "1705"
+  },
+  {
+    "code": 6238,
+    "from": "UDR",
+    "to": "MAA",
+    "departure": "1520",
+    "arrival": "1915"
+  },
+  {
+    "code": 506,
+    "from": "VGA",
+    "to": "BLR",
+    "departure": "1600",
+    "arrival": "1720"
+  },
+  {
+    "code": 2184,
+    "from": "VGA",
+    "to": "DEL",
+    "departure": "800",
+    "arrival": "1050"
+  },
+  {
+    "code": 7202,
+    "from": "VGA",
+    "to": "HYD",
+    "departure": "940",
+    "arrival": "1045"
+  },
+  {
+    "code": 7348,
+    "from": "VGA",
+    "to": "HYD",
+    "departure": "1320",
+    "arrival": "1430"
+  },
+  {
+    "code": 7209,
+    "from": "VGA",
+    "to": "HYD",
+    "departure": "1735",
+    "arrival": "1850"
+  },
+  {
+    "code": 7128,
+    "from": "VGA",
+    "to": "HYD",
+    "departure": "2015",
+    "arrival": "2125"
+  },
+  {
+    "code": 7135,
+    "from": "VGA",
+    "to": "MAA",
+    "departure": "1830",
+    "arrival": "2005"
+  },
+  {
+    "code": 7247,
+    "from": "VGA",
+    "to": "TIR",
+    "departure": "1625",
+    "arrival": "1755"
+  },
+  {
+    "code": 7293,
+    "from": "VGA",
+    "to": "VTZ",
+    "departure": "1220",
+    "arrival": "1320"
+  },
+  {
+    "code": 6536,
+    "from": "VNS",
+    "to": "AMD",
+    "departure": "1400",
+    "arrival": "1610"
+  },
+  {
+    "code": 144,
+    "from": "VNS",
+    "to": "BLR",
+    "departure": "1245",
+    "arrival": "1525"
+  },
+  {
+    "code": 354,
+    "from": "VNS",
+    "to": "BLR",
+    "departure": "1900",
+    "arrival": "2125"
+  },
+  {
+    "code": 354,
+    "from": "VNS",
+    "to": "BLR",
+    "departure": "2100",
+    "arrival": "2340"
+  },
+  {
+    "code": 831,
+    "from": "VNS",
+    "to": "BOM",
+    "departure": "1230",
+    "arrival": "1505"
+  },
+  {
+    "code": 579,
+    "from": "VNS",
+    "to": "BOM",
+    "departure": "1545",
+    "arrival": "1820"
+  },
+  {
+    "code": 355,
+    "from": "VNS",
+    "to": "CCU",
+    "departure": "1440",
+    "arrival": "1605"
+  },
+  {
+    "code": 429,
+    "from": "VNS",
+    "to": "CCU",
+    "departure": "1725",
+    "arrival": "1855"
+  },
+  {
+    "code": 2137,
+    "from": "VNS",
+    "to": "DEL",
+    "departure": "1115",
+    "arrival": "1250"
+  },
+  {
+    "code": 2096,
+    "from": "VNS",
+    "to": "DEL",
+    "departure": "1330",
+    "arrival": "1455"
+  },
+  {
+    "code": 521,
+    "from": "VNS",
+    "to": "DEL",
+    "departure": "1745",
+    "arrival": "1920"
+  },
+  {
+    "code": 828,
+    "from": "VNS",
+    "to": "HYD",
+    "departure": "1315",
+    "arrival": "1525"
+  },
+  {
+    "code": 6913,
+    "from": "VNS",
+    "to": "HYD",
+    "departure": "1830",
+    "arrival": "2055"
+  },
+  {
+    "code": 514,
+    "from": "VNS",
+    "to": "MAA",
+    "departure": "1345",
+    "arrival": "1615"
+  },
+  {
+    "code": 287,
+    "from": "VTZ",
+    "to": "BLR",
+    "departure": "735",
+    "arrival": "925"
+  },
+  {
+    "code": 7165,
+    "from": "VTZ",
+    "to": "BLR",
+    "departure": "1340",
+    "arrival": "1555"
+  },
+  {
+    "code": 524,
+    "from": "VTZ",
+    "to": "BLR",
+    "departure": "1855",
+    "arrival": "2045"
+  },
+  {
+    "code": 238,
+    "from": "VTZ",
+    "to": "BOM",
+    "departure": "1835",
+    "arrival": "2100"
+  },
+  {
+    "code": 6955,
+    "from": "VTZ",
+    "to": "CCU",
+    "departure": "1420",
+    "arrival": "1555"
+  },
+  {
+    "code": 2726,
+    "from": "VTZ",
+    "to": "DEL",
+    "departure": "1000",
+    "arrival": "1230"
+  },
+  {
+    "code": 2772,
+    "from": "VTZ",
+    "to": "DEL",
+    "departure": "1940",
+    "arrival": "2215"
+  },
+  {
+    "code": 191,
+    "from": "VTZ",
+    "to": "HYD",
+    "departure": "715",
+    "arrival": "830"
+  },
+  {
+    "code": 742,
+    "from": "VTZ",
+    "to": "HYD",
+    "departure": "1230",
+    "arrival": "1400"
+  },
+  {
+    "code": 315,
+    "from": "VTZ",
+    "to": "HYD",
+    "departure": "1550",
+    "arrival": "1655"
+  },
+  {
+    "code": 326,
+    "from": "VTZ",
+    "to": "HYD",
+    "departure": "1810",
+    "arrival": "1925"
+  },
+  {
+    "code": 608,
+    "from": "VTZ",
+    "to": "HYD",
+    "departure": "2240",
+    "arrival": "15"
+  },
+  {
+    "code": 552,
+    "from": "VTZ",
+    "to": "MAA",
+    "departure": "900",
+    "arrival": "1025"
+  },
+  {
+    "code": 6001,
+    "from": "VTZ",
+    "to": "MAA",
+    "departure": "1740",
+    "arrival": "1900"
+  },
+  {
+    "code": 7247,
+    "from": "VTZ",
+    "to": "TIR",
+    "departure": "1450",
+    "arrival": "1755"
+  },
+  {
+    "code": 7247,
+    "from": "VTZ",
+    "to": "VGA",
+    "departure": "1450",
+    "arrival": "1600"
+  }
+]

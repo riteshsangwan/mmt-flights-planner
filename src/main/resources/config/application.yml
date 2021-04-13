@@ -1,0 +1,48 @@
+############################ application properties start ########################
+
+com.mmt.flights.planner.service-name: @project.name@
+com.mmt.flights.planner.service-version: @project.version@
+
+com.mmt.flights.planner.generic-error-message: "Server failed to process request"
+
+com.mmt.flights.planner.actuator-endpoints-user: ${ACTUATOR_ENDPOINTS_USER}
+com.mmt.flights.planner.actuator-endpoints-user-password: ${ACTUATOR_ENDPOINTS_USER_PASSWORD}
+
+com.mmt.flights.planner.auth.whitelisted-clients: ${API_WHITELISTED_CLIENTS:d1b7eea2-b1d8-4ce5-8073-69ddd38095bb}
+
+########################## application properties end ###########################
+
+
+########################## servlet api properties start #########################
+
+server.servlet.context-path: /
+server.servlet.path: /
+
+########################## servlet api properties end ###########################
+
+######################### common spring/boot properties start ###################
+
+banner.charset: UTF-8
+spring.main.banner-mode: "log"
+
+management.endpoint.health.show-details: "ALWAYS"
+spring.jackson.joda-date-time-format: yyyy-MM-dd'T'HH:mm:ss.SSSZ
+spring.jackson.serialization.WRITE_DATES_AS_TIMESTAMPS: false
+management.endpoints.web.exposure.include: "*"
+server.error.whitelabel.enabled: false
+spring.mvc.throw-exception-if-no-handler-found: true
+spring.resources.add-mappings: false
+
+######################### common spring/boot properties end #####################
+
+################################### WEB SERVER SPECIFIC PROPERTIES START ###################################################
+
+spring.servlet.multipart.max-file-size: -1
+spring.servlet.multipart.max-request-size: -1
+spring.servlet.multipart.resolve-lazily: true
+server.use-forward-headers: true
+
+server.display-name: flights-planner-api
+server.compression.enabled: true
+
+################################### WEB SERVER SPECIFIC PROPERTIES END #####################################################

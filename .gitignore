@@ -1,0 +1,17 @@
+/target/
+/dist/
+.idea/
+*.iml
+.project
+.settings
+.classpath
+.env
+.env.docker
+*.sample
+.DS_Store
+.DS_Store/
+/.DS_Store
+pom-local.xml
+logs/
+/logs
+logs
