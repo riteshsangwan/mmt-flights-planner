@@ -1,0 +1,205 @@
+openapi: 3.0.0
+info:
+  title: flights planner api's
+  description: Plan a route from start to destination
+  version: 0.0.1
+servers:
+  - url: https://api.rajjo.live
+    description: Production api's.
+  - url: http://localhost:8080
+    description: Local server for local testing.
+paths:
+  /api/v1/routes/plan:
+    get:
+      description: Plan a route from start to destination
+      summary: Plan a route from start to destination. The client has an option to specify an additional parameter `k` which signifies that client is only interested in top k routes. The ordering of routes is done using a cost estimate. Cost currently is time it takes to reach destination from start. The faster a route is the higher the order will be for that route.
+      security:
+        - ClientApiKey: []
+      tags: [routes]
+      parameters:
+        - $ref: "#/components/parameters/Start"
+        - $ref: "#/components/parameters/Destination"
+        - $ref: "#/components/parameters/K"
+      responses:
+        200:
+          $ref: '#/components/responses/PlanResponse'
+        400:
+          $ref: '#/components/responses/ClientErrorResponse'
+        500:
+          $ref: '#/components/responses/ErrorResponse'
+components:
+  parameters:
+    Start:
+      name: start
+      in: query
+      description: The start airport code. For ex DEL
+      required: true
+      schema:
+        type: string
+        example: "For ex: DEL. The name must exactly match a valid airport"
+    Destination:
+      name: destination
+      in: query
+      description: The destination airport code. For ex DEL
+      required: true
+      schema:
+        type: string
+        example: "For ex: BOM. The name must exactly match a valid airport"
+    K:
+      name: k
+      in: query
+      description: How many results a client is interested in
+      required: true
+      schema:
+        type: integer
+        format: int64
+        example: "For ex: 5. Means reeturn top 5 routes from start to destination."
+  securitySchemes:
+    ClientApiKey:
+      type: apiKey
+      description: API KEY must be specified as api key in header. This api key validates any api call.
+      name: x-client-api-key
+      in: header
+  responses:
+    NoContentResponse:
+      description: Response returned in case there is no response body
+    ErrorResponse:
+      description: Error response returned by services in case of non 400 status code. Error response means that status code is not 2xx.
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ApiError'
+    ClientErrorResponse:
+      description: Error response returned by services in case of 400 http status code.
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ApiClientError'
+    PlanResponse:
+      description: Response returned from server when a route is plannned.
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Plan'
+  schemas:
+    ApiError:
+      type: object
+      required:
+        - serviceName
+        - serviceVersion
+        - code
+        - message
+      properties:
+        serviceName:
+          type: string
+          description: The service name which has thrown the error.
+        serviceVersion:
+          type: string
+          description: The service version which has thrrow the error.
+        code:
+          type: string
+          description: The error code. Client's must have error codes vocabulary to translate this error code to proper message.
+        message:
+          type: string
+          description: The server defined error message for this error
+        info:
+          type: object
+          description: Any additional terchnical error details that can will be used for debugging. These error details will be submitted for error analytics.
+    ApiClientError:
+      type: object
+      required:
+        - serviceName
+        - serviceVersion
+        - code
+        - message
+      properties:
+        serviceName:
+          type: string
+          description: The service name which has thrown the error.
+        serviceVersion:
+          type: string
+          description: The service version which has thrrow the error.
+        code:
+          type: string
+          description: The error code. Client's must have error codes vocabulary to translate this error code to proper message.
+        message:
+          type: string
+          description: The server defined error message for this error
+        errorDetails:
+          type: array
+          items:
+            $ref: '#/components/schemas/ApiClientErrorDetail'
+    ApiClientErrorDetail:
+      type: object
+      required:
+        - field
+        - message
+      properties:
+        field:
+          type: string
+          description: the field name that has gone wrong.
+        message:
+          type: string
+          description: The message why field has gone wrong.
+    Plan:
+      type: object
+      required:
+        - directFlights
+        - cheapestFlights
+      properties:
+        directFlights:
+          type: array
+          items:
+            $ref: "#/components/schemas/Route"
+        cheapestFlights:
+          type: array
+          items:
+            $ref: "#/components/schemas/Route"
+    Route:
+      type: object
+      required:
+        - cost
+        - flights
+      properties:
+        cost:
+          type: number
+          format: int32
+          description: The total cost (time in mins) to reach destination from start. This includes layover time as well.
+        flights:
+          type: array
+          items:
+            $ref: "#/components/schemas/Flight"
+    Flight:
+      type: object
+      required:
+        - code
+        - departure
+        - arrival
+        - departureAirport
+        - arrivalAirport
+      properties:
+        code:
+          type: string
+          description: The flight code (vendor specific)
+        depature:
+          type: string
+          description: The flight scheduled departure time on HHMM format
+        arrival:
+          type: string
+          description: The flight scheduled arrival time on HHMM format
+        departureAirport:
+          $ref: "#/components/schemas/Airport"
+        arrivalAirport:
+          $ref: "#/components/schemas/Airport"
+    Airport:
+      type: object
+      required:
+        - code
+        - country
+      properties:
+        code:
+          type: string
+          description: Airport code
+        country:
+          type: string
+          description: The country airport is located in
