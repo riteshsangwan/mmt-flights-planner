@@ -17,6 +17,7 @@ com.mmt.flights.planner.auth.whitelisted-clients: ${API_WHITELISTED_CLIENTS:d1b7
 
 server.servlet.context-path: /
 server.servlet.path: /
+server.port: ${PORT:8080}
 
 ########################## servlet api properties end ###########################
 
