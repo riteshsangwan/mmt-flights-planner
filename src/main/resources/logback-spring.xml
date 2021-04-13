@@ -13,25 +13,25 @@
     <springProfile name="prod">
         <!-- configuration to be enabled when the "prod" profile is active -->
         <!-- we can add different appender here like TCP socket appender here to push to ELK or some log aggregator service like splunk -->
-        <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender" additivity="false">
-            <file>/var/log/mmt/planner.log</file>
-            <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-                <!-- daily rollover. Make sure the path matches the one in the file element or else
-                 the rollover logs are placed in the working directory. -->
-                <fileNamePattern>/var/log/mmt/planner_%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+<!--        <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender" additivity="false">-->
+<!--            <file>/var/log/mmt/planner.log</file>-->
+<!--            <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">-->
+<!--                &lt;!&ndash; daily rollover. Make sure the path matches the one in the file element or else-->
+<!--                 the rollover logs are placed in the working directory. &ndash;&gt;-->
+<!--                <fileNamePattern>/var/log/mmt/planner_%d{yyyy-MM-dd}.%i.log</fileNamePattern>-->
 
-                <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
-                    <maxFileSize>5MB</maxFileSize>
-                </timeBasedFileNamingAndTriggeringPolicy>
-                <!-- keep 7 days' worth of history -->
-                <maxHistory>7</maxHistory>
-            </rollingPolicy>
+<!--                <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">-->
+<!--                    <maxFileSize>5MB</maxFileSize>-->
+<!--                </timeBasedFileNamingAndTriggeringPolicy>-->
+<!--                &lt;!&ndash; keep 7 days' worth of history &ndash;&gt;-->
+<!--                <maxHistory>7</maxHistory>-->
+<!--            </rollingPolicy>-->
 
-            <encoder>
-                <charset>UTF-8</charset>
-                <Pattern>${CONSOLE_LOG_PATTERN}</Pattern>
-            </encoder>
-        </appender>
+<!--            <encoder>-->
+<!--                <charset>UTF-8</charset>-->
+<!--                <Pattern>${CONSOLE_LOG_PATTERN}</Pattern>-->
+<!--            </encoder>-->
+<!--        </appender>-->
 
         <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender" additivity="false">
             <encoder>
