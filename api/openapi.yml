@@ -4,7 +4,7 @@ info:
   description: Plan a route from start to destination
   version: 0.0.1
 servers:
-  - url: https://api.rajjo.live
+  - url: https://boiling-garden-56428.herokuapp.com
     description: Production api's.
   - url: http://localhost:8080
     description: Local server for local testing.
